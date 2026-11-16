@@ -127,7 +127,7 @@ Usa solo la normativa y los apuntes adjuntos. Empieza con un supuesto de plazos.
 Cuando acierte, sube la dificultad con un caso de silencio administrativo. Al final, tres preguntas de repaso y qué debo volver a estudiar.
 </div>
 
-[Ver el ejemplo completo](https://sergarb1.github.io/niveles/fp-administracion/)
+[Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-administracion/)
 
 ---
 class: compact-slide

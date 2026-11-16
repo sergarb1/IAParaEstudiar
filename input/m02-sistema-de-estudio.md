@@ -123,7 +123,7 @@ Con las tres fuentes de este cuaderno:
 Resultado: resumen con citas, tabla de conceptos y diez preguntas con referencia. Si hay discrepancia, debe aparecer una advertencia.
 </div>
 
-[Ver el ejemplo completo](https://sergarb1.github.io/niveles/bachillerato/)
+[Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/bachillerato/)
 
 ---
 class: compact-slide

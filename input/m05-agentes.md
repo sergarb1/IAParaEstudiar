@@ -95,7 +95,7 @@ Cada viernes a las 18:00:
 Permisos: lectura de fuentes y escritura solo en «novedades».
 </div>
 
-[Ver el ejemplo completo](https://sergarb1.github.io/niveles/fp-informatica/)
+[Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-informatica/)
 
 ---
 class: compact-slide

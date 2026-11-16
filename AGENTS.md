@@ -61,7 +61,7 @@ Cada módulo de apuntes sigue este orden:
 - Clases disponibles: `.info`, `.warning`, `.success`, `.step`, `.comparison-grid`, `.prompt-box`, `.teacher-note`, `.checklist`, `.two-cols`, `.badge`, `compact-slide`, `sparse-slide`.
 - No dejar líneas en blanco dentro de un `<div>` de componente: el bloque HTML termina y el contenido queda fuera.
 - El cierre va vacío: el layout ya compone el fondo.
-- Cada presentación incluye una diapositiva «Ejemplo práctico» con enlace a `https://sergarb1.github.io/niveles/...`.
+- Cada presentación incluye una diapositiva «Ejemplo práctico» con enlace a `https://sergarb1.github.io/IAParaEstudiar/niveles/...`.
 
 ## Verificación
 
@@ -72,7 +72,7 @@ npm run apuntes:build
 npm run build -- m01-habla-con-la-ia.md --out dist/m01
 ```
 
-El sitio debe generar 20 páginas y no debe haber enlaces internos rotos salvo `/favicon.svg` (resuelto en `public/`). Comprobar que no quedan rutas al sistema de archivos ni enlaces `TODO`.
+El sitio debe generar 20 páginas, con Node 22, y no debe haber enlaces internos rotos. El curso se sirve en `/IAParaEstudiar/`: comprobar que los enlaces Markdown llevan el prefijo (lo aplica `src/integrations/base-links.mjs`) y que no quedan rutas al sistema de archivos ni enlaces `TODO`.
 
 ## Licencia y autoría
 

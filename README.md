@@ -2,7 +2,7 @@
 
 Curso para docentes sobre cómo comunicarse con la inteligencia artificial y cómo enseñar a usarla con criterio. Incluye **apuntes** (Astro + Starlight), **presentaciones resumen** (Slidev, una por módulo) y **ejemplos del tema por nivel educativo**.
 
-El sitio sigue el estilo de [Apuntes PSP](https://sergarb1.github.io/ApuntesPSP/): documentación navegable, ejemplos por etapa y licencia CC BY-SA.
+Sitio publicado: **https://sergarb1.github.io/IAParaEstudiar/**
 
 ## Contenido
 
@@ -18,7 +18,7 @@ Además: ejemplos adaptados a ESO, FP Básica, Bachillerato y FP Superior de Inf
 
 ## Requisitos
 
-- Node.js 20 o superior
+- Node.js 22 (ver `.nvmrc`)
 - `npm`
 
 ## Puesta en marcha
@@ -26,7 +26,7 @@ Además: ejemplos adaptados a ESO, FP Básica, Bachillerato y FP Superior de Inf
 ```bash
 npm install
 
-# Sitio de apuntes (http://localhost:4321)
+# Sitio de apuntes (http://localhost:4321/IAParaEstudiar/)
 npm run apuntes:dev
 
 # Una presentación concreta (http://localhost:3030)
@@ -46,6 +46,7 @@ npm run dev -- m01-habla-con-la-ia.md
 │   │   ├── niveles/            # Ejemplos por nivel educativo
 │   │   ├── docencia/           # Guía didáctica y trabajo final
 │   │   └── recursos/           # Prompts y privacidad
+│   ├── integrations/           # Prefijo de base para enlaces internos
 │   └── styles/custom.css       # Tema del sitio
 ├── input/                      # Markdown fuente de las presentaciones
 ├── m01-…m05-….md               # Entradas Slidev (tema, fuentes, src)
@@ -68,9 +69,9 @@ npm run dev -- m01-habla-con-la-ia.md
 
 ## Publicación
 
-El sitio de apuntes se publica en GitHub Pages compilando con `npm run apuntes:build` y sirviendo `.apuntes-dist/`.
+GitHub Actions compila el sitio con Node 22 y lo publica en GitHub Pages mediante `.github/workflows/deploy.yml`. Cada push a `main` actualiza **https://sergarb1.github.io/IAParaEstudiar/**.
 
-Si el repositorio se publica en un subdirectorio (`usuario.github.io/repositorio/`), añade `base: '/repositorio/'` en `astro.config.mjs` antes de compilar y ajusta los enlaces de las presentaciones.
+El sitio se sirve en el subdirectorio `/IAParaEstudiar/`; ese valor está en `base` dentro de `astro.config.mjs` y los enlaces internos se prefijan automáticamente con `src/integrations/base-links.mjs`.
 
 ## Licencia
 

@@ -1,22 +1,65 @@
-/* IA para estudiar — tema Starlight
-   Estilo plano, azul académico e Inter, coherente con las presentaciones Slidev. */
+/* Hallmark · audit: sloplint · redesign: polish · built: the project
+ * genre: editorial · theme: Starlight · nav: docs sidebar · footer: docs footer
+ * El sistema del curso se mantiene; se corrigieron etiquetas, foco, bordes y movimiento.
+ */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap');
 
 :root {
+  /* Color: todos los valores viven aquí, no en las reglas. */
+  --iac-blue: #2563eb;
+  --iac-blue-strong: #1d4ed8;
+  --iac-blue-deep: #1e3a8a;
+  --iac-blue-soft: #dce9ff;
+  --iac-ink: #0c1424;
+  --iac-paper: #ffffff;
+  --iac-surface: #f6f8fc;
+  --iac-line: #e1e7f0;
+  --iac-muted: #46536a;
+  --iac-amber-bg: #fffbeb;
+  --iac-amber-line: #f59e0b;
+  --iac-amber-ink: #422006;
+  --iac-amber-strong: #92400e;
+  --iac-green-bg: #f0fdf4;
+  --iac-green-line: #22c55e;
+  --iac-green-ink: #14532d;
+  --iac-green-strong: #15803d;
+  --iac-shadow: rgba(15, 23, 42, 0.1);
+  --iac-radius: 12px;
+
   --sl-font: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --sl-font-mono: 'JetBrains Mono', ui-monospace, monospace;
-  --sl-color-accent-low: #dbeafe;
-  --sl-color-accent: #2563eb;
-  --sl-color-accent-high: #1e3a8a;
-  --sl-color-text-accent: #1d4ed8;
+  --sl-color-accent-low: var(--iac-blue-soft);
+  --sl-color-accent: var(--iac-blue);
+  --sl-color-accent-high: var(--iac-blue-deep);
+  --sl-color-text-accent: var(--iac-blue-strong);
 }
 
 :root[data-theme='dark'] {
-  --sl-color-accent-low: #1e3a8a;
+  --iac-ink: #e2e8f0;
+  --iac-paper: #0b1120;
+  --iac-surface: #111827;
+  --iac-line: #334155;
+  --iac-muted: #cbd5e1;
+  --iac-amber-bg: rgba(245, 158, 11, 0.1);
+  --iac-amber-line: rgba(245, 158, 11, 0.45);
+  --iac-amber-ink: #e2e8f0;
+  --iac-amber-strong: #fcd34d;
+  --iac-green-bg: rgba(34, 197, 94, 0.1);
+  --iac-green-line: rgba(34, 197, 94, 0.45);
+  --iac-green-ink: #e2e8f0;
+  --iac-green-strong: #86efac;
+  --iac-shadow: rgba(0, 0, 0, 0.35);
+
+  --sl-color-accent-low: var(--iac-blue-deep);
   --sl-color-accent: #60a5fa;
-  --sl-color-accent-high: #dbeafe;
+  --sl-color-accent-high: var(--iac-blue-soft);
   --sl-color-text-accent: #93c5fd;
+}
+
+html,
+body {
+  overflow-x: clip;
 }
 
 /* ── Tipografía y contenido ─────────────────────────────── */
@@ -29,6 +72,9 @@
 .sl-markdown-content h2,
 .sl-markdown-content h3 {
   letter-spacing: -0.015em;
+  overflow-wrap: break-word;
+  min-width: 0;
+  text-wrap: balance;
 }
 
 .sl-markdown-content h2 {
@@ -48,15 +94,18 @@
 }
 
 .sl-markdown-content blockquote {
-  border-left: 4px solid var(--sl-color-accent);
+  border: 1px solid var(--iac-line);
   background: var(--sl-color-accent-low);
-  border-radius: 0 10px 10px 0;
+  border-radius: var(--iac-radius);
   padding: 0.6rem 1rem;
-  color: var(--sl-color-white);
+  color: var(--iac-ink);
 }
 
-:root[data-theme='light'] .sl-markdown-content blockquote {
-  color: var(--sl-color-black);
+.sl-markdown-content a:focus-visible,
+.course-card:focus-visible,
+.prompt-box:focus-visible {
+  outline: 3px solid var(--sl-color-accent);
+  outline-offset: 3px;
 }
 
 /* ── Ficha del módulo ───────────────────────────────────── */
@@ -68,10 +117,10 @@
 }
 
 .module-meta span {
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   font-weight: 600;
-  border-radius: 999px;
-  padding: 0.3em 0.8em;
+  border-radius: var(--iac-radius);
+  padding: 0.3em 0.7em;
   background: var(--sl-color-accent-low);
   color: var(--sl-color-text-accent);
 }
@@ -86,10 +135,10 @@
 
 .course-card {
   display: block;
-  border: 1px solid var(--sl-color-hairline);
-  border-radius: 14px;
+  border: 1px solid var(--iac-line);
+  border-radius: var(--iac-radius);
   padding: 1.15rem 1.25rem;
-  background: var(--sl-color-gray-6);
+  background: var(--iac-surface);
   color: inherit !important;
   text-decoration: none !important;
   transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
@@ -98,11 +147,15 @@
 .course-card:hover {
   border-color: var(--sl-color-accent);
   transform: translateY(-2px);
-  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.1);
+  box-shadow: 0 8px 22px var(--iac-shadow);
+}
+
+.course-card:active {
+  transform: translateY(0);
 }
 
 .course-card h3 {
-  margin: 0.4rem 0 0.4rem !important;
+  margin: 0 0 0.4rem !important;
   font-size: 1.03rem !important;
   border: none !important;
   padding: 0 !important;
@@ -112,111 +165,69 @@
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.55;
-  color: var(--sl-color-gray-2);
-}
-
-.module-tag {
-  display: inline-block;
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--sl-color-text-accent);
-  background: var(--sl-color-accent-low);
-  border-radius: 999px;
-  padding: 0.25em 0.7em;
+  color: var(--iac-muted);
 }
 
 /* ── Avisos docentes y de ejemplo ───────────────────────── */
 .teacher-note {
-  border: 1px solid #fde68a;
-  border-left: 4px solid #f59e0b;
-  border-radius: 12px;
-  background: #fffbeb;
+  border: 1px solid var(--iac-amber-line);
+  border-radius: var(--iac-radius);
+  background: var(--iac-amber-bg);
   padding: 0.9rem 1.1rem;
   margin: 1.3rem 0;
   font-size: 0.95rem;
-  color: #422006;
+  color: var(--iac-amber-ink);
 }
 
 .teacher-note strong:first-child {
   display: block;
   margin-bottom: 0.3rem;
-  color: #92400e;
-}
-
-:root[data-theme='dark'] .teacher-note {
-  background: rgba(245, 158, 11, 0.1);
-  border-color: rgba(245, 158, 11, 0.45);
-  color: var(--sl-color-gray-1);
-}
-
-:root[data-theme='dark'] .teacher-note strong:first-child {
-  color: #fcd34d;
+  color: var(--iac-amber-strong);
 }
 
 .prompt-box {
-  border: 1px solid var(--sl-color-hairline);
-  border-left: 4px solid var(--sl-color-accent);
-  border-radius: 12px;
-  background: var(--sl-color-gray-6);
+  border: 1px solid var(--iac-line);
+  border-radius: var(--iac-radius);
+  background: var(--iac-surface);
   padding: 0.95rem 1.1rem;
   margin: 1rem 0;
   font-family: var(--sl-font-mono);
   font-size: 0.86rem;
   line-height: 1.65;
   white-space: pre-wrap;
-  color: var(--sl-color-gray-2);
-}
-
-:root[data-theme='dark'] .prompt-box {
-  background: var(--sl-color-gray-6);
-  color: var(--sl-color-gray-1);
+  color: var(--iac-muted);
 }
 
 .prompt-box .label {
   display: block;
   font-family: var(--sl-font);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
   color: var(--sl-color-text-accent);
   margin-bottom: 0.5rem;
 }
 
 .example-result {
-  border: 1px solid #bbf7d0;
-  border-left: 4px solid #22c55e;
-  border-radius: 12px;
-  background: #f0fdf4;
+  border: 1px solid var(--iac-green-line);
+  border-radius: var(--iac-radius);
+  background: var(--iac-green-bg);
   padding: 0.9rem 1.1rem;
   margin: 0.6rem 0 1.5rem;
   font-size: 0.94rem;
-  color: #14532d;
+  color: var(--iac-green-ink);
 }
 
 .example-result strong:first-child {
   display: block;
   margin-bottom: 0.3rem;
-  color: #15803d;
-}
-
-:root[data-theme='dark'] .example-result {
-  background: rgba(34, 197, 94, 0.1);
-  border-color: rgba(34, 197, 94, 0.45);
-  color: var(--sl-color-gray-1);
-}
-
-:root[data-theme='dark'] .example-result strong:first-child {
-  color: #86efac;
+  color: var(--iac-green-strong);
 }
 
 .checklist {
-  border: 1px solid var(--sl-color-hairline);
-  border-radius: 12px;
+  border: 1px solid var(--iac-line);
+  border-radius: var(--iac-radius);
   padding: 1rem 1.2rem;
-  background: var(--sl-color-gray-6);
+  background: var(--iac-surface);
   margin: 1.3rem 0;
 }
 
@@ -227,8 +238,23 @@
 /* ── Portada ────────────────────────────────────────────── */
 .hero .copy h1 {
   letter-spacing: -0.03em;
+  overflow-wrap: break-word;
+  min-width: 0;
+  text-wrap: balance;
 }
 
 .hero .actions a {
-  border-radius: 10px;
+  border-radius: var(--iac-radius);
+}
+
+/* El contenido es visible sin animación y con movimiento reducido. */
+@media (prefers-reduced-motion: reduce) {
+  .course-card {
+    transition: none;
+  }
+
+  .course-card:hover,
+  .course-card:active {
+    transform: none;
+  }
 }

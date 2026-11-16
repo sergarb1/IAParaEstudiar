@@ -163,7 +163,7 @@ Restricciones: usa solo el documento. Si falta un dato, escribe «no consta».
 
 Resultado: tabla de 6–8 filas con tiempos realistas y preguntas que obligan a recordar.
 
-[Ver el ejemplo completo](https://sergarb1.github.io/niveles/eso/)
+[Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/eso/)
 
 ---
 class: compact-slide

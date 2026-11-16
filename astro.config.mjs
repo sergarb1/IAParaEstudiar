@@ -1,12 +1,16 @@
 // @ts-check
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
+import baseLinks from './src/integrations/base-links.mjs'
+
+const base = '/IAParaEstudiar'
 
 export default defineConfig({
   site: 'https://sergarb1.github.io',
+  base,
   outDir: './.apuntes-dist',
-  // Si el curso se publica en un subdirectorio, añade aquí base: '/IAParaEstudiar/'.
   integrations: [
+    baseLinks({ base }),
     starlight({
       title: 'IA para estudiar',
       description:
@@ -15,7 +19,7 @@ export default defineConfig({
       locales: {
         root: { label: 'Español', lang: 'es' },
       },
-      social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/sergarb1' }],
+      social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/sergarb1/IAParaEstudiar' }],
       customCss: ['./src/styles/custom.css'],
       lastUpdated: true,
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
