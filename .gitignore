@@ -1,0 +1,9 @@
+node_modules/
+.apuntes-dist/
+.apuntes-dist/
+.astro/
+dist/
+output/
+.DS_Store
+Thumbs.db
+*.log

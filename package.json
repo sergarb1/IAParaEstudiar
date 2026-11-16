@@ -1,0 +1,23 @@
+{
+  "name": "ia-para-estudiar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Curso «IA para estudiar»: apuntes en Astro Starlight, presentaciones Slidev y ejemplos por nivel educativo",
+  "license": "CC-BY-SA-4.0",
+  "type": "module",
+  "scripts": {
+    "apuntes:dev": "astro dev",
+    "apuntes:build": "astro build",
+    "apuntes:preview": "astro preview",
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "devDependencies": {
+    "@astrojs/starlight": "^0.43.1",
+    "@slidev/cli": "^53.1.0",
+    "@slidev/theme-seriph": "^0.25.0",
+    "astro": "^7.4.12",
+    "playwright-chromium": "^1.63.0"
+  }
+}

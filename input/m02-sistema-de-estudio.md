@@ -1,0 +1,146 @@
+---
+layout: cover
+---
+
+# Construye tu sistema de estudio
+
+## De tus apuntes a una forma de estudiar con IA
+
+---
+class: compact-slide
+---
+
+## Un chatbot que solo lee lo que tú le das
+
+NotebookLM trabaja con **fuentes** que tú subes y responde citando el fragmento.
+
+| Chatbot generalista | NotebookLM |
+| --- | --- |
+| Conocimiento entrenado | Tus documentos |
+| No siempre cita | Cita fuente y fragmento |
+| Puede rellenar huecos | Debe ceñirse a lo aportado |
+| Crear y transformar | Estudiar y comprender |
+
+<div class="info">
+¿La pregunta es «qué dice mi temario»? NotebookLM. ¿Es «ayúdame a redactar»? Un chatbot generalista.
+</div>
+
+---
+class: compact-slide
+---
+
+## Elegir fuentes que merezcan la pena
+
+- Temario, apuntes propios, capítulos, normativa, artículos de referencia.
+- Nada de resúmenes de resúmenes.
+- PDF con texto: si es un escaneo, pásalo por OCR.
+- Nombres de archivo claros: `tema-3-fotosintesis.pdf`.
+- Un cuaderno por unidad, no cuarenta fuentes mezcladas.
+
+<div class="warning">
+La calidad del cuaderno depende de lo que entra en él. La IA no arregla una fuente mala.
+</div>
+
+---
+---
+
+## El flujo de trabajo
+
+<div class="step">
+  <div class="step-number">1</div>
+  <div class="step-content">Crear el cuaderno con el nombre de la unidad.</div>
+</div>
+
+<div class="step">
+  <div class="step-number">2</div>
+  <div class="step-content">Subir las fuentes y esperar a que se procesen.</div>
+</div>
+
+<div class="step">
+  <div class="step-number">3</div>
+  <div class="step-content">Preguntar pidiendo siempre la cita.</div>
+</div>
+
+<div class="step">
+  <div class="step-number">4</div>
+  <div class="step-content">Generar materiales: resumen, preguntas, mapa, audio.</div>
+</div>
+
+<div class="step">
+  <div class="step-number">5</div>
+  <div class="step-content">Estudiar con los materiales, no con el chat.</div>
+</div>
+
+---
+class: compact-slide
+---
+
+## Qué genera y para qué sirve
+
+| Material | Uso | Cuidado |
+| --- | --- | --- |
+| Resumen | Primera pasada | Pierde matices |
+| Guía de estudio | Qué hay que saber | No sustituye al temario |
+| Cuestionario | Recuperación activa | Evita preguntas triviales |
+| Mapa mental | Relaciones entre ideas | Simplifica jerarquías |
+| Audio | Repaso en movimiento | Escuchar no es estudiar |
+
+---
+class: compact-slide
+---
+
+## Tu sistema de estudio
+
+| Momento | Acción | Herramienta |
+| --- | --- | --- |
+| Antes de clase | Mapa general del tema | NotebookLM |
+| En clase | Apuntes propios y dudas | Papel o móvil |
+| Después | Resumen con citas | NotebookLM |
+| Dos días después | Cuestionario y fallos | Cuaderno + papel |
+| Una semana después | Explicar sin mirar | Sin IA |
+| Antes del examen | Simulacro y corrección | Tutor (módulo 3) |
+
+<div class="teacher-note">
+<strong>La clave</strong> La IA aparece en los extremos. El centro del sistema sigue siendo leer, escribir y explicar.
+</div>
+
+---
+class: compact-slide
+---
+
+## Ejemplo práctico
+
+<div class="prompt-box">
+<span class="label">1.º Bachillerato · Biología</span>
+Con las tres fuentes de este cuaderno:
+1. Resumen de 300 palabras con una cita por idea principal.
+2. Tres conceptos que se confunden, con la diferencia en dos líneas.
+3. Diez preguntas de respuesta corta, con la fuente que respalda cada una.
+4. Avísame si las fuentes no coinciden en algún dato.
+</div>
+
+<div class="success">
+Resultado: resumen con citas, tabla de conceptos y diez preguntas con referencia. Si hay discrepancia, debe aparecer una advertencia.
+</div>
+
+[Ver el ejemplo completo](https://sergarb1.github.io/niveles/bachillerato/)
+
+---
+class: compact-slide
+---
+
+## Límites que hay que conocer
+
+- Un PDF escaneado sin OCR da respuestas pobres.
+- Mezclar asignaturas produce respuestas vagas.
+- Las citas pueden interpretar mal el fragmento: **ábrelo**.
+- El audio no sustituye la recuperación activa.
+- Copiar el resumen en un trabajo es plagio, no estudio.
+
+<div class="warning">
+Comprueba dos citas al azar en cada sesión. Si no respaldan la frase, el material no se usa.
+</div>
+
+---
+layout: closing
+---
