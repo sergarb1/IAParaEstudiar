@@ -39,6 +39,8 @@ npm run dev -- m01-habla-con-la-ia.md
 
 ```text
 .
+├── AGENTS.md                   # Reglas de contenido y estilo
+├── HANDOFF.md                  # Estado actual y traspaso operativo
 ├── astro.config.mjs            # Configuración de Astro + Starlight
 ├── src/
 │   ├── content.config.ts       # Colección «docs»

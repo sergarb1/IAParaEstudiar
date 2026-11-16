@@ -9,6 +9,8 @@ Curso de formación docente sobre comunicación con IA y uso académico responsa
 
 Cada módulo incluye, al final de su página, un apartado **Para el docente** con guion, tiempos, dudas previsibles y evaluación.
 
+El estado operativo, la verificación y los siguientes pasos están en [`HANDOFF.md`](HANDOFF.md).
+
 ## Estilo de escritura
 
 - Castellano de España, segunda persona del plural para el alumnado («vais a», «tenéis») y trato directo en las notas al profesorado.
