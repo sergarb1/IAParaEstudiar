@@ -10,7 +10,8 @@
   },
   "scripts": {
     "apuntes:dev": "astro dev",
-    "apuntes:build": "astro build",
+    "presentaciones:build": "node scripts/build-presentaciones.mjs",
+    "apuntes:build": "astro build && node scripts/build-presentaciones.mjs",
     "apuntes:preview": "astro preview",
     "dev": "slidev --open",
     "build": "slidev build",

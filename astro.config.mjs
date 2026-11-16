@@ -43,6 +43,7 @@ export default defineConfig({
             { label: 'Módulo 3 · La IA como profesor', link: '/modulos/3-ia-como-profesor/' },
             { label: 'Módulo 4 · Tutoría y casos', link: '/modulos/4-tutoria-y-casos/' },
             { label: 'Módulo 5 · Agentes para principiantes', link: '/modulos/5-agentes/' },
+            { label: 'Presentaciones', link: '/presentaciones/' },
           ],
         },
         {
@@ -52,23 +53,23 @@ export default defineConfig({
             { label: 'ESO', link: '/niveles/eso/' },
             { label: 'FP Básica', link: '/niveles/fp-basica/' },
             { label: 'Bachillerato', link: '/niveles/bachillerato/' },
-            { label: 'FP Superior · Informática', link: '/niveles/fp-informatica/' },
-            { label: 'FP Superior · Administración', link: '/niveles/fp-administracion/' },
-            { label: 'FP Superior · Comercio', link: '/niveles/fp-comercio/' },
-            { label: 'FP Superior · Turismo', link: '/niveles/fp-turismo/' },
+            { label: 'Ciclos Formativos · Informática', link: '/niveles/fp-informatica/' },
+            { label: 'Ciclos Formativos · Administración', link: '/niveles/fp-administracion/' },
+            { label: 'Ciclos Formativos · Comercio', link: '/niveles/fp-comercio/' },
+            { label: 'Ciclos Formativos · Turismo', link: '/niveles/fp-turismo/' },
           ],
         },
         {
           label: 'Para el profesorado',
           items: [
             { label: 'Guía didáctica', link: '/docencia/guia-didactica/' },
-            { label: 'Trabajo final y rúbrica', link: '/docencia/trabajo-final/' },
           ],
         },
         {
           label: 'Recursos',
           items: [
             { label: 'Biblioteca de prompts', link: '/recursos/biblioteca-de-prompts/' },
+            { label: 'Formas especiales de aprender', link: '/recursos/formas-especiales/' },
             { label: 'Privacidad, ética y evaluación', link: '/recursos/privacidad-y-etica/' },
           ],
         },

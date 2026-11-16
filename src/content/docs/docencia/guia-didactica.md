@@ -9,8 +9,8 @@ Esta guía está pensada para quien imparte el curso, no para quien lo recibe. L
 
 | Elemento | Descripción |
 | --- | --- |
-| Destinatarios | Profesorado de ESO, FP Básica, Bachillerato y FP Superior |
-| Duración | 10 horas (5 sesiones de 2 h) + trabajo final |
+| Destinatarios | Profesorado de ESO, FP Básica, Bachillerato y Ciclos Formativos |
+| Duración | 10 horas (5 sesiones de 2 h) |
 | Modalidad | Presencial con ordenador y móvil, o en línea con sala de vídeo |
 | Requisitos | Cuenta gratuita en al menos una herramienta; ninguna cuenta de pago |
 | Nivel técnico | Ninguno: no se programa |
@@ -50,7 +50,7 @@ La regla de oro: **nunca se muestra una herramienta sin una tarea real**. Si la 
 | 1 | [Habla con la IA](/modulos/1-habla-con-la-ia/) | Prompt vago frente a prompt preciso | Un prompt propio reescrito |
 | 2 | [Sistema de estudio](/modulos/2-sistema-de-estudio/) | Cuaderno con tres fuentes y citas | Un cuaderno con material generado |
 | 3 | [La IA como profesor](/modulos/3-ia-como-profesor/) | Tutor que pregunta y no resuelve | Un tutor configurado y probado |
-| 4 | [Ponlo a prueba](/modulos/4-tutoria-y-casos/) | Clínica de prompts y casos | Análisis de un caso y guion del trabajo |
+| 4 | [Ponlo a prueba](/modulos/4-tutoria-y-casos/) | Clínica de prompts y casos | Análisis de un caso y plan de aplicación |
 | 5 | [Agentes](/modulos/5-agentes/) | Objetivo, permisos y parada | Diseño de un agente en papel |
 
 ## Materiales y preparación
@@ -61,7 +61,6 @@ La regla de oro: **nunca se muestra una herramienta sin una tarea real**. Si la 
 - Cuentas creadas **antes** de la primera sesión (ChatGPT o Gemini, y Google para NotebookLM).
 - Documentos de una unidad real, anonimizados, para las prácticas.
 - Plantilla de prompts y plantilla de diseño de agente impresas.
-- Rúbrica del trabajo final disponible desde la sesión 1.
 - Plan B sin conexión: capturas y una grabación corta de la demostración.
 </div>
 
@@ -72,24 +71,23 @@ La regla de oro: **nunca se muestra una herramienta sin una tarea real**. Si la 
 
 ## Evaluación
 
-La evaluación es formativa durante las sesiones y sumativa al final.
+La evaluación es formativa durante las sesiones y sumativa a lo largo del curso.
 
 | Evidencia | Momento | Peso orientativo |
 | --- | --- | --- |
-| Prompt reescrito con justificación | Sesión 1 | 10 % |
-| Cuaderno con fuentes y cita verificada | Sesión 2 | 15 % |
-| Tutor configurado y transcripción de prueba | Sesión 3 | 15 % |
-| Análisis de un caso de aula | Sesión 4 | 10 % |
-| Diseño de agente en papel | Sesión 5 | 10 % |
-| [Trabajo final](/docencia/trabajo-final/) | Después del curso | 40 % |
+| Prompt reescrito con justificación | Sesión 1 | 20 % |
+| Cuaderno con fuentes y cita verificada | Sesión 2 | 20 % |
+| Tutor configurado y transcripción de prueba | Sesión 3 | 20 % |
+| Análisis de un caso de aula | Sesión 4 | 20 % |
+| Diseño de agente en papel | Sesión 5 | 20 % |
 
 No se califica la calidad estética de los materiales generados, sino la capacidad de **elegir, verificar y explicar**.
 
 ## Adaptaciones
 
-- **Curso de 4 horas:** módulos 1 y 2 completos, demostración de tutor y del trabajo final. El resto, lectura autónoma.
+- **Curso de 4 horas:** módulos 1 y 2 completos, demostración de tutor y de un caso práctico. El resto, lectura autónoma.
 - **Curso de 20 horas:** añadir una sesión de laboratorio por nivel educativo y otra de diseño de actividades.
-- **Sin ordenadores para todo el grupo:** demostración en gran grupo y práctica por parejas con un dispositivo; el trabajo final se hace fuera del aula.
+- **Sin ordenadores para todo el grupo:** demostración en gran grupo y práctica por parejas con un dispositivo; la práctica se completa fuera del aula.
 - **Alumnado con dificultades de lectura:** priorizar los ejemplos por nivel, los prompts ya redactados y las plantillas.
 
 ## Integridad académica y datos
@@ -111,6 +109,5 @@ Desarrollo completo en [Privacidad, ética y evaluación](/recursos/privacidad-y
 - [ ] Cuentas de demostración listas.
 - [ ] Documento anonimizado para la práctica.
 - [ ] Plantilla de prompts impresa.
-- [ ] Rúbrica del trabajo final repartida.
 - [ ] Acuerdo de uso de IA del grupo redactado en la pizarra.
 </div>

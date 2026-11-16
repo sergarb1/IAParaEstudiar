@@ -1,6 +1,6 @@
 ---
 title: Módulo 4 · Ponlo a prueba
-description: "Tutoría en directo, análisis de casos reales y preparación del trabajo final del curso."
+description: "Tutoría en directo, análisis de casos reales y concreción de un plan de aplicación para el aula."
 ---
 
 <div class="module-meta">
@@ -8,14 +8,22 @@ description: "Tutoría en directo, análisis de casos reales y preparación del 
   <span>Sesión 4</span>
   <span>Tutoría en directo</span>
   <span>Casos reales</span>
+  <a class="module-slides" href="/presentaciones/m04/">Presentación</a>
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/modulo-4.svg" alt="Caso de análisis de campaña con la afirmación del 40 % frente a una tabla que muestra un 12 %." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. Primero se clasifica la afirmación; después se decide qué hacer con el trabajo.</figcaption>
+</figure>
 
 ## Qué vas a aprender
 
 - Resolver dudas concretas de los tres primeros módulos.
 - Analizar casos reales de aula con IA, incluidos los que salen mal.
 - Decidir qué hacer cuando un trabajo parece generado por IA.
-- Cerrar el diseño del trabajo final y saber cómo se defiende.
+- Concretar un plan de aplicación para el aula y saber cómo comprobarlo.
 
 ## 1. Formato de la sesión
 
@@ -23,7 +31,7 @@ Esta sesión no introduce contenidos nuevos: se trabaja con lo que cada particip
 
 1. **Clínica de prompts (40 min):** cada persona trae una instrucción que no le ha funcionado. Se mejora en grupo y se prueba en directo.
 2. **Casos de aula (50 min):** se analizan situaciones reales, anonimizadas, con una estructura común: qué pasó, qué hizo el docente, qué alternativa había.
-3. **Trabajo final (30 min):** revisión del guion, dudas de formato y criterios de defensa.
+3. **Plan de aplicación (30 min):** cada persona concreta qué va a cambiar en su aula, con qué grupo y cómo lo comprobará.
 
 ## 2. Clínica de prompts
 
@@ -65,24 +73,7 @@ Un resumen de normativa laboral elimina la excepción que cambia el resultado de
 
 **Qué hacer:** comparar el resumen con el texto legal y localizar qué se ha perdido. Enseñar que resumir es jerarquizar, y que la IA jerarquiza con criterios distintos a los del examen.
 
-## 4. El trabajo final
-
-El trabajo final no es un texto sobre IA: es **un sistema de estudio propio**, probado y documentado. Debe contener:
-
-<div class="checklist">
-
-1. **Contexto:** nivel, materia y grupo real o simulado.
-2. **Problema:** qué querías mejorar (comprensión, repaso, planificación, corrección).
-3. **Sistema:** qué herramientas, qué fuentes y qué rutina semanal.
-4. **Evidencia:** dos ejemplos antes/después con el prompt y el resultado.
-5. **Verificación:** cómo comprobaste los resultados y qué descartaste.
-6. **Límites:** qué no funciona y por qué.
-7. **Transferencia:** cómo lo usaría otro docente de tu nivel.
-</div>
-
-La [rúbrica completa](/docencia/trabajo-final/) detalla los criterios y los niveles de logro. La defensa es breve: cinco minutos y dos preguntas.
-
-## 5. Preguntas que aparecen siempre
+## 4. Preguntas que aparecen siempre
 
 - **«¿Cuánto tiempo hay que dedicar?»** Menos del que parece: un sistema pequeño y usado vale más que uno ambicioso y abandonado.
 - **«¿Puedo usar herramientas que no sean las del curso?»** Sí, si justificas la elección y explicas la verificación.
@@ -91,7 +82,7 @@ La [rúbrica completa](/docencia/trabajo-final/) detalla los criterios y los niv
 
 ## Ejemplo de caso resuelto
 
-**Situación:** en FP Superior de Comercio, un grupo entrega un análisis de campaña con datos de ventas inventados y conclusiones genéricas.
+**Situación:** en Ciclos Formativos de Comercio, un grupo entrega un análisis de campaña con datos de ventas inventados y conclusiones genéricas.
 
 <div class="prompt-box">
 <span class="label">Prompt de revisión</span>
@@ -127,7 +118,7 @@ Una lista de afirmaciones problemáticas clasificadas por tipo, y tres preguntas
 </ol>
 </div>
 
-**Enlace al resultado desarrollado:** [Ejemplo de FP Superior · Comercio](/niveles/fp-comercio/).
+**Enlace al resultado desarrollado:** [Ejemplo de Ciclos Formativos · Comercio](/niveles/fp-comercio/).
 
 ## Para el docente
 
@@ -145,8 +136,8 @@ Una lista de afirmaciones problemáticas clasificadas por tipo, y tres preguntas
 | 10 min | Puesta en común de mejoras | Comparar antes/después |
 | 40 min | Análisis de casos A–D | Repartir un caso por grupo y rotar |
 | 15 min | Debate: integridad académica y detectores | Sin posturas binarias |
-| 15 min | Revisión del trabajo final | Checklist y dudas de formato |
-| — | Cierre | Recordar fechas de entrega |
+| 15 min | Plan de aplicación | Tres medidas, un indicador y una fecha |
+| — | Cierre | Acordar el primer paso de cada plan |
 
 ### Cómo facilitar los casos
 
@@ -159,10 +150,10 @@ Una lista de afirmaciones problemáticas clasificadas por tipo, y tres preguntas
 
 - Participación en la clínica: aportar un prompt real y una mejora concreta.
 - Análisis escrito de un caso con tres medidas adoptadas y su justificación.
-- Borrador del trabajo final con el guion de los siete apartados.
+- Plan de aplicación con tres medidas, un indicador y una fecha.
 
 ### Materiales
 
 - Prompts reales traídos por los participantes (uno por persona).
 - Casos impresos o en documento compartido.
-- Plantilla del trabajo final y rúbrica.
+- Plantilla de plan de aplicación.

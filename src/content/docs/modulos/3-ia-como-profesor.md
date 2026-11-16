@@ -8,7 +8,15 @@ description: "Crear un tutor personalizado con GPTs o Gems, aplicar técnicas de
   <span>Sesión 3</span>
   <span>GPTs · Gems · Compilatio AI</span>
   <span>Requiere cuenta ChatGPT o Gemini</span>
+  <a class="module-slides" href="/presentaciones/m03/">Presentación</a>
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/modulo-3.svg" alt="Secuencia de un tutor: pregunta, intento, pista, explicación y cierre." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. El tutor conduce la sesión, pero el esfuerzo y la respuesta son del alumno.</figcaption>
+</figure>
 
 ## Qué vas a aprender
 
@@ -74,6 +82,11 @@ Con ese texto, el tutor deja de ser una máquina de respuestas y se convierte en
   La IA puede generar preguntas y corregir, pero la memoria se construye al responder, no al leer. Si el tutor te da la respuesta antes de que lo intentes, la sesión no cuenta.
 </div>
 
+<div class="teacher-note">
+  <strong>Cuando el tema no entra</strong>
+  Una explicación ordenada no siempre basta. Puedes abrir el tema con una analogía cercana (un deporte, una serie, una receta) y volver después al concepto. Tienes ejemplos, prompts y límites en <a href="/recursos/formas-especiales/">Formas especiales de aprender</a>.
+</div>
+
 ## 4. Preparar un examen
 
 Un plan de examen realista tiene cuatro piezas:
@@ -127,11 +140,11 @@ Los detectores **no son infalibles**: dan falsos positivos y falsos negativos, y
 
 ## Ejemplo práctico del módulo
 
-**Situación:** el alumnado de FP Superior de Administración prepara un examen de «Gestión de documentación jurídica» con supuestos de plazos y silencio administrativo.
+**Situación:** el alumnado de Ciclos Formativos de Administración prepara un examen de «Gestión de documentación jurídica» con supuestos de plazos y silencio administrativo.
 
 <div class="prompt-box">
 <span class="label">Prompt del tutor</span>
-Actúa como tutor de Gestión de Documentación Jurídica (FP Superior de Administración).
+Actúa como tutor de Gestión de Documentación Jurídica (Ciclos Formativos de Administración).
 
 Usa solo la normativa y los apuntes que te adjunto. Empieza preguntándome un supuesto práctico de plazos. Corrige mi respuesta y, si me equivoco, explícame el artículo o la regla que se aplica. No me des la solución antes de que responda. Cuando acierte, sube la dificultad con un caso de silencio administrativo. Al final, hazme tres preguntas de repaso y dime qué debo volver a estudiar.
 </div>
@@ -152,7 +165,7 @@ Una secuencia de preguntas encadenadas, correcciones con la norma aplicable y un
 <p><strong>Tutor:</strong> Exacto: no se inventa un sentido único. Cierre: repasa el plazo de subsanación, el artículo que lo regula y la regla de silencio de cada procedimiento.</p>
 </div>
 
-**Enlace al resultado desarrollado:** [Ejemplo de FP Superior · Administración](/niveles/fp-administracion/).
+**Enlace al resultado desarrollado:** [Ejemplo de Ciclos Formativos · Administración](/niveles/fp-administracion/).
 
 **Comprobación:** cada corrección se contrasta con el texto de la norma o con los apuntes. Si el tutor cita un artículo que no existe, se descarta y se anota el fallo.
 
@@ -171,10 +184,10 @@ Una secuencia de preguntas encadenadas, correcciones con la norma aplicable y un
 - [ESO](/niveles/eso/): tutor de vocabulario y preguntas de repaso.
 - [FP Básica](/niveles/fp-basica/): instrucciones de taller y comprensión paso a paso.
 - [Bachillerato](/niveles/bachillerato/): simulacro de examen y comentario de texto.
-- [FP Superior · Informática](/niveles/fp-informatica/): depuración guiada y revisión de código.
-- [FP Superior · Administración](/niveles/fp-administracion/): supuestos de plazos y normativa.
-- [FP Superior · Comercio](/niveles/fp-comercio/): objeciones de venta y análisis de campañas.
-- [FP Superior · Turismo](/niveles/fp-turismo/): protocolo y resolución de incidencias.
+- [Ciclos Formativos · Informática](/niveles/fp-informatica/): depuración guiada y revisión de código.
+- [Ciclos Formativos · Administración](/niveles/fp-administracion/): supuestos de plazos y normativa.
+- [Ciclos Formativos · Comercio](/niveles/fp-comercio/): objeciones de venta y análisis de campañas.
+- [Ciclos Formativos · Turismo](/niveles/fp-turismo/): protocolo y resolución de incidencias.
 
 ## Para el docente
 
@@ -193,7 +206,7 @@ Una secuencia de preguntas encadenadas, correcciones con la norma aplicable y un
 | 25 min | Probar el tutor con tres preguntas y ajustar | Detectar si regala respuestas |
 | 20 min | Técnicas: simulacro cronometrado y corrección | Probar recuperación activa en vivo |
 | 15 min | Compilatio AI y política de integridad | Debatir el uso de detectores |
-| 10 min | Cierre y enlace con el trabajo final | Recordar la rúbrica |
+| 10 min | Cierre y transferencia al aula | Cada participante anota una actividad |
 | 5 min | Dudas | — |
 
 ### Dudas previsibles

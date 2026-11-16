@@ -7,6 +7,14 @@ layout: cover
 ## ChatGPT, Gemini, Claude y prompting
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/modulo-1.svg" alt="Esquema del módulo" />
+
+<div class="visual-caption">Rol, contexto, tarea, formato y restricciones: lo que decides antes de escribir.</div>
+
+---
 class: compact-slide
 ---
 
@@ -63,6 +71,19 @@ Tú tomas las decisiones.
 
 </div>
 </div>
+
+---
+layout: image-right
+image: /imagenes/nivel-eso.jpg
+---
+
+## Del aula al prompt
+
+- La misma estructura sirve para Historia, Física o un módulo de FP.
+- Cambia el contexto y el material; no cambies el método.
+- La comprobación sigue siendo tuya.
+
+[Ver el ejemplo de ESO](https://sergarb1.github.io/IAParaEstudiar/niveles/eso/)
 
 ---
 ---

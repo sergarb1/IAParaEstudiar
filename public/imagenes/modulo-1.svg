@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Anatomía de una instrucción precisa</title>
+<desc id="desc">Cinco piezas, de rol a restricciones, conducen a una respuesta verificable.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 1 · Prompting</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">La instrucción que sí funciona</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Cinco piezas que eliminan decisiones improvisadas</text>
+<rect x="64" y="196" width="520" height="344" rx="22" fill="#ffffff" stroke="#e1e7f0"/>
+<text x="92" y="228" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#46536a">LO QUE DECIDES TÚ</text>
+<g font-family="Inter, system-ui, sans-serif">
+  <circle cx="102" cy="260" r="16" fill="#dce9ff"/><text x="102" y="266" text-anchor="middle" font-size="17" font-weight="700" fill="#1d4ed8">1</text>
+  <text x="132" y="258" font-size="22" font-weight="700" fill="#0c1424">Rol</text>
+  <text x="132" y="278" font-size="17" fill="#46536a">Profesor de 4.º de ESO</text>
+  <circle cx="102" cy="314" r="16" fill="#dce9ff"/><text x="102" y="320" text-anchor="middle" font-size="17" font-weight="700" fill="#1d4ed8">2</text>
+  <text x="132" y="312" font-size="22" font-weight="700" fill="#0c1424">Contexto</text>
+  <text x="132" y="332" font-size="17" fill="#46536a">Apuntes y fecha del examen</text>
+  <circle cx="102" cy="368" r="16" fill="#dce9ff"/><text x="102" y="374" text-anchor="middle" font-size="17" font-weight="700" fill="#1d4ed8">3</text>
+  <text x="132" y="366" font-size="22" font-weight="700" fill="#0c1424">Tarea</text>
+  <text x="132" y="386" font-size="17" fill="#46536a">Plan de repaso con preguntas</text>
+  <circle cx="102" cy="422" r="16" fill="#dce9ff"/><text x="102" y="428" text-anchor="middle" font-size="17" font-weight="700" fill="#1d4ed8">4</text>
+  <text x="132" y="420" font-size="22" font-weight="700" fill="#0c1424">Formato</text>
+  <text x="132" y="440" font-size="17" fill="#46536a">Tabla con tiempos y respuestas</text>
+  <circle cx="102" cy="476" r="16" fill="#dce9ff"/><text x="102" y="482" text-anchor="middle" font-size="17" font-weight="700" fill="#1d4ed8">5</text>
+  <text x="132" y="474" font-size="22" font-weight="700" fill="#0c1424">Restricciones</text>
+  <text x="132" y="494" font-size="17" fill="#46536a">Solo el documento; si falta, «no consta»</text>
+</g>
+<path d="M592 360 H638" stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="648" y="218" width="488" height="250" rx="24" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+<path d="M648 348 L628 360 L648 372 Z" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+<g font-family="Inter, system-ui, sans-serif">
+  <text x="680" y="258" font-size="16" font-weight="700" fill="#2563eb">TU PROMPT</text>
+  <text x="680" y="298" font-size="20" fill="#0c1424">Actúa como profesor de Historia.</text>
+  <text x="680" y="334" font-size="20" fill="#0c1424">Usa solo los apuntes adjuntos.</text>
+  <text x="680" y="370" font-size="20" fill="#0c1424">Prepara un plan de 45 minutos.</text>
+  <text x="680" y="406" font-size="20" fill="#0c1424">Si falta un dato, escribe «no consta».</text>
+</g>
+<rect x="648" y="496" width="256" height="44" rx="22" fill="#f0fdf4" stroke="#22c55e"/>
+<text x="676" y="524" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700" fill="#15803d">✓ Respuesta verificable</text>
+<text x="64" y="590" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#46536a">Sin estas piezas, el modelo rellena los huecos por su cuenta.</text>
+</svg>

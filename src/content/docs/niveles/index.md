@@ -1,6 +1,6 @@
 ---
 title: Ejemplos por nivel
-description: "Ejemplos reales de uso de la IA adaptados a ESO, FP Básica, Bachillerato y FP Superior."
+description: "Ejemplos reales de uso de la IA adaptados a ESO, FP Básica, Bachillerato y Ciclos Formativos."
 ---
 
 Estos ejemplos no son ejercicios para el alumnado: son **demostraciones del tema de cada módulo** en un nivel concreto. Cada uno incluye el prompt completo, el resultado esperado, la comprobación que hay que hacer y una nota de adaptación para el docente.
@@ -14,7 +14,7 @@ La idea es que puedas copiar el prompt, cambiar el contenido por el tuyo y lleva
 | ESO | Media, con supervisión | Chatbot + NotebookLM | Edad mínima, datos personales, móvil en el aula |
 | FP Básica | Baja-media, muy guiada | Chatbot con instrucciones simples | Lenguaje claro, apoyo a la comprensión |
 | Bachillerato | Alta | NotebookLM + tutor | Integridad académica, trabajos de investigación |
-| FP Superior | Alta y profesional | Todas | Normativa, datos de empresa, resultados verificables |
+| Ciclos Formativos | Alta y profesional | Todas | Normativa, datos de empresa, resultados verificables |
 
 ## Ejemplos por nivel
 
@@ -22,10 +22,10 @@ La idea es que puedas copiar el prompt, cambiar el contenido por el tuyo y lleva
   <a class="course-card" href="/niveles/eso/"><h3>ESO</h3><p>Plan de repaso de Historia, cuaderno de Biología y tutor de vocabulario.</p></a>
   <a class="course-card" href="/niveles/fp-basica/"><h3>FP Básica</h3><p>Instrucciones de taller, fichas de seguridad y repaso guiado.</p></a>
   <a class="course-card" href="/niveles/bachillerato/"><h3>Bachillerato</h3><p>Comentario de texto, sistema de estudio y trabajo de investigación.</p></a>
-  <a class="course-card" href="/niveles/fp-informatica/"><h3>FP Superior · Informática</h3><p>Depuración guiada, documentación técnica y agente de novedades.</p></a>
-  <a class="course-card" href="/niveles/fp-administracion/"><h3>FP Superior · Administración</h3><p>Documentos, plazos y tutor de normativa.</p></a>
-  <a class="course-card" href="/niveles/fp-comercio/"><h3>FP Superior · Comercio</h3><p>Fichas de producto, campañas y objeciones de venta.</p></a>
-  <a class="course-card" href="/niveles/fp-turismo/"><h3>FP Superior · Turismo</h3><p>Itinerarios, protocolo y atención internacional.</p></a>
+  <a class="course-card" href="/niveles/fp-informatica/"><h3>Ciclos Formativos · Informática</h3><p>Depuración guiada, documentación técnica y agente de novedades.</p></a>
+  <a class="course-card" href="/niveles/fp-administracion/"><h3>Ciclos Formativos · Administración</h3><p>Documentos, plazos y tutor de normativa.</p></a>
+  <a class="course-card" href="/niveles/fp-comercio/"><h3>Ciclos Formativos · Comercio</h3><p>Fichas de producto, campañas y objeciones de venta.</p></a>
+  <a class="course-card" href="/niveles/fp-turismo/"><h3>Ciclos Formativos · Turismo</h3><p>Itinerarios, protocolo y atención internacional.</p></a>
 </div>
 
 ## Cómo leer cada ejemplo

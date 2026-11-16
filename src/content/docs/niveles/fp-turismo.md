@@ -1,13 +1,21 @@
 ---
-title: FP Superior · Turismo
+title: Ciclos Formativos · Turismo
 description: "Ejemplos de IA en Turismo: itinerarios verificados, cuaderno de destino y protocolo de incidencias."
 ---
 
 <div class="module-meta">
-  <span>CFGS Turismo</span>
+  <span>Ciclo Formativo de Turismo</span>
   <span>Nivel profesional</span>
   <span>Datos que caducan</span>
 </div>
+
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-fp-turismo.jpg" alt="Guía turístico hablando a un grupo al aire libre" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">Turismo</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3ATour_guide_-_geograph.org.uk_-_8318296.jpg">Anthony O&#x27;Neil</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, Wikimedia Commons.</figcaption>
+</figure>
 
 ## Qué cambia en Turismo
 

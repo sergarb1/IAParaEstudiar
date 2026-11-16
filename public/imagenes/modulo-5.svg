@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Anatomía de un agente</title>
+<desc id="desc">Objetivo central rodeado de herramientas, contexto, permisos, parada y revisión.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 5 · Agentes</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">Anatomía de un agente</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Un objetivo, cinco límites y una revisión humana</text>
+<rect x="48" y="190" width="1104" height="372" rx="28" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 7"/>
+<text x="72" y="220" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#46536a">PERMISOS MÍNIMOS</text>
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="80" y="238" width="250" height="88" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="104" y="270" font-size="20" font-weight="700" fill="#0c1424">Herramientas</text>
+  <text x="104" y="296" font-size="17" fill="#46536a">Navegador y documentos</text>
+  <rect x="870" y="238" width="250" height="88" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="894" y="270" font-size="20" font-weight="700" fill="#0c1424">Contexto</text>
+  <text x="894" y="296" font-size="17" fill="#46536a">Apuntes y fuentes</text>
+  <rect x="80" y="404" width="250" height="88" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="104" y="436" font-size="20" font-weight="700" fill="#0c1424">Permisos</text>
+  <text x="104" y="462" font-size="17" fill="#46536a">Leer aquí, escribir allí</text>
+  <rect x="870" y="404" width="250" height="88" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="894" y="436" font-size="20" font-weight="700" fill="#0c1424">Parada</text>
+  <text x="894" y="462" font-size="17" fill="#46536a">5 fuentes o 15 minutos</text>
+  <rect x="430" y="282" width="340" height="118" rx="22" fill="#1e3a8a"/>
+  <text x="600" y="320" text-anchor="middle" font-size="16" font-weight="700" fill="#93c5fd">OBJETIVO</text>
+  <text x="600" y="352" text-anchor="middle" font-size="25" font-weight="800" fill="#ffffff">Resumen semanal</text>
+  <text x="600" y="378" text-anchor="middle" font-size="17" fill="#dce9ff">con fuentes y ejemplo</text>
+  <rect x="420" y="462" width="360" height="76" rx="18" fill="#ffffff" stroke="#22c55e" stroke-width="2"/>
+  <text x="600" y="492" text-anchor="middle" font-size="19" font-weight="700" fill="#0c1424">Revisión humana</text>
+  <text x="600" y="515" text-anchor="middle" font-size="16" fill="#46536a">El docente valida antes de publicar</text>
+</g>
+<g stroke="#2563eb" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+  <path d="M330 282 Q380 282 420 318"/>
+  <path d="M870 282 Q820 282 780 318"/>
+  <path d="M330 448 Q380 448 420 410"/>
+  <path d="M870 448 Q820 448 780 410"/>
+  <path d="M600 462 V408"/>
+</g>
+<text x="64" y="604" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#46536a">Sin revisión humana, la autonomía amplifica los errores.</text>
+</svg>

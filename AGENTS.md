@@ -38,8 +38,8 @@ src/content/docs/
 │   ├── 3-ia-como-profesor.md
 │   ├── 4-tutoria-y-casos.md
 │   └── 5-agentes.md
-├── niveles/            # ESO, FPB, Bachillerato y cuatro FP Superiores
-├── docencia/           # Guía didáctica y trabajo final
+├── niveles/            # ESO, FPB, Bachillerato y cuatro ciclos formativos
+├── docencia/           # Guía didáctica
 └── recursos/           # Biblioteca de prompts, privacidad y ética
 ```
 
@@ -61,7 +61,7 @@ Cada módulo de apuntes sigue este orden:
 - Clases disponibles: `.info`, `.warning`, `.success`, `.step`, `.comparison-grid`, `.prompt-box`, `.teacher-note`, `.checklist`, `.two-cols`, `.badge`, `compact-slide`, `sparse-slide`.
 - No dejar líneas en blanco dentro de un `<div>` de componente: el bloque HTML termina y el contenido queda fuera.
 - El cierre va vacío: el layout ya compone el fondo.
-- Cada presentación incluye una diapositiva «Ejemplo práctico» con enlace a `https://sergarb1.github.io/IAParaEstudiar/niveles/...`.
+- Cada presentación incluye una diapositiva visual con su esquema y otra con una foto de contexto. El build de los decks se hace con `npm run presentaciones:build`; `npm run apuntes:build` lo ejecuta después de Astro para publicarlos en `/presentaciones/m01/` a `/presentaciones/m05/`.
 
 ## Verificación
 
@@ -72,7 +72,7 @@ npm run apuntes:build
 npm run build -- m01-habla-con-la-ia.md --out dist/m01
 ```
 
-El sitio debe generar 20 páginas, con Node 22, y no debe haber enlaces internos rotos. El curso se sirve en `/IAParaEstudiar/`: comprobar que los enlaces Markdown llevan el prefijo (lo aplica `src/integrations/base-links.mjs`) y que no quedan rutas al sistema de archivos ni enlaces `TODO`.
+El sitio debe generar 20 páginas y cinco decks en `.apuntes-dist/presentaciones/`, con Node 22, y no debe haber enlaces internos rotos. El curso se sirve en `/IAParaEstudiar/`: comprobar que los enlaces Markdown llevan el prefijo (lo aplica `src/integrations/base-links.mjs`) y que no quedan rutas al sistema de archivos ni enlaces `TODO`.
 
 ## Licencia y autoría
 

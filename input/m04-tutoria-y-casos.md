@@ -7,6 +7,14 @@ layout: cover
 ## Tutoría, dudas y casos prácticos
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/modulo-4.svg" alt="Esquema del módulo" />
+
+<div class="visual-caption">La tabla desmiente el 40 %: primero se clasifica, después se corrige.</div>
+
+---
 ---
 
 ## La sesión no introduce contenidos nuevos
@@ -23,7 +31,7 @@ layout: cover
 
 <div class="step">
   <div class="step-number">3</div>
-  <div class="step-content"><strong>Trabajo final (30 min):</strong> guion, dudas de formato y criterios de defensa.</div>
+  <div class="step-content"><strong>Plan de aplicación (30 min):</strong> qué cambiarás en tu aula, con qué grupo y cómo lo comprobarás.</div>
 </div>
 
 <div class="info">
@@ -66,36 +74,48 @@ El foco es el proceso de aprendizaje, no el juicio al alumnado. Un caso mal gest
 </div>
 
 ---
+layout: image-right
+image: /imagenes/nivel-fp-comercio.jpg
+---
+
+## Del caso al plan
+
+- Un caso sirve para decidir, no para juzgar.
+- Clasifica la afirmación antes de corregir.
+- Cierra con tres medidas y una fecha.
+
+[Ver el ejemplo de Comercio](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-comercio/)
+
+---
 class: compact-slide
 ---
 
-## El trabajo final es un sistema, no un texto
+## Tu plan de aplicación
 
-1. **Contexto:** nivel, materia, grupo.
-2. **Problema:** qué querías mejorar.
-3. **Sistema:** herramientas, fuentes y rutina.
-4. **Evidencia:** dos ejemplos antes/después.
-5. **Verificación:** cómo comprobaste y qué descartaste.
-6. **Límites y transferencia:** qué no funciona y cómo lo aplicaría otro docente.
+1. **Qué:** una práctica concreta que vas a cambiar.
+2. **Con quién:** nivel, materia y grupo.
+3. **Cómo:** herramienta, fuentes y pasos.
+4. **Prueba:** qué observarás para saber si funciona.
+5. **Cuándo:** fecha del primer intento.
 
 <div class="info">
-Extensión: 6–10 páginas · Defensa: 5 minutos y dos preguntas · Rúbrica disponible en los apuntes.
+No es un entregable: es una decisión que puedes ejecutar la semana siguiente.
 </div>
 
 ---
 class: compact-slide
 ---
 
-## Defensa: preguntas habituales
+## Preguntas para cerrar
 
-- ¿Qué descartaste y por qué?
-- ¿Cómo sabes que el resultado era correcto?
-- ¿Qué haría otro docente el primer día?
-- ¿Qué parte no usarías con menores?
-- Si la herramienta desapareciera, ¿qué quedaría?
+- ¿Qué te llevas que no sabías al empezar?
+- ¿Qué probarás primero y qué necesitas para hacerlo?
+- ¿Qué no usarías con menores y por qué?
+- ¿Cómo comprobarás que la IA no te está sustituyendo?
+- Si la herramienta desapareciera, ¿qué parte del método seguiría en pie?
 
 <div class="success">
-Una defensa buena reconoce límites. Un sistema honesto vale más que uno perfecto sobre el papel.
+Un método honesto reconoce límites. Lo que se queda contigo es el criterio, no la herramienta.
 </div>
 
 ---

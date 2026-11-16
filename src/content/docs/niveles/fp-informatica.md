@@ -1,13 +1,21 @@
 ---
-title: FP Superior · Informática
-description: "Ejemplos de IA en ciclos superiores de Informática: depuración guiada, documentación técnica y agentes."
+title: Ciclos Formativos · Informática
+description: "Ejemplos de IA en ciclos formativos de Informática: depuración guiada, documentación técnica y agentes."
 ---
 
 <div class="module-meta">
-  <span>CFGS Informática</span>
+  <span>Ciclo Formativo de Informática</span>
   <span>DAW · DAM · ASIR</span>
   <span>Nivel profesional</span>
 </div>
+
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-fp-informatica.jpg" alt="Laboratorio de informática con filas de ordenadores" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">Informática</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3AComputer_Laboratory.jpg">Kiruthikapalani</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, Wikimedia Commons.</figcaption>
+</figure>
 
 ## Qué cambia en Informática
 
@@ -22,7 +30,7 @@ description: "Ejemplos de IA en ciclos superiores de Informática: depuración g
 
 <div class="prompt-box">
 <span class="label">Prompt</span>
-Actúa como tutor de programación de FP Superior.
+Actúa como tutor de programación de Ciclos Formativos.
 
 Te adjunto el código, el mensaje de error y un fragmento del CSV.
 No me des la solución ni reescribas el archivo.

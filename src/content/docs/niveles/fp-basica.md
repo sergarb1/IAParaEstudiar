@@ -9,6 +9,14 @@ description: "Ejemplos de IA en FP Básica con lenguaje claro y apoyo a la compr
   <span>Muy guiado</span>
 </div>
 
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-fp-basica.jpg" alt="Banco de taller con herramientas de carpintería ordenadas" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">FP Básica</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3ATopmast_Studio_%28WORKSHOP%29_Swiss_Tools_at_the_workbench_Pfeil_Wood_Carving_Tools_Gouges%2C_Chisels%2C_Carving_Sets_%28pic.1b%29.jpg">David Adam Kess</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, Wikimedia Commons.</figcaption>
+</figure>
+
 ## Qué cambia en FP Básica
 
 - La dificultad principal no suele ser la herramienta, sino la comprensión de instrucciones escritas.

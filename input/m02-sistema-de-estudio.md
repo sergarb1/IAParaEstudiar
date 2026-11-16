@@ -7,6 +7,14 @@ layout: cover
 ## De tus apuntes a una forma de estudiar con IA
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/modulo-2.svg" alt="Esquema del módulo" />
+
+<div class="visual-caption">Tres fuentes entran; resumen, cuestionario y mapa salen con cita.</div>
+
+---
 class: compact-slide
 ---
 
@@ -70,6 +78,19 @@ La calidad del cuaderno depende de lo que entra en él. La IA no arregla una fue
   <div class="step-number">5</div>
   <div class="step-content">Estudiar con los materiales, no con el chat.</div>
 </div>
+
+---
+layout: image-right
+image: /imagenes/nivel-bachillerato.jpg
+---
+
+## Tres fuentes, un cuaderno
+
+- Apuntes, libro y normativa en un solo cuaderno.
+- Cada idea con su cita; si falta, «no consta».
+- El audio y el mapa no sustituyen la recuperación activa.
+
+[Ver el ejemplo de Bachillerato](https://sergarb1.github.io/IAParaEstudiar/niveles/bachillerato/)
 
 ---
 class: compact-slide

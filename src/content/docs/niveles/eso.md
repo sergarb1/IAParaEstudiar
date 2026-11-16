@@ -9,6 +9,14 @@ description: "Tres ejemplos de uso de la IA en ESO: plan de repaso de Historia, 
   <span>Supervisión docente</span>
 </div>
 
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-eso.jpg" alt="Aula de secundaria con mesas y sillas junto a las ventanas" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">ESO</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3AClassroom_843785861.jpg">strngwrldfrwl from Japan</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, Wikimedia Commons.</figcaption>
+</figure>
+
 ## Qué cambia en la ESO
 
 - El alumnado suele conocer la herramienta, pero no sabe pedirle cosas precisas.

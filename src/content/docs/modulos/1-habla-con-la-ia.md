@@ -8,7 +8,15 @@ description: "ChatGPT, Gemini, Claude y prompting. Elegir la herramienta adecuad
   <span>Sesión 1</span>
   <span>ChatGPT · Gemini · Claude</span>
   <span>Sin conocimientos previos</span>
+  <a class="module-slides" href="/presentaciones/m01/">Presentación</a>
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/modulo-1.svg" alt="Esquema de las cinco piezas de una instrucción: rol, contexto, tarea, formato y restricciones." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. La instrucción se decide antes de escribir; el modelo no debería rellenar los huecos.</figcaption>
+</figure>
 
 ## Qué vas a aprender
 
@@ -176,10 +184,10 @@ Una tabla de 6–8 filas con tiempos realistas (por ejemplo, 15 minutos para cau
 - [ESO](/niveles/eso/): plan de repaso de Historia y vocabulario.
 - [FP Básica](/niveles/fp-basica/): instrucciones de taller y comprensión lectora.
 - [Bachillerato](/niveles/bachillerato/): comentario de texto y problemas de Física.
-- [FP Superior · Informática](/niveles/fp-informatica/): revisión de código y depuración guiada.
-- [FP Superior · Administración](/niveles/fp-administracion/): modelos de documentos y plazos.
-- [FP Superior · Comercio](/niveles/fp-comercio/): fichas de producto y guiones de venta.
-- [FP Superior · Turismo](/niveles/fp-turismo/): itinerarios y atención al visitante.
+- [Ciclos Formativos · Informática](/niveles/fp-informatica/): revisión de código y depuración guiada.
+- [Ciclos Formativos · Administración](/niveles/fp-administracion/): modelos de documentos y plazos.
+- [Ciclos Formativos · Comercio](/niveles/fp-comercio/): fichas de producto y guiones de venta.
+- [Ciclos Formativos · Turismo](/niveles/fp-turismo/): itinerarios y atención al visitante.
 
 ## Para el docente
 
@@ -199,7 +207,6 @@ Una tabla de 6–8 filas con tiempos realistas (por ejemplo, 15 minutos para cau
 | 20 min | Puesta en común y ejecución de dos prompts | Elegir los que cubran niveles distintos |
 | 15 min | Verificación y alucinaciones | Buscar un dato falso a propósito y cazarlo |
 | 10 min | Cierre: tres reglas de uso y dudas | Dejar por escrito las reglas del grupo |
-| 5 min | Presentar el trabajo final | Ver [rúbrica](/docencia/trabajo-final/) |
 
 ### Dudas previsibles
 

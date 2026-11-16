@@ -9,6 +9,14 @@ description: "Ejemplos de IA en Bachillerato: comentario de texto, sistema de es
   <span>Autonomía alta</span>
 </div>
 
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-bachillerato.jpg" alt="Sala de lectura de una biblioteca con estanterías y mesas" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">Bachillerato</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3AEgyetemi_K%C3%B6nyvt%C3%A1r4.JPG">Thaler</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, Wikimedia Commons.</figcaption>
+</figure>
+
 ## Qué cambia en Bachillerato
 
 - El alumnado puede usar varias herramientas a la vez y suele tener cuenta propia.

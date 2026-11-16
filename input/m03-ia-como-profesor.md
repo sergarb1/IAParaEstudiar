@@ -7,6 +7,14 @@ layout: cover
 ## GPTs, Gems, técnicas de estudio y verificación
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/modulo-3.svg" alt="Esquema del módulo" />
+
+<div class="visual-caption">Pregunta, intento, pista, explicación y cierre: el alumno hace el trabajo.</div>
+
+---
 class: compact-slide
 ---
 
@@ -25,6 +33,19 @@ Un tutor personalizado (GPT o Gem) es una configuración guardada, no un chat m�
 <div class="info">
 La diferencia es de método: el tutor no espera a que le pidas un resumen, conduce la sesión.
 </div>
+
+---
+layout: image-right
+image: /imagenes/nivel-fp-administracion.jpg
+---
+
+## Un tutor, muchos niveles
+
+- El mismo método sirve para normativa, código o vocabulario.
+- El tutor pregunta, espera y corrige; no resuelve primero.
+- La prueba es explicar el concepto sin la herramienta.
+
+[Ver el ejemplo de Administración](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-administracion/)
 
 ---
 class: compact-slide
@@ -121,7 +142,7 @@ class: compact-slide
 ## Ejemplo práctico
 
 <div class="prompt-box">
-<span class="label">FP Superior · Administración</span>
+<span class="label">Ciclos Formativos · Administración</span>
 Actúa como tutor de Gestión de Documentación Jurídica.
 Usa solo la normativa y los apuntes adjuntos. Empieza con un supuesto de plazos. Corrige mi respuesta e indica la norma aplicable. No me des la solución antes de que responda.
 Cuando acierte, sube la dificultad con un caso de silencio administrativo. Al final, tres preguntas de repaso y qué debo volver a estudiar.

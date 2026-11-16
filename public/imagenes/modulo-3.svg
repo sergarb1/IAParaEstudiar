@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">El tutor no regala la respuesta</title>
+<desc id="desc">Secuencia de pregunta, intento, pista, explicación y cierre.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 3 · Tutor personalizado</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">El tutor no regala la respuesta</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Conduce la sesión y exige el intento antes de explicar</text>
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="216" width="190" height="204" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="94" cy="248" r="15" fill="#dce9ff"/><text x="94" y="254" text-anchor="middle" font-size="16" font-weight="700" fill="#1d4ed8">1</text>
+  <text x="120" y="254" font-size="20" font-weight="700" fill="#0c1424">Pregunta</text>
+  <text x="86" y="300" font-size="17" fill="#46536a">Qué sabes ya</text><text x="86" y="322" font-size="17" fill="#46536a">y qué toca hoy</text>
+  <rect x="284" y="216" width="190" height="204" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="314" cy="248" r="15" fill="#fffbeb"/><text x="314" y="254" text-anchor="middle" font-size="16" font-weight="700" fill="#92400e">2</text>
+  <text x="340" y="254" font-size="20" font-weight="700" fill="#0c1424">Intento</text>
+  <text x="306" y="300" font-size="17" fill="#46536a">Responde sin</text><text x="306" y="322" font-size="17" fill="#46536a">mirar los apuntes</text>
+  <rect x="504" y="216" width="190" height="204" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="534" cy="248" r="15" fill="#fffbeb"/><text x="534" y="254" text-anchor="middle" font-size="16" font-weight="700" fill="#92400e">3</text>
+  <text x="560" y="254" font-size="20" font-weight="700" fill="#0c1424">Pista</text>
+  <text x="526" y="300" font-size="17" fill="#46536a">Solo si se atasca,</text><text x="526" y="322" font-size="17" fill="#46536a">nunca la solución</text>
+  <rect x="724" y="216" width="190" height="204" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="754" cy="248" r="15" fill="#dce9ff"/><text x="754" y="254" text-anchor="middle" font-size="16" font-weight="700" fill="#1d4ed8">4</text>
+  <text x="780" y="254" font-size="20" font-weight="700" fill="#0c1424">Explicación</text>
+  <text x="746" y="300" font-size="17" fill="#46536a">En pasos, con</text><text x="746" y="322" font-size="17" fill="#46536a">un ejemplo nuevo</text>
+  <rect x="944" y="216" width="190" height="204" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="974" cy="248" r="15" fill="#f0fdf4"/><text x="974" y="254" text-anchor="middle" font-size="16" font-weight="700" fill="#15803d">5</text>
+  <text x="1000" y="254" font-size="20" font-weight="700" fill="#0c1424">Cierre</text>
+  <text x="966" y="300" font-size="17" fill="#46536a">Tres ideas y</text><text x="966" y="322" font-size="17" fill="#46536a">dos preguntas</text>
+</g>
+<g stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)">
+  <path d="M258 318 H278"/><path d="M478 318 H498"/><path d="M698 318 H718"/><path d="M918 318 H938"/>
+</g>
+<rect x="64" y="470" width="1070" height="92" rx="20" fill="#1e3a8a"/>
+<text x="94" y="508" font-family="Inter, system-ui, sans-serif" font-size="23" font-weight="700" fill="#ffffff">La IA conduce; el alumno hace el trabajo.</text>
+<text x="94" y="536" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#dce9ff">Si el tutor responde antes del intento, la sesión no cuenta.</text>
+<rect x="952" y="490" width="152" height="36" rx="18" fill="#22c55e"/>
+<text x="1028" y="513" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#0f3d24">Sin atajos</text>
+</svg>

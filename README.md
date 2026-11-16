@@ -4,6 +4,8 @@ Curso para docentes sobre cómo comunicarse con la inteligencia artificial y có
 
 Sitio publicado: **https://sergarb1.github.io/IAParaEstudiar/**
 
+Presentaciones: **https://sergarb1.github.io/IAParaEstudiar/presentaciones/**
+
 ## Contenido
 
 | Módulo | Tema | Duración |
@@ -14,7 +16,7 @@ Sitio publicado: **https://sergarb1.github.io/IAParaEstudiar/**
 | 4 | Ponlo a prueba: tutoría, dudas y casos prácticos | 2 h |
 | 5 | Usa agentes para principiantes | 2 h |
 
-Además: ejemplos adaptados a ESO, FP Básica, Bachillerato y FP Superior de Informática, Administración, Comercio y Turismo; biblioteca de prompts; guía didáctica; trabajo final con rúbrica y criterios de privacidad y ética.
+Además: ejemplos adaptados a ESO, FP Básica, Bachillerato y Ciclos Formativos de Informática, Administración, Comercio y Turismo; biblioteca de prompts; guía didáctica; formas especiales de aprender con analogías; criterios de privacidad y ética.
 
 ## Requisitos
 
@@ -44,7 +46,7 @@ npm run dev -- m01-habla-con-la-ia.md
 │   │   ├── index.mdx           # Portada
 │   │   ├── modulos/            # Los 5 módulos
 │   │   ├── niveles/            # Ejemplos por nivel educativo
-│   │   ├── docencia/           # Guía didáctica y trabajo final
+│   │   ├── docencia/           # Guía didáctica
 │   │   └── recursos/           # Prompts y privacidad
 │   ├── integrations/           # Prefijo de base para enlaces internos
 │   └── styles/custom.css       # Tema del sitio
@@ -61,7 +63,8 @@ npm run dev -- m01-habla-con-la-ia.md
 | Comando | Descripción |
 | --- | --- |
 | `npm run apuntes:dev` | Sirve los apuntes en desarrollo |
-| `npm run apuntes:build` | Genera el sitio estático en `.apuntes-dist/` |
+| `npm run apuntes:build` | Genera el sitio y las cinco presentaciones en `.apuntes-dist/` |
+| `npm run presentaciones:build` | Genera solo los decks Slidev en `.apuntes-dist/presentaciones/` |
 | `npm run apuntes:preview` | Previsualiza el sitio generado |
 | `npm run dev -- <entrada>.md` | Abre una presentación en desarrollo |
 | `npm run build -- <entrada>.md --out dist/<nombre>` | Genera una presentación estática |

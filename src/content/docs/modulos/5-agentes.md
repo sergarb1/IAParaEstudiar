@@ -8,7 +8,15 @@ description: "Qué son los agentes de IA, cómo funcionan y cómo empezar a usar
   <span>Sesión 5</span>
   <span>Agentes · Automatización</span>
   <span>Sin programar</span>
+  <a class="module-slides" href="/presentaciones/m05/">Presentación</a>
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/modulo-5.svg" alt="Anatomía de un agente: objetivo central, herramientas, contexto, permisos, parada y revisión humana." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. La autonomía se limita con permisos, una parada y una revisión humana.</figcaption>
+</figure>
 
 ## Qué vas a aprender
 
@@ -72,7 +80,7 @@ Empieza por la opción más simple que resuelva el problema. Muchas tareas que p
 
 ## 5. Ejemplo práctico del módulo
 
-**Situación:** un docente de FP Superior de Informática quiere seguir las novedades de un framework y tener material para actualizar sus apuntes.
+**Situación:** un docente de Ciclos Formativos de Informática quiere seguir las novedades de un framework y tener material para actualizar sus apuntes.
 
 <div class="prompt-box">
 <span class="label">Objetivo del agente</span>
@@ -104,7 +112,7 @@ Un documento semanal con tres o cuatro cambios relevantes, cada uno con enlace y
 <p><em>Pendiente:</em> revisión docente de los enlaces y ejecución de los ejemplos.</p>
 </div>
 
-**Enlace al resultado desarrollado:** [Ejemplo de FP Superior · Informática](/niveles/fp-informatica/).
+**Enlace al resultado desarrollado:** [Ejemplo de Ciclos Formativos · Informática](/niveles/fp-informatica/).
 
 ## 6. Riesgos que hay que conocer
 
@@ -133,10 +141,10 @@ Un documento semanal con tres o cuatro cambios relevantes, cada uno con enlace y
 - [ESO](/niveles/eso/): recordatorios de repaso y resumen semanal.
 - [FP Básica](/niveles/fp-basica/): listas de materiales y avisos de taller.
 - [Bachillerato](/niveles/bachillerato/): seguimiento de fuentes para el trabajo de investigación.
-- [FP Superior · Informática](/niveles/fp-informatica/): novedades técnicas y documentación.
-- [FP Superior · Administración](/niveles/fp-administracion/): control de plazos y recordatorios.
-- [FP Superior · Comercio](/niveles/fp-comercio/): seguimiento de campañas y precios.
-- [FP Superior · Turismo](/niveles/fp-turismo/): avisos de destinos y documentación de viaje.
+- [Ciclos Formativos · Informática](/niveles/fp-informatica/): novedades técnicas y documentación.
+- [Ciclos Formativos · Administración](/niveles/fp-administracion/): control de plazos y recordatorios.
+- [Ciclos Formativos · Comercio](/niveles/fp-comercio/): seguimiento de campañas y precios.
+- [Ciclos Formativos · Turismo](/niveles/fp-turismo/): avisos de destinos y documentación de viaje.
 
 ## Para el docente
 
@@ -155,7 +163,7 @@ Un documento semanal con tres o cuatro cambios relevantes, cada uno con enlace y
 | 25 min | Diseñar un agente en papel | Sin herramienta: solo el flujo y los límites |
 | 20 min | Montar un flujo sencillo o una tarea programada | Empezar por lectura y escritura en carpetas |
 | 15 min | Riesgos y revisión humana | Analizar un fallo real o simulado |
-| 10 min | Cierre del curso y trabajo final | Fechas y rúbrica |
+| 10 min | Cierre del curso y plan de aplicación | Qué se lleva cada participante |
 | 5 min | Dudas | — |
 
 ### Dudas previsibles

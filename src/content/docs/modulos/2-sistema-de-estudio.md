@@ -8,7 +8,15 @@ description: "NotebookLM y otras funciones de IA para trabajar con documentos y 
   <span>Sesión 2</span>
   <span>NotebookLM</span>
   <span>Requiere cuenta Google</span>
+  <a class="module-slides" href="/presentaciones/m02/">Presentación</a>
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/modulo-2.svg" alt="Esquema de tres fuentes que entran en un cuaderno y salen resumen, cuestionario y mapa con citas." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. El cuaderno no busca en internet: responde con las fuentes que le has dado.</figcaption>
+</figure>
 
 ## Qué vas a aprender
 
@@ -137,10 +145,10 @@ Un resumen con citas clicables, una tabla de conceptos confundibles y diez pregu
 - [ESO](/niveles/eso/): vocabulario y repaso de un tema con el móvil.
 - [FP Básica](/niveles/fp-basica/): instrucciones de taller y apoyo a la comprensión.
 - [Bachillerato](/niveles/bachillerato/): cuaderno de Biología con tres fuentes y trabajo de investigación.
-- [FP Superior · Informática](/niveles/fp-informatica/): documentación técnica y preguntas sobre un repositorio.
-- [FP Superior · Administración](/niveles/fp-administracion/): normativa y modelos de documentos.
-- [FP Superior · Comercio](/niveles/fp-comercio/): catálogo de producto y análisis de campañas.
-- [FP Superior · Turismo](/niveles/fp-turismo/): destinos, protocolo y guiones de visita.
+- [Ciclos Formativos · Informática](/niveles/fp-informatica/): documentación técnica y preguntas sobre un repositorio.
+- [Ciclos Formativos · Administración](/niveles/fp-administracion/): normativa y modelos de documentos.
+- [Ciclos Formativos · Comercio](/niveles/fp-comercio/): catálogo de producto y análisis de campañas.
+- [Ciclos Formativos · Turismo](/niveles/fp-turismo/): destinos, protocolo y guiones de visita.
 
 ## Para el docente
 

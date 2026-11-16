@@ -7,6 +7,14 @@ layout: cover
 ## Qué son, cómo funcionan y cómo empezar sin programar
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/modulo-5.svg" alt="Esquema del módulo" />
+
+<div class="visual-caption">Objetivo, herramientas, contexto, permisos, parada y revisión humana.</div>
+
+---
 class: compact-slide
 ---
 
@@ -51,6 +59,19 @@ class: compact-slide
 | Revisión | ¿Quién valida? | El docente |
 
 ---
+layout: image-right
+image: /imagenes/nivel-fp-informatica.jpg
+---
+
+## Un agente en el aula
+
+- Vigila fuentes, no produce apuntes finales.
+- Permisos mínimos y una carpeta de salida.
+- Si no hay cambios, escribe «sin cambios» y termina.
+
+[Ver el ejemplo de Informática](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-informatica/)
+
+---
 class: compact-slide
 ---
 
@@ -84,7 +105,7 @@ class: compact-slide
 ## Ejemplo práctico
 
 <div class="prompt-box">
-<span class="label">FP Superior · Informática</span>
+<span class="label">Ciclos Formativos · Informática</span>
 Cada viernes a las 18:00:
 1. Revisa notas de versión y anuncios oficiales del framework.
 2. Selecciona solo cambios que afecten al temario adjunto.

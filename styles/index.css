@@ -156,8 +156,14 @@
 }
 
 .warning::before {
-  content: '⚠️';
+  content: '';
+  display: inline-block;
+  width: 0.55em;
+  height: 0.55em;
+  border-radius: 50%;
+  background: #f59e0b;
   margin-right: 0.5rem;
+  vertical-align: 0.05em;
 }
 
 .info {
@@ -167,8 +173,14 @@
 }
 
 .info::before {
-  content: 'ℹ️';
+  content: '';
+  display: inline-block;
+  width: 0.55em;
+  height: 0.55em;
+  border-radius: 50%;
+  background: #2563eb;
   margin-right: 0.5rem;
+  vertical-align: 0.05em;
 }
 
 .success {
@@ -178,8 +190,14 @@
 }
 
 .success::before {
-  content: '✅';
+  content: '';
+  display: inline-block;
+  width: 0.55em;
+  height: 0.55em;
+  border-radius: 50%;
+  background: #22c55e;
   margin-right: 0.5rem;
+  vertical-align: 0.05em;
 }
 
 /* ── Pasos ──────────────────────────────────────────────── */
@@ -258,10 +276,9 @@
 .prompt-box .label {
   display: block;
   font-family: 'Inter', sans-serif;
-  font-size: 0.66rem;
+  font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  letter-spacing: 0;
   color: #60a5fa;
   margin-bottom: 0.4rem;
 }
@@ -384,10 +401,9 @@
   position: absolute;
   top: 8%;
   left: 7%;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   font-weight: 700;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+  letter-spacing: 0;
   color: #2563eb;
 }
 
@@ -466,4 +482,32 @@
 .slidev-layout.closing p {
   color: #475569;
   font-size: 1rem;
+}
+
+
+/* ── Diapositivas visuales ─────────────────────────────── */
+.visual-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 1rem 2rem;
+}
+
+.visual-slide img {
+  max-width: 100%;
+  max-height: 80%;
+  width: auto;
+  height: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  background: #f8fafc;
+}
+
+.visual-slide .visual-caption {
+  margin-top: 0.45rem;
+  color: #64748b;
+  font-size: 0.8rem;
+  text-align: center;
 }

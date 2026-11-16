@@ -1,13 +1,21 @@
 ---
-title: FP Superior · Comercio
+title: Ciclos Formativos · Comercio
 description: "Ejemplos de IA en Comercio y Marketing: fichas de producto, análisis de campañas y objeciones de venta."
 ---
 
 <div class="module-meta">
-  <span>CFGS Comercio y Marketing</span>
+  <span>Ciclo Formativo de Comercio y Marketing</span>
   <span>Nivel profesional</span>
   <span>Datos y persuasión</span>
 </div>
+
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-fp-comercio.jpg" alt="Interior de una tienda de ropa con estanterías y maletas" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">Comercio</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3AClothing_store_interior_Son_Moro_Cala_Millor.jpg">Steffen Mokosch</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, Wikimedia Commons.</figcaption>
+</figure>
 
 ## Qué cambia en Comercio
 

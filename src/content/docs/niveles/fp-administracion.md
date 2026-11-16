@@ -1,13 +1,21 @@
 ---
-title: FP Superior · Administración
+title: Ciclos Formativos · Administración
 description: "Ejemplos de IA en Administración y Finanzas: documentos, plazos administrativos y tutor de normativa."
 ---
 
 <div class="module-meta">
-  <span>CFGS Administración y Finanzas</span>
+  <span>Ciclo Formativo de Administración y Finanzas</span>
   <span>Nivel profesional</span>
   <span>Normativa y plazos</span>
 </div>
+
+<figure class="page-visual">
+  <div class="page-visual-frame">
+    <img src="/imagenes/nivel-fp-administracion.jpg" alt="Bandejas de documentación en una oficina" width="1280" height="720" loading="lazy" />
+    <span class="page-visual-tag">Administración</span>
+  </div>
+  <figcaption>Foto: <a href="https://commons.wikimedia.org/wiki/File%3AInbox_trays.jpg">Khairil Yusof</a> · <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, Wikimedia Commons.</figcaption>
+</figure>
 
 ## Qué cambia en Administración
 
@@ -61,7 +69,7 @@ Un borrador con los datos del expediente, la lista exacta de documentos, el plaz
 
 <div class="prompt-box">
 <span class="label">Prompt del tutor</span>
-Actúa como tutor de Gestión de Documentación Jurídica de FP Superior de Administración.
+Actúa como tutor de Gestión de Documentación Jurídica de Ciclos Formativos de Administración.
 
 Usa solo la normativa y los apuntes adjuntos. Empieza con un supuesto práctico de plazos. Corrige mi respuesta, indica el artículo o la regla aplicable y no me des la solución antes de que responda.
 

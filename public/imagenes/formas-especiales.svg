@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Una analogía es un puente</title>
+<desc id="desc">De una referencia cercana al concepto, pasando por un mapa, un límite y una vuelta a la fuente.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Recursos · Motivación</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">Una analogía es un puente</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Sirve para entrar; no sustituye el concepto.</text>
+<rect x="64" y="210" width="280" height="300" rx="20" fill="#ffffff" stroke="#e1e7f0"/>
+<text x="88" y="246" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#46536a">LO QUE YA LE GUSTA</text>
+<g font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#0c1424">
+  <rect x="88" y="270" width="232" height="54" rx="14" fill="#dce9ff"/><text x="204" y="303" text-anchor="middle">Deporte</text>
+  <rect x="88" y="338" width="232" height="54" rx="14" fill="#fffbeb"/><text x="204" y="371" text-anchor="middle">Salseo</text>
+  <rect x="88" y="406" width="232" height="54" rx="14" fill="#f0fdf4"/><text x="204" y="439" text-anchor="middle">Receta</text>
+</g>
+<rect x="856" y="210" width="280" height="300" rx="20" fill="#ffffff" stroke="#e1e7f0"/>
+<text x="880" y="246" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#46536a">LO QUE DEBE APRENDER</text>
+<g font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="700" fill="#0c1424">
+  <rect x="880" y="270" width="232" height="54" rx="14" fill="#dce9ff"/><text x="996" y="303" text-anchor="middle">Fotosíntesis</text>
+  <rect x="880" y="338" width="232" height="54" rx="14" fill="#fffbeb"/><text x="996" y="371" text-anchor="middle">Sucesión</text>
+  <rect x="880" y="406" width="232" height="54" rx="14" fill="#f0fdf4"/><text x="996" y="439" text-anchor="middle">Algoritmo</text>
+</g>
+<path d="M344 360 H392" stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M808 360 H848" stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)"/>
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="400" y="210" width="400" height="62" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="430" cy="241" r="15" fill="#dce9ff"/><text x="430" y="247" text-anchor="middle" font-size="16" font-weight="700" fill="#1d4ed8">1</text>
+  <text x="458" y="236" font-size="19" font-weight="700" fill="#0c1424">Elige una escena cercana</text>
+  <text x="458" y="256" font-size="16" fill="#46536a">Un partido, un programa, una receta</text>
+  <rect x="400" y="288" width="400" height="62" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="430" cy="319" r="15" fill="#fffbeb"/><text x="430" y="325" text-anchor="middle" font-size="16" font-weight="700" fill="#92400e">2</text>
+  <text x="458" y="314" font-size="19" font-weight="700" fill="#0c1424">Mapea los papeles</text>
+  <text x="458" y="334" font-size="16" fill="#46536a">Quién es quién y qué representa</text>
+  <rect x="400" y="366" width="400" height="62" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="430" cy="397" r="15" fill="#fffbeb"/><text x="430" y="403" text-anchor="middle" font-size="16" font-weight="700" fill="#92400e">3</text>
+  <text x="458" y="392" font-size="19" font-weight="700" fill="#0c1424">Marca dónde falla</text>
+  <text x="458" y="412" font-size="16" fill="#46536a">Dos diferencias importantes</text>
+  <rect x="400" y="444" width="400" height="62" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <circle cx="430" cy="475" r="15" fill="#f0fdf4"/><text x="430" y="481" text-anchor="middle" font-size="16" font-weight="700" fill="#15803d">4</text>
+  <text x="458" y="470" font-size="19" font-weight="700" fill="#0c1424">Vuelve a la fuente</text>
+  <text x="458" y="490" font-size="16" fill="#46536a">Explica sin la analogía y comprueba</text>
+</g>
+<path d="M600 210 V190" stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="64" y="578" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#46536a">La emoción abre la puerta; la recuperación y la fuente la mantienen abierta.</text>
+</svg>

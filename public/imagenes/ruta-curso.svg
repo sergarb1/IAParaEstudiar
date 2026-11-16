@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">La ruta del curso</title>
+<desc id="desc">Cinco módulos: hablar con la IA, sistema de estudio, IA como profesor, casos y agentes.</desc>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1120" cy="70" r="150" fill="#dce9ff" opacity="0.7"/>
+<circle cx="70" cy="590" r="100" fill="#dce9ff" opacity="0.5"/>
+<text x="64" y="70" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="700" fill="#2563eb">El curso en un vistazo</text>
+<text x="64" y="132" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">Cinco pasos, un método</text>
+<text x="64" y="170" font-family="Inter, system-ui, sans-serif" font-size="19" fill="#46536a">De la primera instrucción a un agente con permisos.</text>
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="40" y="230" width="200" height="210" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="40" y="230" width="200" height="8" rx="4" fill="#2563eb"/>
+  <circle cx="72" cy="274" r="16" fill="#dce9ff"/><text x="72" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#1d4ed8">1</text>
+  <text x="64" y="326" font-size="21" font-weight="700" fill="#0c1424">Habla con la IA</text>
+  <text x="64" y="354" font-size="17" fill="#46536a">Prompts, roles y</text><text x="64" y="376" font-size="17" fill="#46536a">verificación</text>
+  <rect x="270" y="230" width="200" height="210" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="270" y="230" width="200" height="8" rx="4" fill="#22c55e"/>
+  <circle cx="302" cy="274" r="16" fill="#f0fdf4"/><text x="302" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#15803d">2</text>
+  <text x="294" y="326" font-size="21" font-weight="700" fill="#0c1424">Sistema de estudio</text>
+  <text x="294" y="354" font-size="17" fill="#46536a">Fuentes, citas y</text><text x="294" y="376" font-size="17" fill="#46536a">rutina semanal</text>
+  <rect x="500" y="230" width="200" height="210" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="500" y="230" width="200" height="8" rx="4" fill="#f59e0b"/>
+  <circle cx="532" cy="274" r="16" fill="#fffbeb"/><text x="532" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#92400e">3</text>
+  <text x="524" y="326" font-size="21" font-weight="700" fill="#0c1424">IA como profesor</text>
+  <text x="524" y="354" font-size="17" fill="#46536a">Tutor, preguntas</text><text x="524" y="376" font-size="17" fill="#46536a">y práctica</text>
+  <rect x="730" y="230" width="200" height="210" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="730" y="230" width="200" height="8" rx="4" fill="#2563eb"/>
+  <circle cx="762" cy="274" r="16" fill="#dce9ff"/><text x="762" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#1d4ed8">4</text>
+  <text x="754" y="326" font-size="21" font-weight="700" fill="#0c1424">Ponlo a prueba</text>
+  <text x="754" y="354" font-size="17" fill="#46536a">Casos reales y</text><text x="754" y="376" font-size="17" fill="#46536a">planes de aula</text>
+  <rect x="960" y="230" width="200" height="210" rx="18" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="960" y="230" width="200" height="8" rx="4" fill="#22c55e"/>
+  <circle cx="992" cy="274" r="16" fill="#f0fdf4"/><text x="992" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#15803d">5</text>
+  <text x="984" y="326" font-size="21" font-weight="700" fill="#0c1424">Agentes</text>
+  <text x="984" y="354" font-size="17" fill="#46536a">Objetivo, permisos</text><text x="984" y="376" font-size="17" fill="#46536a">y parada</text>
+</g>
+<path d="M244 335 H262" stroke="#2563eb" stroke-width="2.5"/>
+<path d="M474 335 H492" stroke="#2563eb" stroke-width="2.5"/>
+<path d="M704 335 H722" stroke="#2563eb" stroke-width="2.5"/>
+<path d="M934 335 H952" stroke="#2563eb" stroke-width="2.5"/>
+<text x="64" y="510" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#46536a">Cada módulo incluye apuntes para preparar la sesión y una presentación para proyectar.</text>
+<text x="64" y="548" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#2563eb">Empieza por el 1. Los demás se apoyan en él.</text>
+</svg>
