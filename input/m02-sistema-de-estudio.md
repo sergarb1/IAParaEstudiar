@@ -229,3 +229,11 @@ Comprueba dos citas al azar en cada sesión. Si no respaldan la frase, el materi
 ---
 layout: closing
 ---
+
+# Tres ideas para llevarte
+
+1. **El cuaderno vale lo que valen sus fuentes.** Primarias, legibles y de una sola unidad.
+2. **Cada idea necesita su cita.** Abre dos fragmentos al azar en cada sesión.
+3. **Estudia con los materiales, no con el chat.** Recupera, escribe y explica.
+
+<p class="closing-meta">IA para estudiar · Sergi García Barea · CC BY-SA 4.0</p>

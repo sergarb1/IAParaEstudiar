@@ -271,3 +271,11 @@ class: compact-slide
 ---
 layout: closing
 ---
+
+# Tres ideas para llevarte
+
+1. **La instrucción es el método.** Rol, contexto, tarea, formato y restricciones.
+2. **Itera con defectos concretos.** Corrige una pieza cada vez.
+3. **Verifica antes de usar.** Abre la fuente y explícalo sin mirar.
+
+<p class="closing-meta">IA para estudiar · Sergi García Barea · CC BY-SA 4.0</p>

@@ -229,3 +229,11 @@ class: sparse-slide
 ---
 layout: closing
 ---
+
+# Tres ideas para llevarte
+
+1. **Un agente es un objetivo con herramientas y límites.** No es un chat más largo.
+2. **Permisos mínimos y parada explícita.** Lectura primero; escritura después.
+3. **La revisión humana no se automatiza.** Sin revisión, no se publica.
+
+<p class="closing-meta">IA para estudiar · Sergi García Barea · CC BY-SA 4.0</p>

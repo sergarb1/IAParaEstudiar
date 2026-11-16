@@ -194,3 +194,11 @@ Un método honesto reconoce límites. Lo que se queda contigo es el criterio, no
 ---
 layout: closing
 ---
+
+# Tres ideas para llevarte
+
+1. **Clasifica antes de corregir.** Dato inventado, mal interpretado, opinión u omisión.
+2. **Pregunta por el proceso.** Fuente, alternativa descartada y prueba.
+3. **Cierra con un plan pequeño.** Qué, con quién, cómo, indicador y fecha.
+
+<p class="closing-meta">IA para estudiar · Sergi García Barea · CC BY-SA 4.0</p>

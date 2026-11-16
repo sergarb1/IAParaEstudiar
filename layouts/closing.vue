@@ -2,8 +2,8 @@
   <div class="slidev-layout closing">
     <div class="closing-content">
       <slot>
-        <h1>Gracias</h1>
-        <p>IA para estudiar · Sergi García Barea · CC BY-SA 4.0</p>
+        <h1>Resumen del módulo</h1>
+        <p>Vuelve a los apuntes para completar las ideas clave.</p>
       </slot>
     </div>
   </div>

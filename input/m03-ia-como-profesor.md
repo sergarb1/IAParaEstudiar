@@ -235,3 +235,11 @@ class: compact-slide
 ---
 layout: closing
 ---
+
+# Tres ideas para llevarte
+
+1. **El tutor conduce, no resuelve.** Pregunta, espera y da pistas.
+2. **El esfuerzo es del alumno.** Intento, corrección y explicación propia.
+3. **Planifica desde el examen.** Diagnóstico, simulacro, errores y descanso.
+
+<p class="closing-meta">IA para estudiar · Sergi García Barea · CC BY-SA 4.0</p>

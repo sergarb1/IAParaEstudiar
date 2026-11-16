@@ -471,7 +471,7 @@
 
 .slidev-layout.closing .closing-content {
   text-align: center;
-  max-width: 70%;
+  max-width: min(76%, 50rem);
 }
 
 .slidev-layout.closing h1 {
@@ -482,6 +482,23 @@
 .slidev-layout.closing p {
   color: #475569;
   font-size: 1rem;
+}
+
+.slidev-layout.closing .closing-content ol {
+  max-width: 38rem;
+  margin: 1.3rem auto 0;
+  text-align: left;
+}
+
+.slidev-layout.closing .closing-content li {
+  margin-bottom: 0.55rem;
+  line-height: 1.5;
+}
+
+.slidev-layout.closing .closing-meta {
+  margin-top: 1.5rem;
+  font-size: 0.8rem;
+  color: #64748b;
 }
 
 
