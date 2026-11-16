@@ -3,7 +3,9 @@ title: Presentaciones
 description: "Cinco presentaciones de apoyo creadas con Slidev para proyectar en el aula, con esquemas, ejemplos resueltos y fotos."
 ---
 
-Cada módulo tiene una **presentación de apoyo** para proyectar en clase. Están hechas con Slidev, se abren en el navegador y no necesitan instalar nada. Cada deck incluye entre 15 y 18 diapositivas, tres esquemas propios, una foto de contexto y ejemplos resueltos de distintas materias.
+Cada módulo tiene una **presentación de apoyo** para proyectar en clase. Están hechas con Slidev, se abren en el navegador y no necesitan instalar nada. Cada deck incluye entre 15 y 18 diapositivas, tres esquemas propios, una foto de contexto, ejemplos resueltos de distintas materias y **narración en español con voz masculina**.
+
+La narración no lee los prompts largos: explica la idea de la diapositiva y deja el texto completo en pantalla. Se activa con el botón **Narración** de la esquina inferior derecha y, una vez activada, sigue el cambio de diapositiva.
 
 <div class="presentation-grid">
   <a class="presentation-card" href="/presentaciones/m01/">
@@ -60,7 +62,8 @@ Cada módulo tiene una **presentación de apoyo** para proyectar en clase. Está
 - **Flechas o espacio:** avanzar. **Shift + flecha:** retroceder.
 - **O:** vista general de diapositivas. **F:** pantalla completa. **?:** atajos.
 - **Móvil u ordenador:** funcionan en ambos. No requieren cuenta.
-- **Antes de proyectar:** abre el deck en el equipo del aula y comprueba el sonido si vas a usar un vídeo.
+- **Narración:** pulsa **Narración** abajo a la derecha. El botón cambia a **Pausar**; al avanzar, la voz continúa en la siguiente diapositiva.
+- **Antes de proyectar:** abre el deck en el equipo del aula y comprueba el sonido si vas a usar la narración o un vídeo.
 </div>
 
 <div class="teacher-note">

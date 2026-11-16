@@ -53,6 +53,9 @@ class: compact-slide
 
 ## Instrucciones que no regalan la respuesta
 
+<div class="two-cols">
+<div class="left">
+
 <div class="prompt-box">
 <span class="label">Plantilla de tutor</span>
 Eres un tutor de [materia] para [nivel]. Objetivo: que el alumno comprenda y recuerde, no que reciba respuestas.
@@ -62,6 +65,22 @@ Eres un tutor de [materia] para [nivel]. Objetivo: que el alumno comprenda y rec
 4. Propón un ejemplo nuevo y una pregunta de aplicación.
 5. Cierra con tres ideas y dos preguntas para el próximo día.
 Reglas: no entregues trabajos listos; corrige el error concreto; si no sabes algo, dilo.
+</div>
+
+</div>
+<div class="right">
+
+### Tres reglas que no se negocian
+
+- No resuelve antes del intento.
+- Corrige el error concreto, no el texto entero.
+- Cierra con un plan pequeño y comprobable.
+
+<div class="warning">
+Un tutor que empieza explicando es un vídeo con conversación. La sesión empieza con una pregunta y un silencio.
+</div>
+
+</div>
 </div>
 
 ---
@@ -96,10 +115,20 @@ class: compact-slide
 
 ## Preparar un examen
 
+<div class="two-cols">
+<div class="left">
+
 1. **Inventario:** qué entra y con qué peso.
 2. **Diagnóstico:** simulacro inicial.
 3. **Calendario:** repasos distribuidos.
 4. **Corrección:** qué se repite y por qué.
+
+<div class="success">
+El plan se construye desde el examen hacia hoy. Si no cabe, se recorta contenido, no se sacrifica el descanso.
+</div>
+
+</div>
+<div class="right">
 
 <div class="prompt-box">
 <span class="label">Prompt de planificación</span>
@@ -107,6 +136,9 @@ Actúa como tutor de [materia] de [nivel]. Examen el [fecha]. Temario: [bloques]
 Diseña un plan con repasos espaciados y un simulacro por bloque.
 Formato: tabla por día con bloque, técnica, tiempo y pregunta de control.
 Restricciones: deja un día libre antes del examen e incluye un repaso de errores. Si no cabe, recorta y dilo.
+</div>
+
+</div>
 </div>
 
 ---
@@ -123,16 +155,28 @@ class: compact-slide
 
 ## Documentos académicos
 
+<div class="two-cols">
+<div class="left">
+
 - **Antes:** esquema de secciones y preguntas que debe responder.
 - **Durante:** coherencia, repeticiones, registro.
 - **Después:** preguntas de defensa y afirmaciones sin fuente.
 
-<div class="checklist">
+<div class="info">
+La IA sirve para estructurar y revisar. El argumento y las conclusiones siguen siendo tuyos.
+</div>
+
+</div>
+<div class="right">
+
+### Lista de control
 
 - Referencias comprobadas una a una.
 - Marco teórico leído, no solo citado.
-- Conclusiones propias y conectadas con los datos.
-- Declaración de uso de IA según la norma del centro.
+- Conclusiones conectadas con los datos.
+- Uso de IA declarado según la norma del centro.
+
+</div>
 </div>
 
 ---
@@ -157,6 +201,9 @@ class: compact-slide
 
 ## Ejemplo práctico
 
+<div class="two-cols">
+<div class="left">
+
 <div class="prompt-box">
 <span class="label">Ciclos Formativos · Administración</span>
 Actúa como tutor de Gestión de Documentación Jurídica.
@@ -164,7 +211,23 @@ Usa solo la normativa y los apuntes adjuntos. Empieza con un supuesto de plazos.
 Cuando acierte, sube la dificultad con un caso de silencio administrativo. Al final, tres preguntas de repaso y qué debo volver a estudiar.
 </div>
 
+</div>
+<div class="right">
+
+### Qué observar
+
+- La primera respuesta es una pregunta, no una solución.
+- Cada corrección cita la norma aplicable.
+- El cierre concreta qué hay que repasar.
+
+<div class="success">
+Si el tutor inventa un artículo o resuelve antes del intento, la sesión no cuenta.
+</div>
+
 [Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-administracion/)
+
+</div>
+</div>
 
 ---
 class: compact-slide
@@ -209,13 +272,26 @@ class: compact-slide
 
 ## Feynman en cuatro preguntas
 
+<div class="two-cols">
+<div class="left">
+
 1. ¿Qué problema resuelve este concepto?
 2. ¿Cómo lo explicarías sin usar la palabra que estás aprendiendo?
 3. ¿Dónde está el límite o la excepción?
 4. ¿Qué ejemplo nuevo lo demuestra?
 
+</div>
+<div class="right">
+
+### Ejemplo
+
+Explica la fotosíntesis a alguien de diez años, sin decir «clorofila» ni «fotosistema». Después vuelve al término técnico y comprueba qué te faltaba.
+
 <div class="warning">
 Si necesitas los apuntes para responder, todavía no lo dominas. Vuelve al tutor con una pregunta concreta.
+</div>
+
+</div>
 </div>
 
 ---
@@ -224,6 +300,9 @@ class: compact-slide
 
 ## Errores frecuentes
 
+<div class="two-cols">
+<div class="left">
+
 | Error | Alternativa |
 | --- | --- |
 | Tutor que da las respuestas | Instrucción explícita de no resolver |
@@ -231,6 +310,22 @@ class: compact-slide
 | Compartir sin probar | Conversaciones de prueba |
 | Detector como juez | Revisar el proceso y hablar |
 | Planificar sin diagnóstico | Simulacro inicial |
+
+</div>
+<div class="right">
+
+### Señal de alarma
+
+- El tutor responde antes de que el alumno intente.
+- La conversación no cambia cuando el alumno falla.
+- El plan no tiene una prueba por bloque.
+
+<div class="warning">
+Un GPT que funciona en tu prueba puede fallar con otro curso. Prueba con tres conversaciones distintas antes de compartirlo.
+</div>
+
+</div>
+</div>
 
 ---
 layout: closing

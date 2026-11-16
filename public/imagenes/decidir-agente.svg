@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">¿Merece la pena un agente?</title>
+<desc id="desc">Tres opciones según la tarea: hacerlo a mano, usar un chatbot o montar un agente con permisos y revisión.</desc>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 5 · Decidir</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">¿Merece la pena un agente?</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Elige la opción más simple que resuelve la tarea.</text>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="206" width="336" height="300" rx="20" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="64" y="206" width="336" height="8" rx="4" fill="#64748b"/>
+  <text x="92" y="250" font-size="15" font-weight="700" fill="#475569">A MANO</text>
+  <text x="92" y="290" font-size="23" font-weight="700" fill="#0c1424">Dos minutos</text>
+  <text x="92" y="326" font-size="17" fill="#46536a">La tarea es corta,</text>
+  <text x="92" y="350" font-size="17" fill="#46536a">repetitiva pero pequeña</text>
+  <text x="92" y="374" font-size="17" fill="#46536a">o no compensa montarla.</text>
+  <rect x="92" y="410" width="276" height="62" rx="12" fill="#f8fafc"/>
+  <text x="110" y="436" font-size="15" font-weight="700" fill="#475569">Ejemplo</text>
+  <text x="110" y="458" font-size="15" fill="#475569">Copiar tres fechas al calendario.</text>
+
+  <rect x="432" y="206" width="336" height="300" rx="20" fill="#ffffff" stroke="#bfdbfe"/>
+  <rect x="432" y="206" width="336" height="8" rx="4" fill="#2563eb"/>
+  <text x="460" y="250" font-size="15" font-weight="700" fill="#1d4ed8">CHATBOT</text>
+  <text x="460" y="290" font-size="23" font-weight="700" fill="#0c1424">Una respuesta</text>
+  <text x="460" y="326" font-size="17" fill="#46536a">Necesitas redactar,</text>
+  <text x="460" y="350" font-size="17" fill="#46536a">resumir o transformar</text>
+  <text x="460" y="374" font-size="17" fill="#46536a">algo que tú revisas.</text>
+  <rect x="460" y="410" width="276" height="62" rx="12" fill="#eff6ff"/>
+  <text x="478" y="436" font-size="15" font-weight="700" fill="#1e3a8a">Ejemplo</text>
+  <text x="478" y="458" font-size="15" fill="#1e3a8a">Convertir apuntes en preguntas.</text>
+
+  <rect x="800" y="206" width="336" height="300" rx="20" fill="#ffffff" stroke="#86efac"/>
+  <rect x="800" y="206" width="336" height="8" rx="4" fill="#22c55e"/>
+  <text x="828" y="250" font-size="15" font-weight="700" fill="#15803d">AGENTE</text>
+  <text x="828" y="290" font-size="23" font-weight="700" fill="#0c1424">Varios pasos</text>
+  <text x="828" y="326" font-size="17" fill="#46536a">Hay fuentes que revisar,</text>
+  <text x="828" y="350" font-size="17" fill="#46536a">un calendario y una</text>
+  <text x="828" y="374" font-size="17" fill="#46536a">persona que valida.</text>
+  <rect x="828" y="410" width="276" height="62" rx="12" fill="#f0fdf4"/>
+  <text x="846" y="436" font-size="15" font-weight="700" fill="#15803d">Ejemplo</text>
+  <text x="846" y="458" font-size="15" fill="#15803d">Revisar novedades cada viernes.</text>
+</g>
+
+<rect x="64" y="540" width="1072" height="54" rx="14" fill="#1e3a8a"/>
+<text x="92" y="573" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Si no puedes explicar el proceso o nadie va a revisarlo, no uses un agente.</text>
+</svg>

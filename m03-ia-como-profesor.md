@@ -8,5 +8,6 @@ fonts:
 transition: slide-left
 mdc: false
 codeCopy: false
+narrationBase: m03
 src: ./input/m03-ia-como-profesor.md
 ---

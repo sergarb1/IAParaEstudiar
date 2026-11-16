@@ -62,6 +62,8 @@ Cada módulo de apuntes sigue este orden:
 - No dejar líneas en blanco dentro de un `<div>` de componente: el bloque HTML termina y el contenido queda fuera.
 - El cierre va vacío: el layout ya compone el fondo.
 - Cada presentación incluye el esquema del módulo, dos esquemas de apoyo y una foto de contexto, además de ejemplos resueltos. El build de los decks se hace con `npm run presentaciones:build`; `npm run apuntes:build` lo ejecuta después de Astro para publicarlos en `/presentaciones/m01/` a `/presentaciones/m05/`.
+- **Narración:** `global-bottom.vue` reproduce `public/audio/<deck>/<número>.mp3` y sigue el cambio de diapositiva. El audio se genera con `npm run narracion:generar` (Edge TTS, voz `es-ES-AlvaroNeural`, ritmo `+5%`). Si cambia el texto de una diapositiva, regenera su audio con `python3 scripts/generar-narracion.py --force <deck>`.
+- Los prompts largos no se leen literalmente en la narración: el script los sustituye por una indicación breve para que el audio explique y no duplique la pantalla.
 
 ## Verificación
 

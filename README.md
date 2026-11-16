@@ -53,8 +53,10 @@ npm run dev -- m01-habla-con-la-ia.md
 ├── input/                      # Markdown fuente de las presentaciones
 ├── m01-…m05-….md               # Entradas Slidev (tema, fuentes, src)
 ├── layouts/                    # Portada y cierre de las presentaciones
+├── global-bottom.vue           # Reproductor de narración por diapositiva
 ├── styles/index.css            # Estilos compartidos de las diapositivas
-├── public/                     # Favicon y recursos servibles
+├── public/                     # Favicon, imágenes y audio de la narración
+├── scripts/generar-narracion.py # Genera los MP3 con Edge TTS
 └── package.json
 ```
 
@@ -65,6 +67,7 @@ npm run dev -- m01-habla-con-la-ia.md
 | `npm run apuntes:dev` | Sirve los apuntes en desarrollo |
 | `npm run apuntes:build` | Genera el sitio y las cinco presentaciones en `.apuntes-dist/` |
 | `npm run presentaciones:build` | Genera solo los decks Slidev en `.apuntes-dist/presentaciones/` |
+| `npm run narracion:generar` | Genera la narración de cada diapositiva con Edge TTS (`es-ES-AlvaroNeural`) |
 | `npm run apuntes:preview` | Previsualiza el sitio generado |
 | `npm run dev -- <entrada>.md` | Abre una presentación en desarrollo |
 | `npm run build -- <entrada>.md --out dist/<nombre>` | Genera una presentación estática |
@@ -75,6 +78,8 @@ npm run dev -- m01-habla-con-la-ia.md
 GitHub Actions compila el sitio con Node 22 y lo publica en GitHub Pages mediante `.github/workflows/deploy.yml`. Cada push a `main` actualiza **https://sergarb1.github.io/IAParaEstudiar/**.
 
 El sitio se sirve en el subdirectorio `/IAParaEstudiar/`; ese valor está en `base` dentro de `astro.config.mjs` y los enlaces internos se prefijan automáticamente con `src/integrations/base-links.mjs`.
+
+La narración se genera con `npm run narracion:generar` (requiere `edge-tts`) y se guarda en `public/audio/m01`…`m05`. El botón **Narración** de cada deck reproduce el MP3 de la diapositiva actual y sigue avanzando con ella.
 
 ## Licencia
 

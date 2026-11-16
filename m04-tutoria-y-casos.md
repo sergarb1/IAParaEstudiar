@@ -8,5 +8,6 @@ fonts:
 transition: slide-left
 mdc: false
 codeCopy: false
+narrationBase: m04
 src: ./input/m04-tutoria-y-casos.md
 ---

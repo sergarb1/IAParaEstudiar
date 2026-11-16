@@ -20,10 +20,26 @@ class: compact-slide
 
 ## Un modelo no busca: predice
 
-- No consulta una base de datos: **genera el texto más probable**.
-- Escribe, resume, reformula y traduce muy bien.
-- También **inventa** datos, fechas y citas con total seguridad.
-- Su conocimiento tiene una fecha de corte.
+<div class="comparison-grid">
+<div class="comparison-item good">
+
+### Hace bien
+
+- Redactar, resumir, reformular y traducir.
+- Proponer estructuras, ejemplos y variantes.
+- Mantener el hilo de una conversación.
+
+</div>
+<div class="comparison-item bad">
+
+### Vigila
+
+- Inventa datos, fechas y citas con seguridad.
+- Da por bueno un dato porque suena plausible.
+- Desconoce lo posterior a su fecha de corte.
+
+</div>
+</div>
 
 <div class="info">
 La IA no «sabe» historia ni matemáticas: produce la respuesta más plausible. Comprobar que además es verdadera es tu trabajo.
@@ -88,9 +104,12 @@ image: /imagenes/nivel-eso.jpg
 
 ## Anatomía de una buena instrucción
 
+<div class="two-cols">
+<div class="left">
+
 <div class="step">
   <div class="step-number">1</div>
-  <div class="step-content"><strong>Rol:</strong> ¿desde qué perspectiva habla? «Actúa como profesor de FP de Administración».</div>
+  <div class="step-content"><strong>Rol:</strong> «Actúa como profesor de FP de Administración».</div>
 </div>
 
 <div class="step">
@@ -111,6 +130,22 @@ image: /imagenes/nivel-eso.jpg
 <div class="step">
   <div class="step-number">5</div>
   <div class="step-content"><strong>Restricciones:</strong> no inventar, citar fuente, tono y límites.</div>
+</div>
+
+</div>
+<div class="right">
+
+### Antes de enviar
+
+- ¿Se entiende para qué curso es?
+- ¿Queda claro qué debe devolver?
+- ¿He dicho qué hacer si falta un dato?
+
+<div class="success">
+Si falta una pieza, el modelo la rellena por su cuenta. La comprobación empieza en el prompt.
+</div>
+
+</div>
 </div>
 
 ---
@@ -142,20 +177,12 @@ Pedir que pregunte antes de responder evita que rellene los huecos inventando.
 </div>
 
 ---
-class: compact-slide
+class: visual-slide
 ---
 
-## Del prompt al diálogo
+<img src="/imagenes/ciclo-prompt.svg" alt="Ciclo de iteración: borrador, defecto concreto, variantes, fijar lo que funciona y comprobación" />
 
-1. Pide un **borrador**, sin buscar la perfección.
-2. Señala el **defecto concreto**: «el apartado 3 es genérico».
-3. Pide **variantes**: más breve, con ejemplo cotidiano.
-4. **Fija** lo que funciona: «conserva la estructura».
-5. Cierra con una **comprobación**: «¿qué debería verificar?».
-
-<div class="info">
-Un prompt no es una apuesta única. La conversación es parte del método.
-</div>
+<div class="visual-caption">Un prompt no es una apuesta única: la conversación es parte del método.</div>
 
 ---
 class: compact-slide
@@ -203,6 +230,9 @@ class: compact-slide
 
 ## Ejemplo práctico
 
+<div class="two-cols">
+<div class="left">
+
 <div class="prompt-box">
 <span class="label">4.º ESO · Historia</span>
 Actúa como profesor de Historia de 4.º de ESO.
@@ -212,15 +242,32 @@ Formato: tabla con bloque, tiempo, pregunta, respuesta esperada.
 Restricciones: usa solo el documento. Si falta un dato, escribe «no consta».
 </div>
 
-Resultado: tabla de 6–8 filas con tiempos realistas y preguntas que obligan a recordar.
+</div>
+<div class="right">
+
+### La respuesta debe traer
+
+- 6–8 filas con tiempos realistas.
+- Una pregunta que obligue a recordar.
+- Una respuesta breve para autocorregirse.
+
+<div class="success">
+Si un dato no está en los apuntes, la tabla escribe «no consta». No se inventa la cifra.
+</div>
 
 [Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/eso/)
+
+</div>
+</div>
 
 ---
 class: compact-slide
 ---
 
 ## Ejemplo 2 · Física: pista, no solución
+
+<div class="two-cols">
+<div class="left">
 
 <div class="prompt-box">
 <span class="label">1.º Bachillerato · plano inclinado</span>
@@ -231,8 +278,20 @@ Formato: tabla pregunta / pista / error que detecta.
 Restricciones: no des la solución; usa solo lo adjunto.
 </div>
 
+</div>
+<div class="right">
+
+### Señal de que funciona
+
+- El alumno nombra el paso que falló.
+- Rehace el cálculo sin mirar.
+- Explica por qué el resultado tiene sentido.
+
 <div class="success">
-El alumno localiza el fallo y vuelve a intentarlo. La IA no resuelve por él.
+Si la respuesta empieza por la solución, el prompt no está pidiendo diagnóstico: está pidiendo que resuelva.
+</div>
+
+</div>
 </div>
 
 ---
@@ -240,6 +299,9 @@ class: compact-slide
 ---
 
 ## Ejemplo 3 · Comercio: ficha de producto
+
+<div class="two-cols">
+<div class="left">
 
 <div class="prompt-box">
 <span class="label">Ciclos Formativos · tienda de deporte</span>
@@ -250,8 +312,20 @@ Formato: ficha breve por apartados.
 Restricciones: no inventes precio, medidas ni materiales.
 </div>
 
+</div>
+<div class="right">
+
+### Qué comprobar en mostrador
+
+- Medidas y capacidad reales.
+- Precio y garantía vigentes.
+- Que la objeción no prometa de más.
+
 <div class="info">
 Si el precio no consta, se escribe «consultar». Una ficha útil no necesita inventar nada.
+</div>
+
+</div>
 </div>
 
 ---
@@ -260,6 +334,9 @@ class: compact-slide
 
 ## Errores frecuentes
 
+<div class="two-cols">
+<div class="left">
+
 | Error | Alternativa |
 | --- | --- |
 | «Hazme un resumen» sin más | Curso, objetivo, extensión, destinatario |
@@ -267,6 +344,22 @@ class: compact-slide
 | Pegar datos del alumnado | Anonimizar siempre |
 | Copiar citas sin abrirlas | Verificar cada fuente |
 | Usar la IA para no pensar | Practicar, comprobar, explicar |
+
+</div>
+<div class="right">
+
+### La comprobación que más cuesta
+
+- Abrir la fuente no es leer el título.
+- Iterar no es pedir «mejóralo».
+- Anonimizar es borrar nombres, no cambiarlos.
+
+<div class="warning">
+Si no puedes explicar la respuesta sin mirar, todavía no la has aprendido.
+</div>
+
+</div>
+</div>
 
 ---
 layout: closing

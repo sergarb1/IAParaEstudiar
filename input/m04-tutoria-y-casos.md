@@ -78,9 +78,32 @@ class: compact-slide
 
 ## Caso E · FP Básica: el paso inventado
 
+<div class="two-cols">
+<div class="left">
+
+### Qué pasó
+
 Un tutorial de taller pide a la IA un resumen del procedimiento. El resumen añade «espera diez minutos antes de abrir», una instrucción que no existe en la ficha oficial de seguridad.
 
-**Qué hacer:** parar la actividad y comparar con el procedimiento oficial. En seguridad no se acepta una instrucción inventada aunque suene prudente. El grupo rehace el resumen citando la ficha.
+<div class="warning">
+La instrucción suena prudente, pero no está en la ficha. En seguridad, lo plausible no basta.
+</div>
+
+</div>
+<div class="right">
+
+### Qué hacer
+
+- Parar la actividad antes de seguir.
+- Comparar el resumen con el procedimiento oficial.
+- Rehacer el resumen citando la ficha.
+
+<div class="success">
+El grupo marca en el documento qué añadió la IA y por qué se elimina.
+</div>
+
+</div>
+</div>
 
 ---
 class: compact-slide
@@ -88,9 +111,32 @@ class: compact-slide
 
 ## Caso F · Bachillerato: la fuente contradice
 
+<div class="two-cols">
+<div class="left">
+
+### Qué pasó
+
 Un trabajo de Historia afirma que la crisis de 1929 apenas afectó a Europa. El libro dice lo contrario y el resumen generado omitió el dato. El alumno no abrió la fuente.
 
-**Qué hacer:** volver al capítulo, localizar la frase exacta y reescribir el párrafo con cita. La pregunta no es «¿falló la IA?», sino «¿qué fuente tenía autoridad y por qué no la comprobaste?».
+<div class="warning">
+El problema no es solo la frase: es que el trabajo se entregó sin abrir la fuente que debía sostenerla.
+</div>
+
+</div>
+<div class="right">
+
+### Qué hacer
+
+- Volver al capítulo y localizar la frase exacta.
+- Reescribir el párrafo con cita.
+- Explicar qué fuente tenía autoridad y por qué.
+
+<div class="success">
+La pregunta deja de ser «¿falló la IA?» y pasa a ser «¿por qué no comprobaste?».
+</div>
+
+</div>
+</div>
 
 ---
 class: visual-slide
@@ -99,6 +145,14 @@ class: visual-slide
 <img src="/imagenes/caso-clasificar.svg" alt="Cuatro tipos de error y su respuesta: inventado, mal interpretado, opinión y omisión" />
 
 <div class="visual-caption">Clasificar evita tratarlo todo como copia o aceptarlo todo porque suena bien.</div>
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/caso-tres-preguntas.svg" alt="Marco de tres preguntas para analizar un caso: qué pasó, qué señal lo delata y qué hacer" />
+
+<div class="visual-caption">El mismo marco sirve para una bibliografía inventada, un plazo mal resumido o un itinerario imposible.</div>
 
 ---
 layout: image-right
@@ -119,6 +173,9 @@ class: compact-slide
 
 ## De la frase a la evidencia
 
+<div class="two-cols">
+<div class="left">
+
 | Frase del trabajo | Qué falta | Pregunta de defensa |
 | --- | --- | --- |
 | «Las ventas subieron un 40 %» | La fila de la tabla | ¿De qué dato sale? |
@@ -126,11 +183,30 @@ class: compact-slide
 | «La campaña fue un éxito» | El objetivo | ¿Qué contaba como éxito? |
 | «El plazo es de diez días» | La excepción | ¿Qué caso cambia el resultado? |
 
+</div>
+<div class="right">
+
+### Regla de defensa
+
+- La pregunta se responde señalando la fuente.
+- Si la respuesta es «lo dijo la IA», no hay evidencia.
+- La excepción también se estudia.
+
+<div class="success">
+Una frase sin fuente se convierte en una pregunta, no en una discusión de nota.
+</div>
+
+</div>
+</div>
+
 ---
 class: compact-slide
 ---
 
 ## Tu plan de aplicación
+
+<div class="two-cols">
+<div class="left">
 
 1. **Qué:** una práctica concreta que vas a cambiar.
 2. **Con quién:** nivel, materia y grupo.
@@ -138,8 +214,18 @@ class: compact-slide
 4. **Prueba:** qué observarás para saber si funciona.
 5. **Cuándo:** fecha del primer intento.
 
+</div>
+<div class="right">
+
+### Ejemplo de una línea
+
+«El martes, con 2.º de Comercio, sustituyo el resumen por tres preguntas de recuperación sobre el catálogo. Miro cuántos responden sin apuntes.»
+
 <div class="info">
 No es un entregable: es una decisión que puedes ejecutar la semana siguiente.
+</div>
+
+</div>
 </div>
 
 ---
@@ -181,14 +267,27 @@ class: compact-slide
 
 ## Preguntas para cerrar
 
+<div class="two-cols">
+<div class="left">
+
 - ¿Qué te llevas que no sabías al empezar?
 - ¿Qué probarás primero y qué necesitas para hacerlo?
 - ¿Qué no usarías con menores y por qué?
 - ¿Cómo comprobarás que la IA no te está sustituyendo?
 - Si la herramienta desapareciera, ¿qué parte del método seguiría en pie?
 
+</div>
+<div class="right">
+
+### Elige una y escríbela
+
+Una respuesta de tres líneas vale más que cinco propósitos. Si no puedes nombrar la primera acción, el plan todavía no existe.
+
 <div class="success">
 Un método honesto reconoce límites. Lo que se queda contigo es el criterio, no la herramienta.
+</div>
+
+</div>
 </div>
 
 ---

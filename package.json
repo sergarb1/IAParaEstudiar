@@ -11,6 +11,7 @@
   "scripts": {
     "apuntes:dev": "astro dev",
     "presentaciones:build": "node scripts/build-presentaciones.mjs",
+    "narracion:generar": "python3 scripts/generar-narracion.py",
     "apuntes:build": "astro build && node scripts/build-presentaciones.mjs",
     "apuntes:preview": "astro preview",
     "dev": "slidev --open",

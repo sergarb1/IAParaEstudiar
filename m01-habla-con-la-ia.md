@@ -8,5 +8,6 @@ fonts:
 transition: slide-left
 mdc: false
 codeCopy: false
+narrationBase: m01
 src: ./input/m01-habla-con-la-ia.md
 ---

@@ -8,5 +8,6 @@ fonts:
 transition: slide-left
 mdc: false
 codeCopy: false
+narrationBase: m05
 src: ./input/m05-agentes.md
 ---

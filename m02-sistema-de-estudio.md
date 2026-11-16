@@ -8,5 +8,6 @@ fonts:
 transition: slide-left
 mdc: false
 codeCopy: false
+narrationBase: m02
 src: ./input/m02-sistema-de-estudio.md
 ---

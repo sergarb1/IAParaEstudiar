@@ -39,14 +39,29 @@ class: compact-slide
 
 ## Elegir fuentes que merezcan la pena
 
+<div class="two-cols">
+<div class="left">
+
 - Temario, apuntes propios, capítulos, normativa, artículos de referencia.
 - Nada de resúmenes de resúmenes.
 - PDF con texto: si es un escaneo, pásalo por OCR.
 - Nombres de archivo claros: `tema-3-fotosintesis.pdf`.
 - Un cuaderno por unidad, no cuarenta fuentes mezcladas.
 
+</div>
+<div class="right">
+
+### Prueba rápida
+
+- ¿Es la fuente original o una interpretación?
+- ¿Se puede leer el texto o es una imagen?
+- ¿Pertenece a esta unidad y no a tres materias?
+
 <div class="warning">
 La calidad del cuaderno depende de lo que entra en él. La IA no arregla una fuente mala.
+</div>
+
+</div>
 </div>
 
 ---
@@ -84,6 +99,10 @@ class: visual-slide
 <div class="step">
   <div class="step-number">5</div>
   <div class="step-content">Estudiar con los materiales, no con el chat.</div>
+</div>
+
+<div class="success">
+El orden importa: sin fuentes no hay citas; sin citas no hay materiales fiables. El chat es la herramienta, no el cuaderno.
 </div>
 
 ---
@@ -146,6 +165,9 @@ class: compact-slide
 
 ## Ejemplo práctico
 
+<div class="two-cols">
+<div class="left">
+
 <div class="prompt-box">
 <span class="label">1.º Bachillerato · Biología</span>
 Con las tres fuentes de este cuaderno:
@@ -155,17 +177,32 @@ Con las tres fuentes de este cuaderno:
 4. Avísame si las fuentes no coinciden en algún dato.
 </div>
 
+</div>
+<div class="right">
+
+### Qué comprobar
+
+- Abre dos citas al azar.
+- Comprueba que la pregunta se responde con la fuente.
+- Busca la advertencia si hay discrepancia.
+
 <div class="success">
-Resultado: resumen con citas, tabla de conceptos y diez preguntas con referencia. Si hay discrepancia, debe aparecer una advertencia.
+Si la cita no respalda la frase, el material no se usa. Da igual lo bien redactado que esté.
 </div>
 
 [Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/bachillerato/)
+
+</div>
+</div>
 
 ---
 class: compact-slide
 ---
 
 ## Ejemplo 2 · ESO: vocabulario en contexto
+
+<div class="two-cols">
+<div class="left">
 
 <div class="prompt-box">
 <span class="label">3.º ESO · Inglés</span>
@@ -176,8 +213,20 @@ Con la lista de vocabulario, el diálogo y mis apuntes:
 No inventes ejemplos que no estén en las fuentes.
 </div>
 
+</div>
+<div class="right">
+
+### Qué mirar
+
+- ¿Las preguntas de uso obligan a escribir?
+- ¿Cada pregunta tiene su cita?
+- ¿Las confusiones se explican en una línea?
+
 <div class="success">
-Doce preguntas con cita y una tabla de confusiones. Las de uso obligan a producir, no solo a reconocer.
+Doce preguntas con cita y una tabla de confusiones. Reconocer una palabra no es lo mismo que usarla.
+</div>
+
+</div>
 </div>
 
 ---
@@ -185,6 +234,9 @@ class: compact-slide
 ---
 
 ## Ejemplo 3 · Informática: revisar un repositorio
+
+<div class="two-cols">
+<div class="left">
 
 <div class="prompt-box">
 <span class="label">Ciclos Formativos · Entornos de Desarrollo</span>
@@ -194,8 +246,20 @@ Distingue error, riesgo y preferencia. Cita archivo o sección.
 No propongas código completo: solo qué revisar y por qué.
 </div>
 
+</div>
+<div class="right">
+
+### Qué comprobar
+
+- ¿Cada punto cita archivo o sección?
+- ¿Distingue error de preferencia?
+- ¿Marca «no consta» si falta contexto?
+
 <div class="info">
 Un checklist de 8–10 puntos con gravedad, evidencia y acción. Lo que no esté en el repositorio se marca «no consta».
+</div>
+
+</div>
 </div>
 
 ---
@@ -216,14 +280,29 @@ class: compact-slide
 
 ## Límites que hay que conocer
 
+<div class="two-cols">
+<div class="left">
+
 - Un PDF escaneado sin OCR da respuestas pobres.
 - Mezclar asignaturas produce respuestas vagas.
 - Las citas pueden interpretar mal el fragmento: **ábrelo**.
 - El audio no sustituye la recuperación activa.
 - Copiar el resumen en un trabajo es plagio, no estudio.
 
+</div>
+<div class="right">
+
+### Regla de seguridad
+
+- Dos citas al azar por sesión.
+- Una fuente oficial para cada dato sensible.
+- Si no puedes explicarlo, vuelve al material.
+
 <div class="warning">
-Comprueba dos citas al azar en cada sesión. Si no respaldan la frase, el material no se usa.
+Si la cita no respalda la frase, el material no se usa. La sensación de haber estudiado no es aprendizaje.
+</div>
+
+</div>
 </div>
 
 ---
