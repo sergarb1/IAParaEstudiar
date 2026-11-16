@@ -65,6 +65,14 @@ Reglas: no entregues trabajos listos; corrige el error concreto; si no sabes alg
 </div>
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/tutor-sesion.svg" alt="Guion de una sesión de tutoría de veinte minutos" />
+
+<div class="visual-caption">Diagnóstico, intento, corrección y transferencia: el alumno hace el trabajo.</div>
+
+---
 class: compact-slide
 ---
 
@@ -100,6 +108,14 @@ Diseña un plan con repasos espaciados y un simulacro por bloque.
 Formato: tabla por día con bloque, técnica, tiempo y pregunta de control.
 Restricciones: deja un día libre antes del examen e incluye un repaso de errores. Si no cabe, recorta y dilo.
 </div>
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/examen-plan.svg" alt="Plan de examen hacia atrás desde hoy hasta la prueba" />
+
+<div class="visual-caption">El plan se construye desde el examen hacia hoy, no desde la urgencia de la última noche.</div>
 
 ---
 class: compact-slide
@@ -149,6 +165,58 @@ Cuando acierte, sube la dificultad con un caso de silencio administrativo. Al fi
 </div>
 
 [Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/fp-administracion/)
+
+---
+class: compact-slide
+---
+
+## Ejemplo 2 · ESO: el tutor que espera
+
+<div class="prompt-box">
+<span class="label">3.º ESO · Inglés · past simple</span>
+Actúa como tutor de Inglés.
+Haz una pregunta de recuperación y espera.
+Si fallo, da una pista sobre la forma verbal, no la respuesta.
+Pídeme una frase nueva con un verbo irregular.
+Cierra con dos preguntas para mañana.
+No corrijas la frase entera: señala solo el error.
+</div>
+
+<div class="success">
+Cuatro o cinco turnos en los que el alumno produce las frases. El tutor no escribe la solución antes del intento.
+</div>
+
+---
+class: compact-slide
+---
+
+## Ejemplo 3 · Informática: depuración guiada
+
+<div class="prompt-box">
+<span class="label">Ciclos Formativos · Entornos de Desarrollo</span>
+Actúa como tutor. Te adjunto código y mensaje de error.
+No des la corrección. Pregunta qué esperaba el alumno, pide una hipótesis y da una pista sobre el caso límite.
+Cuando lo corrija, pide explicar por qué funciona y qué prueba añadiría.
+</div>
+
+<div class="info">
+Hipótesis, pista y explicación propia. El tutor no entrega código completo ni acepta «funciona» como explicación.
+</div>
+
+---
+class: compact-slide
+---
+
+## Feynman en cuatro preguntas
+
+1. ¿Qué problema resuelve este concepto?
+2. ¿Cómo lo explicarías sin usar la palabra que estás aprendiendo?
+3. ¿Dónde está el límite o la excepción?
+4. ¿Qué ejemplo nuevo lo demuestra?
+
+<div class="warning">
+Si necesitas los apuntes para responder, todavía no lo dominas. Vuelve al tutor con una pregunta concreta.
+</div>
 
 ---
 class: compact-slide

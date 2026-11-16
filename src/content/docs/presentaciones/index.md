@@ -1,9 +1,9 @@
 ---
 title: Presentaciones
-description: "Cinco presentaciones resumen creadas con Slidev para proyectar en el aula, con esquemas y fotos."
+description: "Cinco presentaciones de apoyo creadas con Slidev para proyectar en el aula, con esquemas, ejemplos resueltos y fotos."
 ---
 
-Cada módulo tiene una **presentación resumen** para proyectar en clase. Están hechas con Slidev, se abren en el navegador y no necesitan instalar nada. Incluyen los esquemas del curso y una imagen de contexto en cada deck.
+Cada módulo tiene una **presentación de apoyo** para proyectar en clase. Están hechas con Slidev, se abren en el navegador y no necesitan instalar nada. Cada deck incluye entre 15 y 18 diapositivas, tres esquemas propios, una foto de contexto y ejemplos resueltos de distintas materias.
 
 <div class="presentation-grid">
   <a class="presentation-card" href="/presentaciones/m01/">

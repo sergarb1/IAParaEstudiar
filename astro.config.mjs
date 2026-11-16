@@ -37,6 +37,7 @@ export default defineConfig({
         {
           label: 'El curso',
           items: [
+            { label: 'Portada', link: '/' },
             { label: 'Vista general', link: '/modulos/' },
             { label: 'Módulo 1 · Habla con la IA', link: '/modulos/1-habla-con-la-ia/' },
             { label: 'Módulo 2 · Sistema de estudio', link: '/modulos/2-sistema-de-estudio/' },

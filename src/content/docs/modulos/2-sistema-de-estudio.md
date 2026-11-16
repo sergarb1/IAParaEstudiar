@@ -54,6 +54,13 @@ La calidad del cuaderno depende de lo que entra en él. Antes de subir nada:
 
 En el plan gratuito hay un número máximo de fuentes y de cuadernos. Los límites cambian: consulta el plan vigente antes de prometer nada en clase.
 
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/fuentes-notebook.svg" alt="Tres fuentes pasan por los filtros de fuente primaria, texto legible y una sola unidad antes de entrar en el cuaderno." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. Un cuaderno útil empieza por descartar: resúmenes de resúmenes y escaneos sin OCR no deberían entrar.</figcaption>
+</figure>
+
 ## 3. El flujo de trabajo
 
 <div class="checklist">
@@ -92,6 +99,13 @@ Un sistema no es una colección de herramientas: es una rutina con entradas y sa
 
 La IA aparece en los extremos (preparar y comprobar). El centro del sistema sigue siendo **leer, escribir y explicar**.
 
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/rutina-repaso.svg" alt="Línea de tiempo de repaso a los cero, dos, siete y catorce días, con la técnica y la herramienta de cada momento." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. La IA prepara los materiales y el calendario; la memoria se construye al cumplir los repasos.</figcaption>
+</figure>
+
 ## Ejemplo práctico del módulo
 
 **Situación:** el alumnado de 1.º de Bachillerato tiene un tema de Biología con tres fuentes: apuntes de clase, un capítulo del libro y una infografía del profesor.
@@ -129,6 +143,47 @@ Un resumen con citas clicables, una tabla de conceptos confundibles y diez pregu
 **Enlace al resultado desarrollado:** [Ejemplo de Bachillerato · sistema de estudio de Biología](/niveles/bachillerato/).
 
 **Comprobación:** elegir dos citas al azar y abrir el fragmento original. Si la cita no respalda la frase, el material no se usa.
+
+## Dos ejemplos más, en otras materias
+
+### ESO · Inglés: vocabulario en contexto
+
+<div class="prompt-box">
+<span class="label">Prompt dentro del cuaderno</span>
+Con la lista de vocabulario, el diálogo del libro y mis apuntes de clase:
+1. Prepara 12 preguntas de recuperación: seis de significado y seis de uso en una frase nueva.
+2. Marca junto a cada pregunta la fuente que la respalda.
+3. Señala tres palabras que se confunden fácilmente y explica la diferencia en una línea.
+No inventes ejemplos que no aparezcan en las fuentes.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Doce preguntas graduadas, cada una con su cita, y una tabla de tres confusiones habituales. Las preguntas de uso obligan a producir una frase, no solo a reconocer la palabra.
+</div>
+
+### Ciclos Formativos · Informática: revisar un repositorio
+
+<div class="prompt-box">
+<span class="label">Prompt dentro del cuaderno</span>
+En este cuaderno tienes el README, la guía de estilo y dos issues del proyecto.
+Genera un checklist de revisión para un pull request de 10 archivos.
+Distingue entre error, riesgo y preferencia de estilo, y cita el archivo o la sección que respalda cada punto.
+No propongas código completo: solo qué revisar y por qué.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Un checklist de 8–10 puntos con tres columnas: gravedad, evidencia y acción. Los puntos sin respaldo en el repositorio se marcan como «no consta» y no se convierten en reglas inventadas.
+</div>
+
+### Cuando las fuentes no coinciden
+
+| Situación | Qué pedir | Qué haces |
+| --- | --- | --- |
+| Dos fuentes dan cifras distintas | «Muéstrame ambas y no las sintetices» | Usar la oficial y anotar la diferencia |
+| La norma y el resumen no coinciden | «Cita el artículo y la fecha de la versión» | Prevalece la versión vigente; el resumen se descarta |
+| El libro omite algo que sí está en tus apuntes | «Marca el hueco y la fuente que lo completa» | Completar con los apuntes y señalarlo |
 
 ## 6. Límites y errores frecuentes
 

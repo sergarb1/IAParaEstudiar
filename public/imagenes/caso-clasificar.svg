@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Cuatro errores, cuatro respuestas</title>
+<desc id="desc">Clasificación de dato inventado, mal interpretado, opinión sin evidencia y omisión, con la respuesta adecuada.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 4 · Casos</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">Cuatro errores, cuatro respuestas</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Clasificar la afirmación antes de decidir qué hacer</text>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="202" width="520" height="140" rx="16" fill="#ffffff" stroke="#fecaca"/>
+  <rect x="64" y="202" width="7" height="140" rx="3" fill="#ef4444"/>
+  <text x="90" y="235" font-size="15" font-weight="700" fill="#b91c1c">DATO INVENTADO</text>
+  <text x="90" y="266" font-size="18" fill="#0c1424">«Las ventas crecieron un 40 %.»</text>
+  <text x="90" y="294" font-size="15" fill="#46536a">La tabla muestra un 12 %. La cifra no existe.</text>
+  <text x="90" y="322" font-size="16" font-weight="700" fill="#2563eb">Abre la fuente y elimina la cifra.</text>
+
+  <rect x="616" y="202" width="520" height="140" rx="16" fill="#ffffff" stroke="#fde68a"/>
+  <rect x="616" y="202" width="7" height="140" rx="3" fill="#f59e0b"/>
+  <text x="642" y="235" font-size="15" font-weight="700" fill="#92400e">DATO MAL INTERPRETADO</text>
+  <text x="642" y="266" font-size="18" fill="#0c1424">«El vídeo funcionó mejor.»</text>
+  <text x="642" y="294" font-size="15" fill="#46536a">Tuvo más impresiones, pero menos conversiones.</text>
+  <text x="642" y="322" font-size="16" font-weight="700" fill="#2563eb">Vuelve a la métrica y al objetivo.</text>
+
+  <rect x="64" y="362" width="520" height="140" rx="16" fill="#ffffff" stroke="#bfdbfe"/>
+  <rect x="64" y="362" width="7" height="140" rx="3" fill="#2563eb"/>
+  <text x="90" y="395" font-size="15" font-weight="700" fill="#1d4ed8">OPINIÓN SIN EVIDENCIA</text>
+  <text x="90" y="426" font-size="18" fill="#0c1424">«La campaña fue un éxito.»</text>
+  <text x="90" y="454" font-size="15" fill="#46536a">No se definió qué contaría como éxito.</text>
+  <text x="90" y="482" font-size="16" font-weight="700" fill="#2563eb">Pide el criterio y la prueba.</text>
+
+  <rect x="616" y="362" width="520" height="140" rx="16" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="616" y="362" width="7" height="140" rx="3" fill="#64748b"/>
+  <text x="642" y="395" font-size="15" font-weight="700" fill="#475569">OMISIÓN</text>
+  <text x="642" y="426" font-size="18" fill="#0c1424">«El plazo es de diez días.»</text>
+  <text x="642" y="454" font-size="15" fill="#46536a">Falta la excepción que cambia el supuesto.</text>
+  <text x="642" y="482" font-size="16" font-weight="700" fill="#2563eb">Compara con el texto completo.</text>
+</g>
+
+<rect x="64" y="532" width="1072" height="52" rx="14" fill="#1e3a8a"/>
+<text x="92" y="565" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#ffffff">No es lo mismo corregir un dato que acusar de copiar: clasifica antes de hablar.</text>
+</svg>

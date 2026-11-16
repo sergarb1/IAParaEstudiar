@@ -30,7 +30,7 @@ Cada módulo incluye, al final de su página, un apartado **Para el docente** co
 
 ```text
 src/content/docs/
-├── index.mdx           # Portada (template: splash)
+├── index.mdx           # Portada (template: doc, con hero y barra lateral)
 ├── modulos/
 │   ├── index.md
 │   ├── 1-habla-con-la-ia.md
@@ -61,7 +61,7 @@ Cada módulo de apuntes sigue este orden:
 - Clases disponibles: `.info`, `.warning`, `.success`, `.step`, `.comparison-grid`, `.prompt-box`, `.teacher-note`, `.checklist`, `.two-cols`, `.badge`, `compact-slide`, `sparse-slide`.
 - No dejar líneas en blanco dentro de un `<div>` de componente: el bloque HTML termina y el contenido queda fuera.
 - El cierre va vacío: el layout ya compone el fondo.
-- Cada presentación incluye una diapositiva visual con su esquema y otra con una foto de contexto. El build de los decks se hace con `npm run presentaciones:build`; `npm run apuntes:build` lo ejecuta después de Astro para publicarlos en `/presentaciones/m01/` a `/presentaciones/m05/`.
+- Cada presentación incluye el esquema del módulo, dos esquemas de apoyo y una foto de contexto, además de ejemplos resueltos. El build de los decks se hace con `npm run presentaciones:build`; `npm run apuntes:build` lo ejecuta después de Astro para publicarlos en `/presentaciones/m01/` a `/presentaciones/m05/`.
 
 ## Verificación
 

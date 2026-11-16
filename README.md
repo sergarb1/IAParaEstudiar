@@ -1,6 +1,6 @@
 # IA para estudiar
 
-Curso para docentes sobre cómo comunicarse con la inteligencia artificial y cómo enseñar a usarla con criterio. Incluye **apuntes** (Astro + Starlight), **presentaciones resumen** (Slidev, una por módulo) y **ejemplos del tema por nivel educativo**.
+Curso para docentes sobre cómo comunicarse con la inteligencia artificial y cómo enseñar a usarla con criterio. Incluye **apuntes** (Astro + Starlight), **presentaciones de apoyo** (Slidev, una por módulo, con esquemas y ejemplos resueltos) y **ejemplos del tema por nivel educativo**.
 
 Sitio publicado: **https://sergarb1.github.io/IAParaEstudiar/**
 

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">El bucle del agente, con frenos</title>
+<desc id="desc">Disparador, lectura, filtro, escritura y revisión humana, con permisos y una condición de parada.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 5 · Flujo</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">El bucle del agente, con frenos</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Cada paso tiene un permiso; el último, una persona</text>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="238" width="184" height="156" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="86" y="274" font-size="14" font-weight="700" fill="#2563eb">DISPARADOR</text>
+  <text x="86" y="306" font-size="19" font-weight="700" fill="#0c1424">Viernes,</text>
+  <text x="86" y="329" font-size="19" font-weight="700" fill="#0c1424">18:00</text>
+  <text x="86" y="360" font-size="14" fill="#46536a">Tarea programada.</text>
+
+  <rect x="288" y="238" width="184" height="156" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="310" y="274" font-size="14" font-weight="700" fill="#2563eb">LECTURA</text>
+  <text x="310" y="306" font-size="19" font-weight="700" fill="#0c1424">Lee las</text>
+  <text x="310" y="329" font-size="19" font-weight="700" fill="#0c1424">fuentes</text>
+  <text x="310" y="360" font-size="14" fill="#46536a">Notas y anuncios.</text>
+
+  <rect x="512" y="238" width="184" height="156" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="534" y="274" font-size="14" font-weight="700" fill="#2563eb">FILTRO</text>
+  <text x="534" y="306" font-size="19" font-weight="700" fill="#0c1424">Solo lo que</text>
+  <text x="534" y="329" font-size="19" font-weight="700" fill="#0c1424">afecta al tema</text>
+  <text x="534" y="360" font-size="14" fill="#46536a">Lista de temas adjunta.</text>
+
+  <rect x="736" y="238" width="184" height="156" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="758" y="274" font-size="14" font-weight="700" fill="#2563eb">ESCRITURA</text>
+  <text x="758" y="306" font-size="19" font-weight="700" fill="#0c1424">Resumen +</text>
+  <text x="758" y="329" font-size="19" font-weight="700" fill="#0c1424">ejemplo</text>
+  <text x="758" y="360" font-size="14" fill="#46536a">Solo en «novedades».</text>
+
+  <rect x="960" y="238" width="176" height="156" rx="16" fill="#1e3a8a"/>
+  <text x="982" y="274" font-size="14" font-weight="700" fill="#93c5fd">REVISIÓN</text>
+  <text x="982" y="306" font-size="19" font-weight="700" fill="#ffffff">Docente</text>
+  <text x="982" y="329" font-size="19" font-weight="700" fill="#ffffff">valida</text>
+  <text x="982" y="360" font-size="14" fill="#dce9ff">Antes de publicar.</text>
+</g>
+
+<g stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)">
+  <path d="M248 316 H282"/>
+  <path d="M472 316 H506"/>
+  <path d="M696 316 H730"/>
+  <path d="M920 316 H954"/>
+</g>
+
+<g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700">
+  <rect x="86" y="408" width="140" height="26" rx="13" fill="#eff6ff"/><text x="156" y="426" text-anchor="middle" fill="#1d4ed8">dispara</text>
+  <rect x="310" y="408" width="140" height="26" rx="13" fill="#eff6ff"/><text x="380" y="426" text-anchor="middle" fill="#1d4ed8">solo lectura</text>
+  <rect x="534" y="408" width="140" height="26" rx="13" fill="#eff6ff"/><text x="604" y="426" text-anchor="middle" fill="#1d4ed8">solo lectura</text>
+  <rect x="758" y="408" width="140" height="26" rx="13" fill="#f0fdf4"/><text x="828" y="426" text-anchor="middle" fill="#15803d">escritura limitada</text>
+  <rect x="982" y="408" width="130" height="26" rx="13" fill="#fffbeb"/><text x="1047" y="426" text-anchor="middle" fill="#92400e">humano</text>
+</g>
+
+<path d="M1048 445 V472 H380 V400" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<text x="714" y="464" font-family="Inter, system-ui, sans-serif" font-size="14" fill="#64748b">Si falta contexto, vuelve a leer; no improvises.</text>
+
+<rect x="64" y="514" width="1072" height="52" rx="14" fill="#1e3a8a"/>
+<text x="92" y="547" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#ffffff">Parada: 5 fuentes o 15 minutos. Sin revisión humana, no se publica nada.</text>
+</svg>

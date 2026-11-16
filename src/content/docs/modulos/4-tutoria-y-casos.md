@@ -73,12 +73,57 @@ Un resumen de normativa laboral elimina la excepción que cambia el resultado de
 
 **Qué hacer:** comparar el resumen con el texto legal y localizar qué se ha perdido. Enseñar que resumir es jerarquizar, y que la IA jerarquiza con criterios distintos a los del examen.
 
+### Caso E · El paso de seguridad que no existe en FP Básica
+
+Un grupo graba un tutorial de taller y pide a la IA un resumen del procedimiento. El resumen añade un paso —«espera diez minutos antes de abrir»— que no aparece en la ficha oficial de seguridad.
+
+**Qué hacer:** detener la actividad y comparar el resumen con el procedimiento oficial. En seguridad no se acepta una instrucción inventada aunque suene prudente. El alumnado rehace el resumen citando la ficha y marca explícitamente lo que la IA añadió.
+
+### Caso F · La fuente que contradice al resumen en Bachillerato
+
+Un trabajo de Historia afirma que la crisis de 1929 apenas afectó a Europa. El libro de texto dice lo contrario y el resumen generado omitió el dato. El alumno no ha abierto la fuente.
+
+**Qué hacer:** volver al capítulo, localizar la frase exacta y reescribir el párrafo con cita. La discusión no es «la IA se equivocó», sino «qué fuente tenía autoridad y por qué no la comprobaste».
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/caso-clasificar.svg" alt="Cuatro tipos de error: dato inventado, mal interpretado, opinión sin evidencia y omisión, con una respuesta para cada uno." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. La clasificación evita dos errores frecuentes: tratarlo todo como copia o aceptar todo porque el texto suena bien.</figcaption>
+</figure>
+
 ## 4. Preguntas que aparecen siempre
 
 - **«¿Cuánto tiempo hay que dedicar?»** Menos del que parece: un sistema pequeño y usado vale más que uno ambicioso y abandonado.
 - **«¿Puedo usar herramientas que no sean las del curso?»** Sí, si justificas la elección y explicas la verificación.
 - **«¿Y si mi centro prohíbe la IA?»** Diseña el sistema para el aula o para tu preparación personal y explica cómo respeta la norma.
 - **«¿Tengo que enseñar capturas?»** No. Basta con el prompt, el resultado y la comprobación por escrito.
+
+## 5. Tu plan de aplicación
+
+El cierre de la sesión no es un entregable largo: es una decisión que se puede ejecutar la semana siguiente.
+
+<div class="checklist">
+
+1. **Qué:** una práctica concreta que vas a cambiar.
+2. **Con quién:** nivel, materia y grupo.
+3. **Cómo:** herramienta, fuentes y pasos.
+4. **Qué lo prueba:** el indicador que observarás.
+5. **Cuándo:** la fecha del primer intento.
+</div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/plan-aplicacion.svg" alt="Plan de aplicación de una página con qué cambia, con quién, cómo, qué lo prueba y cuándo, junto a tres señales de éxito." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. Un plan útil cabe en una página y tiene fecha; lo demás es una lista de buenas intenciones.</figcaption>
+</figure>
+
+### Tres preguntas para la defensa oral
+
+1. ¿De qué fuente sale esta afirmación?
+2. ¿Qué alternativa descartaste y por qué?
+3. ¿Qué tendrías que medir para demostrar que funciona?
 
 ## Ejemplo de caso resuelto
 

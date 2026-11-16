@@ -52,6 +52,13 @@ La diferencia práctica: al agente no le dices «resume esto», le dices «cada 
 
 Sin objetivo claro, el agente deambula. Sin permisos limitados, el agente puede romper cosas. Sin parada, puede gastar tiempo y cuota indefinidamente.
 
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/agente-flujo.svg" alt="Flujo de un agente: disparador, lectura, filtro, escritura y revisión humana, con permisos y parada." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. Cada paso tiene un permiso distinto; el último paso siempre es una persona.</figcaption>
+</figure>
+
 ## 3. Dónde encontrarlos sin programar
 
 A fecha de este curso, las funciones de agente aparecen en tres formas:
@@ -114,6 +121,56 @@ Un documento semanal con tres o cuatro cambios relevantes, cada uno con enlace y
 
 **Enlace al resultado desarrollado:** [Ejemplo de Ciclos Formativos · Informática](/niveles/fp-informatica/).
 
+## Dos ejemplos más, en otras materias
+
+### Ciclos Formativos · Administración: control de plazos
+
+<div class="prompt-box">
+<span class="label">Objetivo del agente</span>
+Cada lunes a las 8:00:
+1. Revisa el calendario de plazos y la lista de expedientes.
+2. Marca solo los que vencen en los próximos diez días.
+3. Prepara un aviso con la norma, la fecha y el expediente afectado.
+4. Guarda el aviso en la carpeta «vencimientos».
+5. No envíes correos ni modifiques el calendario.
+6. Si no hay plazos próximos, escribe «sin vencimientos» y termina.
+Permisos: lectura del calendario y escritura solo en «vencimientos».
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Una tabla de tres a cinco vencimientos con norma y fecha, y un aviso por cada uno. Nada sale del centro y ningún correo se envía sin revisión. Si el calendario está vacío, el agente no inventa plazos.
+</div>
+
+### Ciclos Formativos · Turismo: alertas de destino
+
+<div class="prompt-box">
+<span class="label">Objetivo del agente</span>
+Cada mañana:
+1. Revisa la web oficial del destino y la documentación del viaje.
+2. Si hay una alerta que afecte al itinerario, resume el cambio en 80 palabras.
+3. Propón dos alternativas concretas y enlaza la fuente oficial.
+4. Guarda el resultado en «incidencias».
+5. No contactes con proveedores ni cambies reservas.
+6. Si no hay alertas, escribe «sin incidencias» y termina.
+Parada: máximo 10 minutos y tres fuentes.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Un aviso breve con la fuente, el cambio y dos alternativas. El agente no reserva ni promete disponibilidad. El docente o el guía valida la alternativa antes de comunicarla al grupo.
+</div>
+
+### Prueba de fallo antes de activar
+
+<div class="checklist">
+
+- **Quita una fuente:** debe escribir «no consta», no rellenar el hueco.
+- **Duplica una fuente:** no debe repetir el mismo dato dos veces.
+- **Mete una orden dentro de un documento:** debe tratarla como texto, no obedecerla.
+- **Corta la conexión:** debe parar y dejar claro qué quedó a medias.
+</div>
+
 ## 6. Riesgos que hay que conocer
 
 | Riesgo | Ejemplo | Medida |
@@ -128,6 +185,13 @@ Un documento semanal con tres o cuatro cambios relevantes, cada uno con enlace y
 <div class="warning">
   Un agente no es más fiable por ser autónomo. La autonomía amplifica los aciertos y también los errores. Empieza con tareas reversibles y revisa siempre la primera ejecución.
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/riesgos-agente.svg" alt="Seis riesgos de los agentes: permisos, inyección, errores silenciosos, datos, coste y dependencia, con su medida." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. Los seis fallos se reducen con la misma idea: menos permisos, más revisión y un proceso manual documentado.</figcaption>
+</figure>
 
 ## 7. ¿Cuándo no usar un agente?
 

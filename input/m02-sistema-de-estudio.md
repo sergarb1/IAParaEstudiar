@@ -50,6 +50,13 @@ La calidad del cuaderno depende de lo que entra en él. La IA no arregla una fue
 </div>
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/fuentes-notebook.svg" alt="Tres filtros para seleccionar fuentes antes de crear el cuaderno" />
+
+<div class="visual-caption">Tres filtros: fuente primaria, texto legible y una sola unidad. Lo que no pasa, fuera.</div>
+
 ---
 
 ## El flujo de trabajo
@@ -126,6 +133,14 @@ class: compact-slide
 </div>
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/rutina-repaso.svg" alt="Línea de tiempo de repaso a los cero, dos, siete y catorce días" />
+
+<div class="visual-caption">La IA prepara los materiales y el calendario; la memoria se construye al cumplir los repasos.</div>
+
+---
 class: compact-slide
 ---
 
@@ -145,6 +160,55 @@ Resultado: resumen con citas, tabla de conceptos y diez preguntas con referencia
 </div>
 
 [Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/bachillerato/)
+
+---
+class: compact-slide
+---
+
+## Ejemplo 2 · ESO: vocabulario en contexto
+
+<div class="prompt-box">
+<span class="label">3.º ESO · Inglés</span>
+Con la lista de vocabulario, el diálogo y mis apuntes:
+1. Doce preguntas: seis de significado y seis de uso en una frase nueva.
+2. Cita la fuente de cada pregunta.
+3. Tres palabras que se confunden, con la diferencia en una línea.
+No inventes ejemplos que no estén en las fuentes.
+</div>
+
+<div class="success">
+Doce preguntas con cita y una tabla de confusiones. Las de uso obligan a producir, no solo a reconocer.
+</div>
+
+---
+class: compact-slide
+---
+
+## Ejemplo 3 · Informática: revisar un repositorio
+
+<div class="prompt-box">
+<span class="label">Ciclos Formativos · Entornos de Desarrollo</span>
+Con el README, la guía de estilo y dos issues:
+Genera un checklist para revisar un pull request de 10 archivos.
+Distingue error, riesgo y preferencia. Cita archivo o sección.
+No propongas código completo: solo qué revisar y por qué.
+</div>
+
+<div class="info">
+Un checklist de 8–10 puntos con gravedad, evidencia y acción. Lo que no esté en el repositorio se marca «no consta».
+</div>
+
+---
+class: compact-slide
+---
+
+## Cuando las fuentes no coinciden
+
+| Situación | Qué pedir | Qué haces |
+| --- | --- | --- |
+| Dos cifras distintas | «Muéstrame ambas, no las sintetices» | Usar la oficial y anotar la diferencia |
+| Norma y resumen chocan | «Cita artículo y fecha de versión» | Gana la versión vigente |
+| El libro omite algo | «Marca el hueco y la fuente que lo completa» | Completar con apuntes y señalarlo |
 
 ---
 class: compact-slide

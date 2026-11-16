@@ -27,7 +27,7 @@ Al terminar el curso, el profesorado participante será capaz de:
 | 4 | 4 | Tutoría, casos reales y plan de aplicación | [Apuntes](/modulos/4-tutoria-y-casos/) |
 | 5 | 5 | Agentes para principiantes | [Apuntes](/modulos/5-agentes/) |
 
-Cada módulo tiene además una **presentación resumen** de Slidev en el repositorio (`m01-habla-con-la-ia.md` … `m05-agentes.md`), pensada para proyectar en la sesión. Los apuntes contienen el desarrollo completo y las anotaciones docentes.
+Cada módulo tiene además una **presentación de apoyo** de Slidev en el repositorio (`m01-habla-con-la-ia.md` … `m05-agentes.md`), pensada para proyectar en la sesión. Incluye varios esquemas, ejemplos resueltos y una foto de contexto. Los apuntes contienen el desarrollo completo y las anotaciones docentes.
 
 ## Hilo conductor
 

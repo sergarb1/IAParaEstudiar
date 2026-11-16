@@ -67,6 +67,13 @@ Empieza preguntando por el tema y por el examen o entrega que tiene delante.
 
 Con ese texto, el tutor deja de ser una máquina de respuestas y se convierte en un examinador paciente.
 
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/tutor-sesion.svg" alt="Guion de una sesión de tutoría de veinte minutos: diagnóstico, intento, corrección y transferencia." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. El tutor no empieza explicando: empieza preguntando y esperando la respuesta.</figcaption>
+</figure>
+
 ## 3. Técnicas que funcionan
 
 | Técnica | Qué hace la IA | Qué hace el alumnado |
@@ -106,6 +113,13 @@ Tarea: diseña un plan de estudio con repasos espaciados y un simulacro por bloq
 Formato: tabla por día con bloque, técnica, tiempo y pregunta de control.
 Restricciones: no planifiques sesiones de más de [minutos]; deja un día libre antes del examen; incluye un día de repaso de errores. Si el plan no cabe, recorta contenido y dilo.
 </div>
+
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/examen-plan.svg" alt="Plan de examen hacia atrás: inventario, bloques débiles, simulacro, errores, descanso y examen." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. El plan se construye desde el examen hacia hoy, no desde la urgencia de la última noche.</figcaption>
+</figure>
 
 ## 5. Documentos académicos
 
@@ -168,6 +182,44 @@ Una secuencia de preguntas encadenadas, correcciones con la norma aplicable y un
 **Enlace al resultado desarrollado:** [Ejemplo de Ciclos Formativos · Administración](/niveles/fp-administracion/).
 
 **Comprobación:** cada corrección se contrasta con el texto de la norma o con los apuntes. Si el tutor cita un artículo que no existe, se descarta y se anota el fallo.
+
+## Dos ejemplos más, en otras materias
+
+### ESO · Inglés: el tutor que espera
+
+<div class="prompt-box">
+<span class="label">Sesión de tutoría</span>
+Actúa como tutor de Inglés de 3.º ESO. Hoy trabajamos el past simple.
+Hazme una pregunta de recuperación y espera mi respuesta. Si fallo, dame una pista sobre la forma verbal, no la respuesta. Después pídeme una frase nueva con un verbo irregular y cierra con dos preguntas para mañana.
+No corrijas la frase entera: señala solo el error concreto.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Una conversación de cuatro o cinco turnos en la que el alumno produce las frases. El tutor señala el error, da una pista y vuelve a pedir el intento; no escribe la frase correcta antes de que el alumno lo intente.
+</div>
+
+### Ciclos Formativos · Informática: depuración guiada
+
+<div class="prompt-box">
+<span class="label">Sesión de tutoría</span>
+Actúa como tutor de Entornos de Desarrollo. Te adjunto un fragmento de código y el mensaje de error.
+No me des la corrección. Pregúntame qué esperaba que hiciera el código, pídeme una hipótesis y dame una pista sobre el caso límite. Cuando lo corrija, pídeme explicar por qué funciona y qué prueba añadiría.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Una hipótesis del alumno, una pista que apunta al caso límite y una explicación final propia. El tutor no entrega código completo ni acepta «funciona» como explicación.
+</div>
+
+## Cuatro preguntas para comprobar que lo entiendes
+
+1. ¿Qué problema resuelve este concepto?
+2. ¿Cómo lo explicarías sin usar la palabra que estás aprendiendo?
+3. ¿Dónde está el límite o la excepción?
+4. ¿Qué ejemplo nuevo lo demuestra?
+
+Si no puedes responder a las cuatro, vuelve al tema con el tutor. Si las respondes pero necesitas los apuntes, todavía no lo dominas.
 
 ## Errores frecuentes
 

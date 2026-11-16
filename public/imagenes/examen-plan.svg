@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Plan de examen hacia atrás</title>
+<desc id="desc">Seis hitos desde hoy hasta el examen: inventario, bloques débiles, simulacro, errores, descanso y prueba.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 3 · Preparar un examen</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">Plan de examen hacia atrás</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">Primero se decide qué debe estar aprendido el día de la prueba</text>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="214" width="162" height="262" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="64" y="214" width="162" height="42" rx="16" fill="#dce9ff"/><rect x="64" y="238" width="162" height="18" fill="#dce9ff"/>
+  <text x="88" y="241" font-size="14" font-weight="700" fill="#1d4ed8">HOY</text>
+  <text x="88" y="288" font-size="19" font-weight="700" fill="#0c1424">Inventario</text>
+  <text x="88" y="316" font-size="14" fill="#46536a">Qué entra y</text>
+  <text x="88" y="335" font-size="14" fill="#46536a">cuánto pesa.</text>
+  <rect x="88" y="358" width="114" height="1" fill="#e1e7f0"/>
+  <text x="88" y="386" font-size="14" font-weight="700" fill="#2563eb">Simulacro corto</text>
+  <text x="88" y="408" font-size="14" fill="#46536a">Para saber qué</text>
+  <text x="88" y="427" font-size="14" fill="#46536a">falla ya.</text>
+
+  <rect x="246" y="214" width="162" height="262" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="246" y="214" width="162" height="42" rx="16" fill="#eff6ff"/><rect x="246" y="238" width="162" height="18" fill="#eff6ff"/>
+  <text x="270" y="241" font-size="14" font-weight="700" fill="#1d4ed8">D-14</text>
+  <text x="270" y="288" font-size="19" font-weight="700" fill="#0c1424">Bloques débiles</text>
+  <text x="270" y="316" font-size="14" fill="#46536a">Dos temas por</text>
+  <text x="270" y="335" font-size="14" fill="#46536a">sesión, no más.</text>
+  <rect x="270" y="358" width="114" height="1" fill="#e1e7f0"/>
+  <text x="270" y="386" font-size="14" font-weight="700" fill="#2563eb">Preguntas</text>
+  <text x="270" y="408" font-size="14" fill="#46536a">Recuperar, no</text>
+  <text x="270" y="427" font-size="14" fill="#46536a">releer.</text>
+
+  <rect x="428" y="214" width="162" height="262" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="428" y="214" width="162" height="42" rx="16" fill="#fffbeb"/><rect x="428" y="238" width="162" height="18" fill="#fffbeb"/>
+  <text x="452" y="241" font-size="14" font-weight="700" fill="#92400e">D-7</text>
+  <text x="452" y="288" font-size="19" font-weight="700" fill="#0c1424">Simulacro</text>
+  <text x="452" y="316" font-size="14" fill="#46536a">Completo, con</text>
+  <text x="452" y="335" font-size="14" fill="#46536a">tiempo y criterios.</text>
+  <rect x="452" y="358" width="114" height="1" fill="#e1e7f0"/>
+  <text x="452" y="386" font-size="14" font-weight="700" fill="#2563eb">Corrige</text>
+  <text x="452" y="408" font-size="14" fill="#46536a">Anota los fallos</text>
+  <text x="452" y="427" font-size="14" fill="#46536a">repetidos.</text>
+
+  <rect x="610" y="214" width="162" height="262" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="610" y="214" width="162" height="42" rx="16" fill="#fffbeb"/><rect x="610" y="238" width="162" height="18" fill="#fffbeb"/>
+  <text x="634" y="241" font-size="14" font-weight="700" fill="#92400e">D-2</text>
+  <text x="634" y="288" font-size="19" font-weight="700" fill="#0c1424">Solo errores</text>
+  <text x="634" y="316" font-size="14" fill="#46536a">Fichas de lo que</text>
+  <text x="634" y="335" font-size="14" fill="#46536a">has fallado.</text>
+  <rect x="634" y="358" width="114" height="1" fill="#e1e7f0"/>
+  <text x="634" y="386" font-size="14" font-weight="700" fill="#2563eb">Nada nuevo</text>
+  <text x="634" y="408" font-size="14" fill="#46536a">Mantén lo que</text>
+  <text x="634" y="427" font-size="14" fill="#46536a">ya funciona.</text>
+
+  <rect x="792" y="214" width="162" height="262" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <rect x="792" y="214" width="162" height="42" rx="16" fill="#f0fdf4"/><rect x="792" y="238" width="162" height="18" fill="#f0fdf4"/>
+  <text x="816" y="241" font-size="14" font-weight="700" fill="#15803d">D-1</text>
+  <text x="816" y="288" font-size="19" font-weight="700" fill="#0c1424">Descanso</text>
+  <text x="816" y="316" font-size="14" fill="#46536a">Repaso ligero</text>
+  <text x="816" y="335" font-size="14" fill="#46536a">de 20 minutos.</text>
+  <rect x="816" y="358" width="114" height="1" fill="#e1e7f0"/>
+  <text x="816" y="386" font-size="14" font-weight="700" fill="#15803d">Duerme</text>
+  <text x="816" y="408" font-size="14" fill="#46536a">La memoria se</text>
+  <text x="816" y="427" font-size="14" fill="#46536a">consolida.</text>
+
+  <rect x="974" y="214" width="162" height="262" rx="16" fill="#1e3a8a"/>
+  <rect x="974" y="214" width="162" height="42" rx="16" fill="#2563eb"/><rect x="974" y="238" width="162" height="18" fill="#2563eb"/>
+  <text x="998" y="241" font-size="14" font-weight="700" fill="#ffffff">DÍA</text>
+  <text x="998" y="288" font-size="19" font-weight="700" fill="#ffffff">Examen</text>
+  <text x="998" y="316" font-size="14" fill="#dce9ff">Sin apuntes.</text>
+  <text x="998" y="335" font-size="14" fill="#dce9ff">Primero lo que</text>
+  <text x="998" y="354" font-size="14" fill="#dce9ff">dominas.</text>
+  <rect x="998" y="374" width="114" height="1" fill="#3b82f6"/>
+  <text x="998" y="402" font-size="14" font-weight="700" fill="#93c5fd">Lee dos veces</text>
+  <text x="998" y="424" font-size="14" fill="#dce9ff">Antes de</text>
+  <text x="998" y="443" font-size="14" fill="#dce9ff">responder.</text>
+</g>
+
+<g stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrow)">
+  <path d="M226 340 H240"/>
+  <path d="M408 340 H422"/>
+  <path d="M590 340 H604"/>
+  <path d="M772 340 H786"/>
+  <path d="M954 340 H968"/>
+</g>
+
+<rect x="64" y="520" width="1072" height="54" rx="14" fill="#ffffff" stroke="#e1e7f0"/>
+<text x="92" y="553" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#0c1424"><tspan font-weight="700">Regla:</tspan> si el plan no cabe, se recorta contenido; no se recorta el descanso ni el simulacro.</text>
+</svg>

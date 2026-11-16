@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">El calendario hace el trabajo</title>
+<desc id="desc">Línea de tiempo de repaso a los cero, dos, siete y catorce días, con la técnica y la herramienta de cada momento.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 2 · Rutina</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">El calendario hace el trabajo</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">La IA prepara los materiales; tú cumples los repasos</text>
+
+<line x1="110" y1="378" x2="1090" y2="378" stroke="#cbd5e1" stroke-width="4"/>
+<path d="M1080 378 H1094" stroke="#2563eb" stroke-width="4" marker-end="url(#arrow)"/>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <circle cx="160" cy="378" r="18" fill="#2563eb"/>
+  <text x="160" y="384" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">0</text>
+  <text x="160" y="330" text-anchor="middle" font-size="20" font-weight="700" fill="#0c1424">Hoy</text>
+  <text x="160" y="306" text-anchor="middle" font-size="15" fill="#46536a">Leer y anotar</text>
+  <text x="160" y="420" text-anchor="middle" font-size="15" font-weight="700" fill="#2563eb">Cuaderno</text>
+  <text x="160" y="442" text-anchor="middle" font-size="14" fill="#64748b">Apuntes propios</text>
+
+  <circle cx="450" cy="378" r="18" fill="#2563eb"/>
+  <text x="450" y="384" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">+2</text>
+  <text x="450" y="330" text-anchor="middle" font-size="20" font-weight="700" fill="#0c1424">Dos días</text>
+  <text x="450" y="306" text-anchor="middle" font-size="15" fill="#46536a">Recordar sin mirar</text>
+  <text x="450" y="420" text-anchor="middle" font-size="15" font-weight="700" fill="#2563eb">Papel</text>
+  <text x="450" y="442" text-anchor="middle" font-size="14" fill="#64748b">Tres preguntas</text>
+
+  <circle cx="740" cy="378" r="18" fill="#2563eb"/>
+  <text x="740" y="384" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">+7</text>
+  <text x="740" y="330" text-anchor="middle" font-size="20" font-weight="700" fill="#0c1424">Una semana</text>
+  <text x="740" y="306" text-anchor="middle" font-size="15" fill="#46536a">Cuestionario y fallos</text>
+  <text x="740" y="420" text-anchor="middle" font-size="15" font-weight="700" fill="#2563eb">NotebookLM</text>
+  <text x="740" y="442" text-anchor="middle" font-size="14" fill="#64748b">Preguntas con cita</text>
+
+  <circle cx="1030" cy="378" r="18" fill="#2563eb"/>
+  <text x="1030" y="384" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">+14</text>
+  <text x="1030" y="330" text-anchor="middle" font-size="20" font-weight="700" fill="#0c1424">Dos semanas</text>
+  <text x="1030" y="306" text-anchor="middle" font-size="15" fill="#46536a">Explicar y simular</text>
+  <text x="1030" y="420" text-anchor="middle" font-size="15" font-weight="700" fill="#2563eb">Sin IA</text>
+  <text x="1030" y="442" text-anchor="middle" font-size="14" fill="#64748b">Voz alta y examen</text>
+</g>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="490" width="330" height="78" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="88" y="522" font-size="17" font-weight="700" fill="#0c1424">Recuperar &gt; releer</text>
+  <text x="88" y="546" font-size="15" fill="#46536a">Tapar y responder, no repasar.</text>
+
+  <rect x="414" y="490" width="360" height="78" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="438" y="522" font-size="17" font-weight="700" fill="#0c1424">Espaciar &gt; atracar</text>
+  <text x="438" y="546" font-size="15" fill="#46536a">Cuatro sesiones cortas &gt; una maratón.</text>
+
+  <rect x="794" y="490" width="342" height="78" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="818" y="522" font-size="17" font-weight="700" fill="#0c1424">Explicar &gt; reconocer</text>
+  <text x="818" y="546" font-size="15" fill="#46536a">Reconocer al leer no es saber.</text>
+</g>
+<text x="64" y="604" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#46536a">Escuchar un audio o releer un resumen da sensación de avance, no memoria.</text>
+</svg>

@@ -15,7 +15,6 @@ class: visual-slide
 <div class="visual-caption">La tabla desmiente el 40 %: primero se clasifica, después se corrige.</div>
 
 ---
----
 
 ## La sesión no introduce contenidos nuevos
 
@@ -74,6 +73,34 @@ El foco es el proceso de aprendizaje, no el juicio al alumnado. Un caso mal gest
 </div>
 
 ---
+class: compact-slide
+---
+
+## Caso E · FP Básica: el paso inventado
+
+Un tutorial de taller pide a la IA un resumen del procedimiento. El resumen añade «espera diez minutos antes de abrir», una instrucción que no existe en la ficha oficial de seguridad.
+
+**Qué hacer:** parar la actividad y comparar con el procedimiento oficial. En seguridad no se acepta una instrucción inventada aunque suene prudente. El grupo rehace el resumen citando la ficha.
+
+---
+class: compact-slide
+---
+
+## Caso F · Bachillerato: la fuente contradice
+
+Un trabajo de Historia afirma que la crisis de 1929 apenas afectó a Europa. El libro dice lo contrario y el resumen generado omitió el dato. El alumno no abrió la fuente.
+
+**Qué hacer:** volver al capítulo, localizar la frase exacta y reescribir el párrafo con cita. La pregunta no es «¿falló la IA?», sino «¿qué fuente tenía autoridad y por qué no la comprobaste?».
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/caso-clasificar.svg" alt="Cuatro tipos de error y su respuesta: inventado, mal interpretado, opinión y omisión" />
+
+<div class="visual-caption">Clasificar evita tratarlo todo como copia o aceptarlo todo porque suena bien.</div>
+
+---
 layout: image-right
 image: /imagenes/nivel-fp-comercio.jpg
 ---
@@ -90,6 +117,19 @@ image: /imagenes/nivel-fp-comercio.jpg
 class: compact-slide
 ---
 
+## De la frase a la evidencia
+
+| Frase del trabajo | Qué falta | Pregunta de defensa |
+| --- | --- | --- |
+| «Las ventas subieron un 40 %» | La fila de la tabla | ¿De qué dato sale? |
+| «El vídeo funcionó mejor» | La métrica | ¿Mejor en qué? |
+| «La campaña fue un éxito» | El objetivo | ¿Qué contaba como éxito? |
+| «El plazo es de diez días» | La excepción | ¿Qué caso cambia el resultado? |
+
+---
+class: compact-slide
+---
+
 ## Tu plan de aplicación
 
 1. **Qué:** una práctica concreta que vas a cambiar.
@@ -100,6 +140,39 @@ class: compact-slide
 
 <div class="info">
 No es un entregable: es una decisión que puedes ejecutar la semana siguiente.
+</div>
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/plan-aplicacion.svg" alt="Plan de aplicación de una página con qué, con quién, cómo, prueba y fecha" />
+
+<div class="visual-caption">Un plan útil cabe en una página y tiene fecha; lo demás son buenas intenciones.</div>
+
+---
+class: compact-slide
+---
+
+## Role-play de defensa · 5 minutos
+
+<div class="step">
+  <div class="step-number">1</div>
+  <div class="step-content"><strong>¿De qué fuente sale esta afirmación?</strong> El alumno debe señalar la fila, el párrafo o el artículo.</div>
+</div>
+
+<div class="step">
+  <div class="step-number">2</div>
+  <div class="step-content"><strong>¿Qué alternativa descartaste?</strong> Explica por qué eligió esa métrica o esa norma.</div>
+</div>
+
+<div class="step">
+  <div class="step-number">3</div>
+  <div class="step-content"><strong>¿Qué medirías para demostrarlo?</strong> Convierte la opinión en una prueba comprobable.</div>
+</div>
+
+<div class="success">
+No se evalúa si acierta a la primera, sino si puede reconstruir el proceso sin el texto delante.
 </div>
 
 ---

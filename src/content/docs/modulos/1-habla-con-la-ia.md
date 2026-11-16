@@ -79,6 +79,13 @@ Restricciones: no inventes fechas ni datos que no aparezcan en el documento que 
 
 La segunda instrucción no es más larga por lucirse: cada frase elimina una decisión que, si no tomas tú, toma el modelo por su cuenta.
 
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/prompt-diagnostico.svg" alt="Comparación entre una petición vaga, con cinco decisiones sin resolver, y una petición precisa con nivel, objetivo, formato, límites y prueba." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. La petición vaga deja cinco decisiones en manos del modelo; la precisa las toma el docente.</figcaption>
+</figure>
+
 ## 4. Anatomía de una buena instrucción
 
 | Pieza | Pregunta que responde | Ejemplo |
@@ -131,6 +138,13 @@ Un prompt no es una apuesta única. La conversación es parte del método:
 - **Voz propia:** si no puedes explicarlo sin leerlo, no lo has entendido.
 </div>
 
+<figure class="page-visual is-diagram">
+  <div class="page-visual-frame">
+    <img src="/imagenes/verificacion-datos.svg" alt="Cinco comprobaciones: fecha, cita, cálculo, norma y explicación con palabras propias." width="1200" height="630" loading="lazy" />
+  </div>
+  <figcaption>Esquema propio. Verificar no es releer: es abrir la fuente, rehacer la cuenta y explicar sin apoyo.</figcaption>
+</figure>
+
 ## Ejemplo práctico del módulo
 
 **Situación:** una profesora de 4.º de ESO quiere que su alumnado prepare el examen de la Revolución Industrial sin limitarse a releer.
@@ -168,6 +182,48 @@ Una tabla de 6–8 filas con tiempos realistas (por ejemplo, 15 minutos para cau
 **Enlace al resultado desarrollado:** [Ejemplo de ESO · preparar un examen de Historia](/niveles/eso/).
 
 **Comprobación:** el alumnado debe marcar en los apuntes la línea exacta que respalda cada respuesta esperada. Las filas que no se puedan respaldar se eliminan.
+
+## Dos ejemplos más, en otras materias
+
+### Bachillerato · Física: pistas antes que solución
+
+<div class="prompt-box">
+<span class="label">Prompt</span>
+Actúa como profesor de Física de 1.º de Bachillerato.
+
+Contexto: un alumno ha resuelto mal un problema de plano inclinado y no sé en qué paso se ha perdido. Adjunto el enunciado y su solución.
+
+Tarea: hazme tres preguntas de diagnóstico, de la más básica a la más específica, y una pista para cada una. No escribas la solución completa.
+
+Formato: tabla con pregunta, pista y error que permite detectar.
+
+Restricciones: usa solo el enunciado y la solución adjuntos; si falta un dato, dilo.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Tres preguntas que localizan el fallo —descomposición de fuerzas, signo de la componente o conversión de unidades— y pistas que permiten corregirlo sin entregar el resultado. El alumno vuelve a intentarlo y explica el paso que había fallado.
+</div>
+
+### Ciclos Formativos · Comercio: ficha de producto
+
+<div class="prompt-box">
+<span class="label">Prompt</span>
+Actúa como responsable de una tienda de deporte.
+
+Contexto: quiero preparar una ficha para una mochila de 24 litros dirigida a estudiantes de 16 a 18 años. Adjunto las características reales del fabricante.
+
+Tarea: escribe tres beneficios concretos, dos objeciones habituales con su respuesta y una frase de cierre para la conversación de venta.
+
+Formato: ficha breve con apartados.
+
+Restricciones: no inventes precios, medidas ni materiales; usa solo la ficha adjunta. Tono cercano, sin exageraciones.
+</div>
+
+<div class="example-result">
+<strong>Resultado esperado</strong>
+Una ficha usable en mostrador, con beneficios ligados a características reales y objeciones respondidas sin promesas falsas. El precio y la garantía se dejan como «consultar» si no constan en la ficha.
+</div>
 
 ## Errores frecuentes
 

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Seis fallos que se repiten</title>
+<desc id="desc">Riesgos de permisos, inyección, errores silenciosos, datos, coste y dependencia, con su medida.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+  </marker>
+</defs>
+<rect width="1200" height="630" fill="#f6f8fc"/>
+<circle cx="1112" cy="58" r="150" fill="#dce9ff" opacity="0.75"/>
+<circle cx="72" cy="594" r="96" fill="#dce9ff" opacity="0.55"/>
+<text x="64" y="66" font-family="Inter, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2563eb">Módulo 5 · Riesgos</text>
+<text x="64" y="126" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="800" fill="#0c1424">Seis fallos que se repiten</text>
+<text x="64" y="162" font-family="Inter, system-ui, sans-serif" font-size="21" fill="#46536a">La autonomía amplifica el acierto y también el error</text>
+
+<g font-family="Inter, system-ui, sans-serif">
+  <rect x="64" y="204" width="336" height="136" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="88" y="237" font-size="14" font-weight="700" fill="#b91c1c">01 · PERMISOS</text>
+  <text x="88" y="267" font-size="18" font-weight="700" fill="#0c1424">Acceso total al Drive</text>
+  <text x="88" y="292" font-size="15" fill="#46536a">Puede borrar lo que no debe.</text>
+  <text x="88" y="319" font-size="15" font-weight="700" fill="#2563eb">Permisos mínimos + copia.</text>
+
+  <rect x="432" y="204" width="336" height="136" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="456" y="237" font-size="14" font-weight="700" fill="#b91c1c">02 · INYECCIÓN</text>
+  <text x="456" y="267" font-size="18" font-weight="700" fill="#0c1424">Una web da órdenes</text>
+  <text x="456" y="292" font-size="15" fill="#46536a">El contenido externo no es fiable.</text>
+  <text x="456" y="319" font-size="15" font-weight="700" fill="#2563eb">Trátalo como dato, no como orden.</text>
+
+  <rect x="800" y="204" width="336" height="136" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="824" y="237" font-size="14" font-weight="700" fill="#b91c1c">03 · SILENCIO</text>
+  <text x="824" y="267" font-size="18" font-weight="700" fill="#0c1424">Falla y nadie lo ve</text>
+  <text x="824" y="292" font-size="15" fill="#46536a">El resumen sale incompleto.</text>
+  <text x="824" y="319" font-size="15" font-weight="700" fill="#2563eb">Revisión humana el primer mes.</text>
+
+  <rect x="64" y="362" width="336" height="136" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="88" y="395" font-size="14" font-weight="700" fill="#b91c1c">04 · DATOS</text>
+  <text x="88" y="425" font-size="18" font-weight="700" fill="#0c1424">Nombres reales</text>
+  <text x="88" y="450" font-size="15" fill="#46536a">Salen del centro sin control.</text>
+  <text x="88" y="477" font-size="15" font-weight="700" fill="#2563eb">Anonimiza y usa cuentas del centro.</text>
+
+  <rect x="432" y="362" width="336" height="136" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="456" y="395" font-size="14" font-weight="700" fill="#b91c1c">05 · COSTE</text>
+  <text x="456" y="425" font-size="18" font-weight="700" fill="#0c1424">Bucle sin fin</text>
+  <text x="456" y="450" font-size="15" fill="#46536a">Consume tiempo y cuota.</text>
+  <text x="456" y="477" font-size="15" font-weight="700" fill="#2563eb">Tope de tiempo, pasos y fuentes.</text>
+
+  <rect x="800" y="362" width="336" height="136" rx="16" fill="#ffffff" stroke="#e1e7f0"/>
+  <text x="824" y="395" font-size="14" font-weight="700" fill="#b91c1c">06 · DEPENDENCIA</text>
+  <text x="824" y="425" font-size="18" font-weight="700" fill="#0c1424">Nadie sabe hacerlo a mano</text>
+  <text x="824" y="450" font-size="15" fill="#46536a">Si el flujo se rompe, todo para.</text>
+  <text x="824" y="477" font-size="15" font-weight="700" fill="#2563eb">Documenta el proceso alternativo.</text>
+</g>
+
+<rect x="64" y="530" width="1072" height="52" rx="14" fill="#fffbeb" stroke="#fde68a"/>
+<text x="92" y="563" font-family="Inter, system-ui, sans-serif" font-size="18" fill="#422006"><tspan font-weight="700">Regla de entrada:</tspan> empieza con lectura y una carpeta de salida; no le des escritura amplia ni envíos automáticos.</text>
+</svg>

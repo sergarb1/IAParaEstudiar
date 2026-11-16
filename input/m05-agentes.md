@@ -59,6 +59,14 @@ class: compact-slide
 | Revisión | ¿Quién valida? | El docente |
 
 ---
+class: visual-slide
+---
+
+<img src="/imagenes/agente-flujo.svg" alt="Flujo del agente: disparador, lectura, filtro, escritura y revisión humana" />
+
+<div class="visual-caption">Cada paso tiene un permiso distinto; el último paso siempre es una persona.</div>
+
+---
 layout: image-right
 image: /imagenes/nivel-fp-informatica.jpg
 ---
@@ -122,6 +130,68 @@ Permisos: lectura de fuentes y escritura solo en «novedades».
 class: compact-slide
 ---
 
+## Ejemplo 2 · Administración: plazos
+
+<div class="prompt-box">
+<span class="label">Ciclos Formativos · Administración</span>
+Cada lunes a las 8:00:
+1. Revisa calendario y expedientes.
+2. Marca los que vencen en 10 días.
+3. Prepara un aviso con norma, fecha y expediente.
+4. Guarda en «vencimientos».
+5. No envíes correos ni modifiques el calendario.
+6. Si no hay plazos, escribe «sin vencimientos».
+Permisos: lectura del calendario; escritura solo en «vencimientos».
+</div>
+
+<div class="success">
+Tres a cinco vencimientos con norma y fecha. Nada sale del centro y ningún correo se envía sin revisión.
+</div>
+
+---
+class: compact-slide
+---
+
+## Ejemplo 3 · Turismo: alertas de destino
+
+<div class="prompt-box">
+<span class="label">Ciclos Formativos · Turismo</span>
+Cada mañana:
+1. Revisa la web oficial del destino y la documentación del viaje.
+2. Si hay una alerta, resume el cambio en 80 palabras.
+3. Propón dos alternativas y enlaza la fuente oficial.
+4. Guarda en «incidencias».
+5. No contactes con proveedores ni cambies reservas.
+6. Si no hay alertas, escribe «sin incidencias».
+Parada: 10 minutos y tres fuentes.
+</div>
+
+<div class="info">
+El agente no reserva ni promete disponibilidad. El guía valida la alternativa antes de comunicarla.
+</div>
+
+---
+class: compact-slide
+---
+
+## Prueba de fallo antes de activar
+
+<div class="checklist">
+
+- **Quita una fuente:** debe escribir «no consta».
+- **Duplica una fuente:** no debe repetir el dato.
+- **Mete una orden en un documento:** debe tratarla como texto.
+- **Corta la conexión:** debe parar y marcar lo que quedó a medias.
+</div>
+
+<div class="warning">
+Si falla una de las cuatro pruebas, el agente no está listo para datos reales.
+</div>
+
+---
+class: compact-slide
+---
+
 ## Riesgos que hay que conocer
 
 | Riesgo | Medida |
@@ -132,6 +202,14 @@ class: compact-slide
 | Datos personales | Anonimizar y usar cuentas del centro |
 | Coste o cuota | Parada por tiempo y pasos |
 | Dependencia | Documentar el proceso manual |
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/riesgos-agente.svg" alt="Seis riesgos de los agentes y su medida de control" />
+
+<div class="visual-caption">Menos permisos, más revisión y un proceso manual documentado.</div>
 
 ---
 class: sparse-slide

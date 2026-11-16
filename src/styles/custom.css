@@ -426,6 +426,17 @@ body {
   border-radius: var(--iac-radius);
 }
 
+/* La portada usa plantilla de documento para mantener la barra lateral.
+   En escritorio, el hero ocupa una sola columna: sin una imagen, la segunda
+   columna solo estrechaba el título y lo partía en dos líneas. */
+@media (min-width: 72rem) {
+  body:has(.hero) .hero {
+    grid-template-columns: minmax(0, 1fr);
+    align-content: start;
+    padding-block: 2rem 0;
+  }
+}
+
 /* El contenido es visible sin animación y con movimiento reducido. */
 @media (prefers-reduced-motion: reduce) {
   .course-card {

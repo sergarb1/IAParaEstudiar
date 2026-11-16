@@ -47,7 +47,6 @@ class: compact-slide
 </div>
 
 ---
----
 
 ## La instrucción importa más que la herramienta
 
@@ -86,7 +85,6 @@ image: /imagenes/nivel-eso.jpg
 [Ver el ejemplo de ESO](https://sergarb1.github.io/IAParaEstudiar/niveles/eso/)
 
 ---
----
 
 ## Anatomía de una buena instrucción
 
@@ -114,6 +112,14 @@ image: /imagenes/nivel-eso.jpg
   <div class="step-number">5</div>
   <div class="step-content"><strong>Restricciones:</strong> no inventar, citar fuente, tono y límites.</div>
 </div>
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/prompt-diagnostico.svg" alt="Comparación entre una petición vaga y una precisa" />
+
+<div class="visual-caption">La petición vaga deja cinco decisiones al modelo; la precisa las toma el docente.</div>
 
 ---
 class: compact-slide
@@ -155,6 +161,22 @@ Un prompt no es una apuesta única. La conversación es parte del método.
 class: compact-slide
 ---
 
+## Tres ejemplos, tres materias
+
+| Materia | Petición | Comprobación |
+| --- | --- | --- |
+| **4.º ESO · Historia** | Plan de repaso de 45 min con preguntas | Cada respuesta, en los apuntes |
+| **1.º Bach · Física** | Tres pistas para un plano inclinado | Rehacer el cálculo a mano |
+| **Comercio** | Ficha de una mochila para 16–18 años | Precio y medidas reales |
+
+<div class="success">
+El patrón es el mismo. Cambia la materia y el material; no cambia la estructura ni la comprobación.
+</div>
+
+---
+class: compact-slide
+---
+
 ## Verifica antes de usar
 
 - **Datos y fechas:** contrástalos con el libro o una fuente oficial.
@@ -166,6 +188,14 @@ class: compact-slide
 <div class="warning">
 Las referencias inventadas son el fallo más frecuente y el más difícil de detectar sin abrir la fuente.
 </div>
+
+---
+class: visual-slide
+---
+
+<img src="/imagenes/verificacion-datos.svg" alt="Cinco comprobaciones: fecha, cita, cálculo, norma y explicación propia" />
+
+<div class="visual-caption">Verificar no es releer: es abrir la fuente, rehacer la cuenta y explicar sin apoyo.</div>
 
 ---
 class: compact-slide
@@ -185,6 +215,44 @@ Restricciones: usa solo el documento. Si falta un dato, escribe «no consta».
 Resultado: tabla de 6–8 filas con tiempos realistas y preguntas que obligan a recordar.
 
 [Ver el ejemplo completo](https://sergarb1.github.io/IAParaEstudiar/niveles/eso/)
+
+---
+class: compact-slide
+---
+
+## Ejemplo 2 · Física: pista, no solución
+
+<div class="prompt-box">
+<span class="label">1.º Bachillerato · plano inclinado</span>
+Actúa como profesor de Física.
+Contexto: el alumno falla un plano inclinado. Adjunto enunciado y solución.
+Tarea: tres preguntas de diagnóstico y una pista para cada una.
+Formato: tabla pregunta / pista / error que detecta.
+Restricciones: no des la solución; usa solo lo adjunto.
+</div>
+
+<div class="success">
+El alumno localiza el fallo y vuelve a intentarlo. La IA no resuelve por él.
+</div>
+
+---
+class: compact-slide
+---
+
+## Ejemplo 3 · Comercio: ficha de producto
+
+<div class="prompt-box">
+<span class="label">Ciclos Formativos · tienda de deporte</span>
+Actúa como responsable de tienda.
+Contexto: ficha de una mochila de 24 litros para estudiantes de 16 a 18 años. Adjunto características reales.
+Tarea: tres beneficios, dos objeciones con respuesta y una frase de cierre.
+Formato: ficha breve por apartados.
+Restricciones: no inventes precio, medidas ni materiales.
+</div>
+
+<div class="info">
+Si el precio no consta, se escribe «consultar». Una ficha útil no necesita inventar nada.
+</div>
 
 ---
 class: compact-slide
