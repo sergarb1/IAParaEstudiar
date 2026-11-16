@@ -38,6 +38,30 @@ Restricciones: usa solo los puntos y horarios adjuntos. No inventes precios ni h
 Un itinerario realista con tiempos de desplazamiento, huecos para descanso y alternativa de lluvia. Los datos no comprobados quedan marcados para verificar.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Itinerario de tres días · grupo de 20 personas mayores</strong></p>
+<p><strong>Día 1</strong></p>
+<ul>
+<li>10:00 · Museo principal (2 h). Desplazamiento a pie, 15 min. Accesible. Alternativa de lluvia: mismo museo, entrada cubierta.</li>
+<li>13:00 · Comida en el centro (1 h 30).</li>
+<li>16:00 · Plaza y paseo corto (1 h). Bancos cada 100 m.</li>
+</ul>
+<p><strong>Día 2</strong></p>
+<ul>
+<li>10:00 · Catedral (1 h 30). <em>Horario: verificar</em> en la web oficial.</li>
+<li>12:00 · Paseo hasta el mirador (40 min, ritmo lento).</li>
+<li>17:00 · Merienda y descanso.</li>
+</ul>
+<p><strong>Día 3</strong></p>
+<ul>
+<li>10:00 · Mercado municipal (1 h). Acceso sin escalones.</li>
+<li>12:00 · Jardín histórico (1 h).</li>
+<li>17:00 · Cierre y traslado.</li>
+</ul>
+<p><em>Regla aplicada:</em> máximo 4 horas de actividad diaria, con huecos de descanso. Los precios no se incluyen porque no constan en las fuentes.</p>
+</div>
+
 **Comprobación:** cada horario se contrasta con la web oficial del recurso y cada desplazamiento con un mapa. Las casillas «verificar» se completan antes de la entrega.
 
 <div class="teacher-note">
@@ -64,6 +88,25 @@ Con las fuentes oficiales de este cuaderno (web de turismo, transporte y consula
 Un resumen con citas, una tabla de transporte con fuente y tres normas concretas. Los datos ausentes se señalan en lugar de completarse con conocimiento general.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Documentación para un viajero con nacionalidad española</strong></p>
+<p>Se requiere pasaporte o DNI en vigor. Para estancias superiores a la duración permitida, comprobar visado y seguro en la web del consulado <em>[cita: consulado, apartado «Entrada»]</em>. La documentación sanitaria se recomienda, pero no consta como obligatoria en las fuentes.</p>
+<p><strong>Transporte aeropuerto-centro</strong></p>
+<ul>
+<li><strong>Tren:</strong> 30 min, 4,50 €. Fuente: web de transporte, consultada el 12/11.</li>
+<li><strong>Autobús:</strong> 45 min, 2,90 €. Fuente: web de transporte.</li>
+<li><strong>Taxi:</strong> 25 min, unos 30 €. Fuente: web del aeropuerto. <em>Precio a confirmar.</em></li>
+</ul>
+<p><strong>Tres normas locales</strong></p>
+<ol>
+<li>Validar el billete antes de subir al transporte público.</li>
+<li>Respetar el horario de silencio en el alojamiento.</li>
+<li>Separar residuos según los contenedores indicados.</li>
+</ol>
+<p><em>Aviso:</em> los precios y horarios pueden haber cambiado; cada dato lleva fecha de consulta y se revisa antes de publicarlo.</p>
+</div>
+
 **Comprobación:** se abren las fuentes citadas y se comprueba la fecha de actualización. Si la web oficial no confirma un precio, no se publica la cifra.
 
 <div class="teacher-note">
@@ -87,6 +130,17 @@ Responde como profesional: escucha, haz preguntas para verificar, propón dos al
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Una simulación con preguntas de verificación, alternativas concretas y una evaluación final. El tutor no debe resolver la incidencia por el alumnado.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Cliente:</strong> ¡Mi reserva no existe y perdemos el vuelo en cuatro horas!</p>
+<p><strong>Profesional:</strong> Siento mucho la situación. Me llamo [nombre] y voy a comprobarlo ahora mismo. ¿Me facilita el localizador y el nombre de la reserva?</p>
+<p><strong>Cliente:</strong> Sí, aquí está. Pero necesitamos dormir esta noche.</p>
+<p><strong>Profesional:</strong> Gracias. Veo que la reserva no está confirmada con el hotel. Tengo dos alternativas: un hotel a diez minutos con traslado incluido, o el mismo hotel con entrada garantizada esta noche. ¿Cuál prefiere?</p>
+<p><strong>Cliente:</strong> El que esté más cerca del aeropuerto.</p>
+<p><strong>Profesional:</strong> Perfecto. Le confirmo por escrito la nueva reserva, el traslado y el teléfono de contacto. Si el hotel no responde en quince minutos, le llamo yo.</p>
+<p><strong>Evaluación:</strong> empatía y disculpa inicial, verificación con datos, dos alternativas concretas y un siguiente paso con plazo. Mejora: confirmar por escrito antes de colgar.</p>
 </div>
 
 **Comprobación:** la actuación se contrasta con el protocolo del centro o de la agencia. Se repite la simulación aplicando las tres mejoras.

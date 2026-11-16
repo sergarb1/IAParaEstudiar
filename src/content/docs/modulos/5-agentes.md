@@ -92,6 +92,18 @@ Permisos: solo lectura de las fuentes y escritura en la carpeta «novedades». N
 Un documento semanal con tres o cuatro cambios relevantes, cada uno con enlace y ejemplo. Si una versión no afecta al temario, el documento lo dice en una línea. Nada se publica sin revisión del docente.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Novedades · viernes 14 de noviembre</strong></p>
+<ol>
+<li><strong>Nueva opción de configuración.</strong> Permite fijar el tiempo de espera del cliente. Fuente: notas de versión, sección «Cliente». Ejemplo: <code>Cliente(tiempo_espera=10)</code>.</li>
+<li><strong>Método obsoleto.</strong> Se sustituye por la función del módulo de texto. Fuente: guía de migración, apartado 2.</li>
+<li><strong>Nuevo requisito de lenguaje.</strong> Afecta al entorno del aula. Fuente: página de instalación.</li>
+</ol>
+<p><strong>Sin cambios:</strong> la semana anterior no hubo cambios que afectaran al temario; el agente escribió «sin cambios» y terminó.</p>
+<p><em>Pendiente:</em> revisión docente de los enlaces y ejecución de los ejemplos.</p>
+</div>
+
 **Enlace al resultado desarrollado:** [Ejemplo de FP Superior · Informática](/niveles/fp-informatica/).
 
 ## 6. Riesgos que hay que conocer

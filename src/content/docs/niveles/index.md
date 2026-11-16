@@ -35,11 +35,12 @@ La idea es que puedas copiar el prompt, cambiar el contenido por el tuyo y lleva
 - **Contexto:** la situación de aula que se quiere resolver.
 - **Prompt:** el texto completo que se escribe en la herramienta.
 - **Resultado esperado:** qué debe devolver y qué señales indican que es útil.
+- **Ejemplo de respuesta:** una salida completa generada para el curso, con el formato y el nivel que se buscan.
 - **Comprobación:** la verificación obligatoria antes de usarlo.
 - **Nota docente:** la adaptación, el riesgo o la variante para ese nivel.
 </div>
 
 <div class="teacher-note">
   <strong>Advertencia</strong>
-  Los resultados son ilustrativos. Las herramientas cambian y un mismo prompt puede producir respuestas distintas según el modelo, la fecha y las fuentes. Lo que se enseña es el método, no una salida concreta.
+  Los resultados son ilustrativos. Las respuestas de ejemplo se han generado para este curso y no son una salida única: cambian según el modelo, la fecha y las fuentes. Los datos ficticios y las marcas «verificar» o «no consta» forman parte del método y deben contrastarse antes de usarlos.
 </div>

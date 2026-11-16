@@ -103,6 +103,21 @@ A partir exclusivamente de las tres fuentes de este cuaderno:
 Un resumen con citas clicables, una tabla de conceptos confundibles y diez preguntas con referencia. Si las fuentes discrepan en una cifra o en una definición, debe aparecer una advertencia en lugar de una síntesis silenciosa.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Extracto del resumen</strong></p>
+<p>El metabolismo agrupa las reacciones químicas de la célula. El catabolismo degrada moléculas y libera energía; el anabolismo construye moléculas y la consume <em>[cita: apuntes, p. 3]</em>. Las enzimas aceleran las reacciones y son específicas de cada sustrato <em>[cita: libro, cap. 6]</em>.</p>
+<p><strong>Tres conceptos confundibles</strong></p>
+<ul>
+<li><strong>Catabolismo / anabolismo:</strong> degradar y liberar energía frente a construir y consumirla.</li>
+<li><strong>Enzima / coenzima:</strong> proteína catalizadora frente a molécula que ayuda a la enzima.</li>
+<li><strong>Aerobio / anaerobio:</strong> con oxígeno y más energía frente a sin oxígeno y menos energía.</li>
+</ul>
+<p><strong>Pregunta con fuente</strong></p>
+<p>¿Por qué una enzima es específica? <em>(libro, cap. 6)</em></p>
+<p><em>Aviso:</em> la infografía no indica el rendimiento energético; se marca «no consta» en lugar de completarlo.</p>
+</div>
+
 **Enlace al resultado desarrollado:** [Ejemplo de Bachillerato · sistema de estudio de Biología](/niveles/bachillerato/).
 
 **Comprobación:** elegir dos citas al azar y abrir el fragmento original. Si la cita no respalda la frase, el material no se usa.

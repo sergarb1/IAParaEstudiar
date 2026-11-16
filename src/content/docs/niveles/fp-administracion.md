@@ -38,6 +38,16 @@ Restricciones: usa solo la plantilla y la normativa adjunta; no inventes artícu
 Un borrador con los datos del expediente, la lista exacta de documentos, el plazo respaldado por la norma adjunta y una advertencia de archivo. Ninguna referencia legal inventada.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Oficina de Subvenciones · Expediente SUB-2026-0142</strong></p>
+<p><strong>Entidad:</strong> Ejemplo S. L. <strong>Procedimiento:</strong> subvención para pequeñas empresas.</p>
+<p><strong>Hechos.</strong> Revisada la documentación presentada, se comprueba que falta el certificado de estar al corriente de pagos y que la memoria económica no está firmada.</p>
+<p><strong>Requerimiento.</strong> Se requiere a la entidad para que, en el plazo de diez días hábiles contados desde el día siguiente a la notificación, aporte el certificado de estar al corriente de pagos y la memoria económica firmada.</p>
+<p><strong>Advertencia.</strong> Transcurrido el plazo sin subsanar, se aplicará lo previsto en la normativa reguladora del procedimiento.</p>
+<p><em>Verificación:</em> el plazo y el precepto deben confirmarse con la base reguladora adjunta antes de firmar. Si no consta, se sustituye por «plazo según normativa aplicable».</p>
+</div>
+
 **Comprobación:** cada plazo y cada artículo se contrasta con la normativa adjunta. El documento se compara con la plantilla oficial antes de darlo por válido.
 
 <div class="teacher-note">
@@ -61,6 +71,17 @@ Cuando acierte, sube la dificultad con un caso de silencio administrativo. Al fi
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Preguntas encadenadas, correcciones con la norma aplicable y un cierre con tres puntos débiles. Debe negarse a resolver el supuesto antes del intento del alumnado.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Tutor:</strong> Supuesto: una solicitud llega incompleta. ¿Qué plazo tiene la Administración para requerir la subsanación y qué plazo tiene la persona interesada para responder?</p>
+<p><strong>Alumno:</strong> La Administración debe requerir en cualquier momento y la persona tiene diez días.</p>
+<p><strong>Tutor:</strong> La segunda parte es correcta si la norma aplicable fija diez días hábiles. Cítame el artículo de la base adjunta.</p>
+<p><strong>Alumno:</strong> Artículo 68.4 de la Ley 39/2015.</p>
+<p><strong>Tutor:</strong> Bien. Ahora un caso de silencio administrativo: solicitud de acceso a información pública sin resolución expresa. ¿Qué efecto produce el silencio?</p>
+<p><strong>Alumno:</strong> Depende de la norma sectorial.</p>
+<p><strong>Tutor:</strong> Correcto: no se inventa un sentido único. Cierre: repasa el plazo de subsanación, el artículo que lo regula y la regla de silencio aplicable a cada procedimiento.</p>
 </div>
 
 **Comprobación:** cada corrección se contrasta con el texto legal adjunto. Si el tutor cita un artículo inexistente, se descarta la corrección y se anota el fallo.
@@ -87,6 +108,31 @@ Con la ley, el reglamento y los modelos de este cuaderno:
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Un mapa de normas con citas, una tabla de plazos con artículo y cinco supuestos con la norma aplicable. Las remisiones sin respuesta se marcan como pendientes.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Mapa de normas</strong></p>
+<ul>
+<li><strong>Ley de procedimiento:</strong> regula plazos, subsanación, recursos y silencio.</li>
+<li><strong>Reglamento:</strong> desarrolla los trámites y los modelos.</li>
+<li><strong>Modelos oficiales:</strong> fijan el contenido mínimo de cada escrito.</li>
+</ul>
+<p><strong>Plazos localizados</strong></p>
+<ol>
+<li>Subsanación: diez días hábiles. Art. 68.4 de la Ley 39/2015.</li>
+<li>Recurso de alzada: un mes. Art. 122.1 de la Ley 39/2015.</li>
+<li>Otros plazos del reglamento: <em>verificar</em> en la sección citada.</li>
+</ol>
+<p><strong>Supuestos</strong></p>
+<ol>
+<li>Falta un documento: requerimiento de subsanación.</li>
+<li>Resolución desfavorable: recurso de alzada.</li>
+<li>Solicitud sin respuesta: aplicar la regla de silencio del procedimiento.</li>
+<li>Documento sin firma: requerir firma, no archivarlo directamente.</li>
+<li>Norma autonómica distinta: comprobar la remisión y la competencia.</li>
+</ol>
+<p><em>Pendiente:</em> una remisión del reglamento a una orden que no está en el cuaderno. Queda marcada, no resuelta por suposición.</p>
 </div>
 
 **Comprobación:** se abren los artículos citados y se comprueba el plazo. Los supuestos se resuelven en grupo y se comparan con la solución del docente.

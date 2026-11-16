@@ -141,6 +141,17 @@ Usa solo la normativa y los apuntes que te adjunto. Empieza preguntándome un su
 Una secuencia de preguntas encadenadas, correcciones con la norma aplicable y un cierre con tres puntos débiles concretos. El tutor debe negarse a resolver el supuesto antes de que el alumno lo intente.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Tutor:</strong> Supuesto: una solicitud llega incompleta. ¿Qué plazo tiene la persona interesada para subsanar?</p>
+<p><strong>Alumno:</strong> Diez días hábiles.</p>
+<p><strong>Tutor:</strong> Correcto si la base adjunta lo confirma. Cita el artículo.</p>
+<p><strong>Alumno:</strong> Artículo 68.4 de la Ley 39/2015.</p>
+<p><strong>Tutor:</strong> Bien. Ahora, solicitud de acceso a información pública sin resolución expresa. ¿Qué efecto produce el silencio?</p>
+<p><strong>Alumno:</strong> Depende de la norma sectorial.</p>
+<p><strong>Tutor:</strong> Exacto: no se inventa un sentido único. Cierre: repasa el plazo de subsanación, el artículo que lo regula y la regla de silencio de cada procedimiento.</p>
+</div>
+
 **Enlace al resultado desarrollado:** [Ejemplo de FP Superior · Administración](/niveles/fp-administracion/).
 
 **Comprobación:** cada corrección se contrasta con el texto de la norma o con los apuntes. Si el tutor cita un artículo que no existe, se descarta y se anota el fallo.

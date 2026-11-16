@@ -37,6 +37,29 @@ Después de que yo responda, corrige solo lo que esté mal y señala qué falta 
 Una batería de preguntas ordenadas por dificultad, sin párrafos redactados. La corrección posterior debe referirse a la rúbrica y no reescribir el comentario.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Preguntas sobre estructura y tesis</strong></p>
+<ol>
+<li>¿Dónde aparece la tesis y con qué fórmula se introduce?</li>
+<li>¿Qué párrafo funciona como introducción y cuál como conclusión?</li>
+<li>¿Qué dos argumentos sostienen la tesis? Cita la línea donde empieza cada uno.</li>
+<li>¿El texto presenta una sola postura o contrasta dos? Señala el giro.</li>
+<li>¿La conclusión repite la tesis o añade una consecuencia?</li>
+</ol>
+<p><strong>Recursos expresivos</strong></p>
+<ol>
+<li>Busca una metáfora en el segundo párrafo. ¿Qué término real sustituye?</li>
+<li>Localiza una interrogación retórica y explica a quién interpela.</li>
+<li>¿Hay enumeración o paralelismo? Copia el fragmento y di qué efecto busca.</li>
+</ol>
+<p><strong>Valoración crítica</strong></p>
+<ol>
+<li>¿Qué dato o experiencia falta para que el argumento sea convincente?</li>
+<li>¿Qué objeción pondrías a la tesis y cómo la responderías con el propio texto?</li>
+</ol>
+</div>
+
 **Comprobación:** el comentario final se lee en voz alta y se compara con la rúbrica. Si alguna frase no se puede defender, se elimina.
 
 <div class="teacher-note">
@@ -61,6 +84,25 @@ Usa exclusivamente las tres fuentes de este cuaderno.
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Resumen con citas, tabla de conceptos confundibles y diez preguntas con referencia. Si las fuentes discrepan en una cifra, debe advertirlo en lugar de sintetizar sin avisar.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Extracto del resumen</strong></p>
+<p>El metabolismo es el conjunto de reacciones químicas de la célula. Se divide en catabolismo, que libera energía al degradar moléculas, y anabolismo, que la consume al construir otras <em>[cita: apuntes, p. 3]</em>. Las enzimas aceleran estas reacciones y son específicas de cada sustrato <em>[cita: libro, cap. 6]</em>.</p>
+<p><strong>Conceptos que se confunden</strong></p>
+<ul>
+<li><strong>Catabolismo / anabolismo:</strong> degradar y liberar energía frente a construir y consumirla.</li>
+<li><strong>Enzima / coenzima:</strong> proteína catalizadora frente a molécula que ayuda a la enzima.</li>
+<li><strong>Respiración aerobia / anaerobia:</strong> con oxígeno y mucha energía frente a sin oxígeno y menos energía.</li>
+</ul>
+<p><strong>Preguntas con fuente</strong></p>
+<ol>
+<li>¿Qué diferencia hay entre catabolismo y anabolismo? <em>(apuntes, p. 3)</em></li>
+<li>¿Por qué una enzima es específica? <em>(libro, cap. 6)</em></li>
+<li>¿Qué produce la respiración anaerobia? <em>(infografía)</em></li>
+</ol>
+<p><em>Aviso:</em> la infografía no indica el rendimiento energético; se escribe «no consta» en lugar de completarlo.</p>
 </div>
 
 **Comprobación:** se abren dos citas al azar y se localiza el fragmento. Las preguntas se responden sin mirar y se corrigen con el resumen tapado.
@@ -88,6 +130,31 @@ Tema: [tema del trabajo]. Nivel: 2.º de Bachillerato. Extensión: 8 páginas.
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Preguntas acotadas, tipos de fuente y criterios de descarte. Ninguna referencia concreta sin verificar. El alumnado debe encontrar las fuentes en el catálogo o en buscadores académicos.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Preguntas de investigación</strong></p>
+<ol>
+<li>¿Cómo se relaciona el uso del móvil antes de dormir con la latencia del sueño en adolescentes?</li>
+<li>¿Influye el tipo de contenido (vídeo corto frente a lectura) en la calidad del sueño?</li>
+<li>¿Qué diferencias aparecen entre uso pasivo y uso interactivo?</li>
+<li>¿Qué papel tienen las notificaciones frente al tiempo total de pantalla?</li>
+<li>¿Qué intervenciones escolares han mostrado efecto sobre el descanso?</li>
+</ol>
+<p><strong>Fuentes y búsqueda</strong></p>
+<ul>
+<li>Revisión académica: busca en el catálogo «sleep adolescents screen use review».</li>
+<li>Organismo oficial: informes de salud pública y guías de sueño.</li>
+<li>Prensa de referencia: solo para el contexto social, no para la conclusión.</li>
+</ul>
+<p><strong>Criterios para descartar una fuente</strong></p>
+<ol>
+<li>No identifica autor, institución ni fecha.</li>
+<li>No explica la muestra o el método.</li>
+<li>Confunde correlación con causalidad.</li>
+</ol>
+<p><em>Referencias concretas:</em> «verificar en catálogo». No se inventan títulos ni enlaces.</p>
 </div>
 
 **Comprobación:** cada fuente usada tiene que existir y estar disponible. La bibliografía se revisa con el docente antes de la entrega. Las referencias inventadas eliminan la parte correspondiente.

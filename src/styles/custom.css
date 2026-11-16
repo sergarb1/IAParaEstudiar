@@ -223,6 +223,34 @@ body {
   color: var(--iac-green-strong);
 }
 
+.example-answer {
+  border: 1px solid var(--iac-line);
+  border-radius: var(--iac-radius);
+  background: var(--iac-paper);
+  padding: 1rem 1.1rem;
+  margin: 0.6rem 0 1.5rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.example-answer .label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--sl-color-text-accent);
+  margin-bottom: 0.5rem;
+}
+
+.example-answer p {
+  margin: 0.45rem 0;
+}
+
+.example-answer ol,
+.example-answer ul {
+  margin: 0.45rem 0 0.2rem;
+  padding-left: 1.2rem;
+}
+
 .checklist {
   border: 1px solid var(--iac-line);
   border-radius: var(--iac-radius);

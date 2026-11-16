@@ -109,6 +109,24 @@ Te adjunto el análisis de campaña de un grupo y la tabla de ventas real (anoni
 Una lista de afirmaciones problemáticas clasificadas por tipo, y tres preguntas de defensa que obligan a explicar el proceso. El resultado se usa para hablar con el grupo, no para calificar automáticamente.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Afirmaciones problemáticas</strong></p>
+<ol>
+<li>«Las ventas crecieron un 40 %»: <strong>dato inventado</strong>; la tabla muestra un 12 %.</li>
+<li>«El público de 25 a 34 años fue el más receptivo»: <strong>dato mal interpretado</strong>; la fila con más conversiones es la de 18 a 24.</li>
+<li>«La campaña fue un éxito»: <strong>opinión sin evidencia</strong>; no se define el objetivo.</li>
+<li>«El vídeo funcionó mejor»: <strong>dato mal interpretado</strong>; tuvo más impresiones y menos conversiones.</li>
+<li>«El descuento fue la clave»: <strong>opinión sin evidencia</strong>; no hay prueba de causalidad.</li>
+</ol>
+<p><strong>Preguntas de defensa</strong></p>
+<ol>
+<li>¿De qué fila sale el 40 %?</li>
+<li>¿Qué métrica usaste para comparar el vídeo con la imagen?</li>
+<li>¿Qué habría que medir para afirmar que el descuento causó las ventas?</li>
+</ol>
+</div>
+
 **Enlace al resultado desarrollado:** [Ejemplo de FP Superior · Comercio](/niveles/fp-comercio/).
 
 ## Para el docente

@@ -38,6 +38,24 @@ Restricciones: usa solo el documento adjunto. Si un dato no aparece, escribe «n
 Una tabla de 6–8 filas con tiempos realistas y preguntas que obligan a recordar. Las respuestas deben poder localizarse en los apuntes; si falta la mortalidad infantil, la tabla lo indica en vez de inventar una cifra.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Plan de repaso · Revolución Industrial (4.º ESO)</strong></p>
+<p><strong>Sesión 1 · 45 min</strong></p>
+<ol>
+<li><strong>Causas (15 min).</strong> Pregunta: «¿Qué dos cambios en el campo favorecieron el crecimiento de la población?» Respuesta: la rotación de cultivos y las mejoras técnicas agrícolas.</li>
+<li><strong>Inventos (15 min).</strong> Pregunta: «¿Qué aportó la máquina de vapor a la industria textil?» Respuesta: sustituyó la fuerza humana y animal por una fuente de energía continua.</li>
+<li><strong>Consecuencias (15 min).</strong> Pregunta: «¿Qué dos cambios sociales trajo la fábrica?» Respuesta: crecimiento de las ciudades y aparición de una clase obrera con horarios y condiciones duras.</li>
+</ol>
+<p><strong>Sesión 2 · 30 min</strong></p>
+<ol>
+<li>Repaso oral de las tres preguntas anteriores sin apuntes (10 min).</li>
+<li>Pregunta de control: «¿Por qué aumentó la producción con la industrialización?» Respuesta: por la concentración de máquinas, energía y trabajadores en fábricas (15 min).</li>
+<li>Anotar en el cuaderno las dos ideas que no se recuerden (5 min).</li>
+</ol>
+<p><em>No consta en los apuntes:</em> mortalidad infantil. No se incluye ninguna cifra.</p>
+</div>
+
 **Comprobación:** cada respuesta se subraya en los apuntes. Las filas sin respaldo se eliminan. El alumnado explica oralmente dos de las respuestas sin mirar.
 
 <div class="teacher-note">
@@ -65,6 +83,25 @@ Con las tres fuentes de este cuaderno:
 Un resumen con citas, una tabla comparativa y ocho preguntas con referencia. Las preguntas deben poder responderse con el material, no con conocimiento externo.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Extracto del resumen</strong></p>
+<p>La célula es la unidad básica de los seres vivos. Está limitada por una membrana que regula el intercambio con el exterior y contiene material genético <em>[cita: apuntes, p. 2]</em>. La célula animal y la vegetal comparten membrana, citoplasma y núcleo, pero la vegetal presenta pared celular, cloroplastos y una vacuola de mayor tamaño <em>[cita: libro, cap. 4]</em>.</p>
+<p><strong>Tabla de diferencias</strong></p>
+<ul>
+<li><strong>Pared celular:</strong> solo en la vegetal; da forma y protección.</li>
+<li><strong>Cloroplastos:</strong> solo en la vegetal; realizan la fotosíntesis.</li>
+<li><strong>Vacuola:</strong> grande y central en la vegetal; pequeñas o ausente en la animal.</li>
+</ul>
+<p><strong>Preguntas con fuente</strong></p>
+<ol>
+<li>¿Qué función tiene la membrana? <em>(apuntes, p. 2)</em></li>
+<li>¿Qué orgánulo realiza la fotosíntesis? <em>(libro, cap. 4)</em></li>
+<li>¿En qué se diferencian la vacuola animal y la vegetal? <em>(infografía)</em></li>
+</ol>
+<p><em>Aviso:</em> las fuentes no coinciden en el número de vacuolas animales; se indica «según la fuente» y no se unifica el dato.</p>
+</div>
+
 **Comprobación:** se abren dos citas al azar y se lee el fragmento original. Si la cita no respalda la frase, se descarta el resumen y se vuelve a preguntar indicando el error.
 
 <div class="teacher-note">
@@ -88,6 +125,17 @@ Empieza preguntándome por tres palabras del aeropuerto.
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Una secuencia de preguntas cortas, correcciones centradas en el error y un cierre con las palabras que hay que repasar. No debe soltar una lista de vocabulario al principio.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Tutor:</strong> You are at the airport. What do you call the place where you show your passport before boarding?</p>
+<p><strong>Alumno:</strong> The control? The police?</p>
+<p><strong>Tutor:</strong> Almost. The place is «passport control». «Police» is the people, not the place. Try again: «I went through ___ before boarding.»</p>
+<p><strong>Alumno:</strong> I went through passport control before boarding.</p>
+<p><strong>Tutor:</strong> Correct. Next: you arrive at the gate and the staff ask for your ___.</p>
+<p><strong>Alumno:</strong> Boarding pass.</p>
+<p><strong>Tutor:</strong> Good. Para cerrar, repasa «passport control», «boarding pass» y «departure gate». Mañana te pregunto las tres en una frase propia.</p>
 </div>
 
 **Comprobación:** las palabras corregidas se anotan en el cuaderno y se usan en una frase propia. El tutor no es la fuente de la lista: la lista sale de los apuntes.

@@ -38,6 +38,22 @@ Restricciones: no inventes materiales, medidas ni certificaciones. Usa solo la t
 Una ficha con las características exactas de la tabla, lenguaje claro y una llamada a la acción razonable. No debe aparecer ninguna propiedad que no esté en los datos.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Mochila impermeable 25 L · Orden diario</strong></p>
+<p>Una mochila de 25 litros para el día a día del instituto. La tela impermeable protege los libros de la lluvia y los dos compartimentos separan el ordenador de los cuadernos. Las correas acolchadas reparten el peso y la espalda ventilada evita que el sudor se acumule en el trayecto. Pesa 1,1 kg y cabe bajo el asiento del autobús. Disponible en azul y gris por 39,90 €.</p>
+<p><strong>Características</strong></p>
+<ul>
+<li>Capacidad de 25 litros.</li>
+<li>Tela impermeable.</li>
+<li>Dos compartimentos independientes.</li>
+<li>Correas acolchadas y espalda ventilada.</li>
+<li>Peso de 1,1 kg.</li>
+</ul>
+<p><strong>Cierre:</strong> Añádela al carrito y empieza el curso con todo ordenado.</p>
+<p><em>Sin inventar:</em> no se añaden certificaciones, garantías ni durabilidad «de por vida» porque no están en la tabla.</p>
+</div>
+
 **Comprobación:** cada característica se contrasta con la tabla. Se revisan las afirmaciones que podrían considerarse publicidad engañosa.
 
 <div class="teacher-note">
@@ -65,6 +81,24 @@ Te adjunto el análisis de campaña de un grupo y la tabla de ventas real (anoni
 Una lista de afirmaciones clasificadas por tipo y tres preguntas de defensa. Debe citar la fila o columna de la tabla que contradice cada afirmación.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Afirmaciones problemáticas</strong></p>
+<ol>
+<li>«Las ventas crecieron un 40 %»: <strong>dato inventado</strong>. La tabla muestra un 12 %.</li>
+<li>«El público de 25 a 34 años fue el más receptivo»: <strong>dato mal interpretado</strong>. La fila con más conversiones es la de 18 a 24.</li>
+<li>«La campaña fue un éxito»: <strong>opinión sin evidencia</strong>. No se define éxito ni se compara con el objetivo.</li>
+<li>«El vídeo funcionó mejor que la imagen»: <strong>dato mal interpretado</strong>. Tuvo más impresiones, pero menos conversiones.</li>
+<li>«El descuento fue la clave»: <strong>opinión sin evidencia</strong>. No hay prueba de que el descuento causara las ventas.</li>
+</ol>
+<p><strong>Preguntas para la defensa oral</strong></p>
+<ol>
+<li>¿De qué fila de la tabla sale el 40 %? Enséñamela.</li>
+<li>¿Qué métrica usaste para decidir que el vídeo funcionó mejor?</li>
+<li>¿Qué habría que medir para afirmar que el descuento fue la causa?</li>
+</ol>
+</div>
+
 **Comprobación:** el grupo responde por escrito a las tres preguntas y corrige su análisis. El docente compara la versión inicial con la corregida.
 
 <div class="teacher-note">
@@ -88,6 +122,17 @@ Haz una objeción cada vez y espera mi respuesta. No me des el argumentario. Si 
 <div class="example-result">
 <strong>Resultado esperado</strong>
 Objeciones realistas, réplicas que obligan a argumentar y una evaluación final con tres mejoras. No debe resolver la venta por el alumnado.
+</div>
+
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Cliente:</strong> Es caro. He visto una mochila parecida por menos dinero.</p>
+<p><strong>Alumno:</strong> Entiendo. Nuestra mochila es impermeable y tiene dos compartimentos, así que el precio está justificado.</p>
+<p><strong>Cliente:</strong> Eso ya lo pone la ficha. ¿Por qué debería pagar más?</p>
+<p><strong>Alumno:</strong> Porque dura más y protege mejor el ordenador.</p>
+<p><strong>Cliente:</strong> ¿Y cuánto dura?</p>
+<p><strong>Alumno:</strong> No tenemos ese dato.</p>
+<p><strong>Evaluación del tutor:</strong> has justificado antes de escuchar y has prometido durabilidad sin dato. Mejoras: 1) pregunta qué usa y cuánto carga; 2) compara precio por curso, no precio aislado; 3) cierra con una prueba concreta (garantía o devolución) que sí esté en la ficha.</p>
 </div>
 
 **Comprobación:** la grabación o el guion de la simulación se revisa con la rúbrica de comunicación. Las mejoras propuestas se aplican en una segunda ronda.

@@ -145,6 +145,18 @@ Restricciones: usa solo la información del documento adjunto. Si un dato no apa
 Una tabla de 6–8 filas con tiempos realistas (por ejemplo, 15 minutos para causas, 15 para inventos, 15 para consecuencias), preguntas que obligan a recordar y respuestas breves que permiten autocorregirse. Si el documento no menciona la mortalidad infantil, la tabla debe decirlo en vez de inventar una cifra.
 </div>
 
+<div class="example-answer">
+<span class="label">Ejemplo de respuesta</span>
+<p><strong>Plan de repaso · Revolución Industrial</strong></p>
+<ul>
+<li><strong>Causas (15 min).</strong> Pregunta: «¿Qué dos cambios agrícolas favorecieron el crecimiento de la población?» Respuesta: la rotación de cultivos y las mejoras técnicas.</li>
+<li><strong>Inventos (15 min).</strong> Pregunta: «¿Qué aportó la máquina de vapor?» Respuesta: una fuente de energía continua que sustituyó la fuerza humana y animal.</li>
+<li><strong>Consecuencias (15 min).</strong> Pregunta: «¿Qué dos cambios sociales trajo la fábrica?» Respuesta: crecimiento urbano y aparición de una clase obrera con jornadas duras.</li>
+<li><strong>Segunda sesión (30 min).</strong> Repaso oral de las tres preguntas y una pregunta de control sobre el aumento de la producción.</li>
+</ul>
+<p><em>No consta en los apuntes:</em> mortalidad infantil. No se inventa ninguna cifra.</p>
+</div>
+
 **Enlace al resultado desarrollado:** [Ejemplo de ESO · preparar un examen de Historia](/niveles/eso/).
 
 **Comprobación:** el alumnado debe marcar en los apuntes la línea exacta que respalda cada respuesta esperada. Las filas que no se puedan respaldar se eliminan.
